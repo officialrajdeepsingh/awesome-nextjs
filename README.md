@@ -10,6 +10,7 @@ List of NPM libraries that helps to build small and large-scale applications wit
 3. [Next auth](https://www.npmjs.com/package/next-auth)
 4. [Next pwa](https://www.npmjs.com/package/next-pwa)
 5. [Contentlayer](https://www.npmjs.com/package/contentlayer)
+6. [Nextjs progressbar](https://www.npmjs.com/package/nextjs-progressbar)
 
 ## State management
 1. [Zustand](https://github.com/pmndrs/zustand) 
