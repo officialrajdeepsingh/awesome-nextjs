@@ -31,7 +31,7 @@ List of NPM libraries that helps to build small and large-scale applications wit
 4.  [Meraki UI](https://merakiui.com/)
 5.  [Sailboat UI](https://sailboatui.com/)
 6.  [Kometa](https://kitwind.io/products/kometa/)
-7.  Headless UI
+7.  [Headless UI](https://headlessui.com/)
 8.  Daisy UI
 9.  Hyper UI
 10. Flowrift
