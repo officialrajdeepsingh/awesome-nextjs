@@ -36,8 +36,8 @@ List of NPM libraries that helps to build small and large-scale applications wit
 9.  [Hyper UI](https://www.hyperui.dev/)
 10. [Flowrift](https://flowrift.com/c/banner)
 11. [Tailwind UI kit](https://tailwinduikit.com/)
-12. Tailwind-kit
-13. Wickedblocks
+12. [Tailwind-kit](https://www.tailwind-kit.com/)
+13. [Wickedblocks](https://wickedblocks.dev/)
 14. Tailus
 15. Tailgrids
 16. Kutty
