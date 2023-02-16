@@ -21,7 +21,7 @@ List of NPM libraries that helps to build small and large-scale applications wit
 
 
 ## UI library
-1. 
+1. yt
 
 ## Tailwind CSS
 
