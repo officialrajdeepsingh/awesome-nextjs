@@ -25,8 +25,8 @@ List of NPM libraries that helps to build small and large-scale applications wit
 
 ## Tailwind CSS
 
-1.  Flowbite
-2.  Radix-ui
+1.  [Flowbite](https://flowbite.com/)
+2.  [Radix-ui](https://www.radix-ui.com/)
 3.  Material Tailwind
 4.  Meraki UI
 5.  Sailboat UI
