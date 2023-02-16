@@ -42,7 +42,7 @@ List of NPM libraries that helps to build small and large-scale applications wit
 15. [Tailgrids](https://tailgrids.com/)
 16. [Kutty](https://kutty.netlify.app/)
 17. [Windmill UI](https://windmillui.com/)
-18. Myna UI
-19. Tailwind Starter Kit
+18. [Myna UI](https://mynaui.com/)
+19. [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
 20. Tailblocks
 21. Tailwind toolbox
