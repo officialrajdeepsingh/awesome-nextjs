@@ -9,3 +9,4 @@ Specfiy for nextjs
 4. [Contentlayer](https://www.npmjs.com/package/contentlayer)
 
 ## State management
+1. [Zustand](https://github.com/pmndrs/zustand)
