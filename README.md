@@ -50,4 +50,5 @@ List of NPM libraries that helps to build small and large-scale applications wit
 
 ## Development tool
 1. [Typescript](https://www.typescriptlang.org/)
-2. 
+2. [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)
+3. 
