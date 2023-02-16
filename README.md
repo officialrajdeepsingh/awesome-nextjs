@@ -22,7 +22,8 @@ List of NPM libraries that helps to build small and large-scale applications wit
 
 ## React UI library
 1. [MUI](https://mui.com/)
-2. 
+2. [Primer React](https://primer.style/react/)
+
 
 ## Tailwind CSS
 
