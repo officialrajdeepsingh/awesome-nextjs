@@ -49,3 +49,5 @@ List of NPM libraries that helps to build small and large-scale applications wit
 21. [Tailwind toolbox](https://www.tailwindtoolbox.com/)
 
 ## Development tool
+1. [Typescript](https://www.typescriptlang.org/)
+2. 
