@@ -20,7 +20,7 @@ List of NPM libraries that helps to build small and large-scale applications wit
 2. [Redux](https://redux.js.org/)
 
 
-## UI library
+## React UI library
 1. yt
 
 ## Tailwind CSS
