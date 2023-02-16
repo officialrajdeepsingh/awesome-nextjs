@@ -5,6 +5,7 @@
 List of NPM libraries that helps to build small and large-scale applications with next.js.
 
 ## Specfiy for nextjs
+
 1. [Next SEO](https://www.npmjs.com/package/next-seo) : Next SEO is a plugin that help managing your SEO easier in Next.js projects.
 2. [Next sitemap](https://www.npmjs.com/package/next-sitemap) : 
 3. [Next auth](https://www.npmjs.com/package/next-auth)
@@ -12,12 +13,15 @@ List of NPM libraries that helps to build small and large-scale applications wit
 5. [Contentlayer](https://www.npmjs.com/package/contentlayer)
 6. [Nextjs progressbar](https://www.npmjs.com/package/nextjs-progressbar)
 7. [Nextjs Google Analytics](https://www.npmjs.com/package/nextjs-google-analytics)
+8. [Next MDX](https://www.npmjs.com/package/@next/mdx)
 
 ## State management
 1. [Zustand](https://github.com/pmndrs/zustand) 
 2. [Redux](https://redux.js.org/)
 
 
-## ui library
-1. y
+## UI library
+1. 
 
+## Tailwind CSS
+1. 
