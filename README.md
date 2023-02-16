@@ -32,10 +32,10 @@ List of NPM libraries that helps to build small and large-scale applications wit
 5.  [Sailboat UI](https://sailboatui.com/)
 6.  [Kometa](https://kitwind.io/products/kometa/)
 7.  [Headless UI](https://headlessui.com/)
-8.  Daisy UI
-9.  Hyper UI
-10. Flowrift
-11. Tailwind UI kit
+8.  [Daisy UI](https://daisyui.com/)
+9.  [Hyper UI](https://www.hyperui.dev/)
+10. [Flowrift](https://flowrift.com/c/banner)
+11. [Tailwind UI kit](https://tailwinduikit.com/)
 12. Tailwind-kit
 13. Wickedblocks
 14. Tailus
