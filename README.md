@@ -68,7 +68,7 @@ List of NPM libraries that helps to build small and large-scale applications wit
 ## Chrome extension
 1. [Gimli](https://gimli.app/) : Gimli chrome extension is a smart visual tools for front-end developers to built application with tailwind CSS.
 
-## Data
+## Utility
 
 [Demo posts for markdown](https://github.com/frontendweb3/Demo-markdown-posts): Demo markdown posts are used to design your new blog base template. you do not write markdown demo posts. you can use demo markdown posts with any static site generator, which supports markdown. for example next.js, gatsby, lume, fresh, etc. Demo markdown posts are written with Lorem Ipsum. In markdown posts, I can use bold, italic, code block, inline code, links, images and quotes.
 
