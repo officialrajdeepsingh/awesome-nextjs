@@ -15,7 +15,7 @@ List of NPM libraries that helps to build small and large-scale applications wit
 5.  [Contentlayer](https://www.npmjs.com/package/contentlayer) : Content layer is work with nextjs and markdown and help to build the blog application.
 6.  [Nextjs progressbar](https://www.npmjs.com/package/nextjs-progressbar) : Nextjs progressbar show the loading inicator in nextjs
 7.  [Nextjs Google Analytics](https://www.npmjs.com/package/nextjs-google-analytics) : Adding the google analaytics in your nextjs app.
-8.  [Next MDX](https://www.npmjs.com/package/@next/mdx) :
+8.  [Next MDX](https://www.npmjs.com/package/@next/mdx) : MDX libaray allows you to cobine the JSX and markdown content.
 
 ## State management
 1.  [Zustand](https://github.com/pmndrs/zustand) : Zustand is a fast and scalable state management tool built by the developers for React.js.
@@ -23,9 +23,9 @@ List of NPM libraries that helps to build small and large-scale applications wit
 
 
 ## React UI library
-1.  [MUI](https://mui.com/)
+1.  [MUI](https://mui.com/) : 
 2.  [Primer React](https://primer.style/react/)
-3.  [React bootstrap](https://react-bootstrap.github.io/)
+3.  [React bootstrap](https://react-bootstrap.github.io/) : Built the 
 
 ## Tailwind CSS
 1.  [Flowbite](https://flowbite.com/)
