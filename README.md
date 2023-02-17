@@ -16,13 +16,13 @@ List of NPM libraries that helps to build small and large-scale applications wit
 
 ## State management
 
-1.  [Zustand](https://github.com/pmndrs/zustand) : Zustand is a fast and scalable state management tool built by the developers for React.js.
-2.  [Redux](https://redux.js.org/) : Redux is an open-source JavaScript library for state managing tool. It is most commonly used with libraries such as React or Angular and it help to build user interfaces for application.
+1.  [Zustand](https://github.com/pmndrs/zustand) :  Zustand is a fast and scalable state management tool built by developers for React.js.
+2.  [Redux](https://redux.js.org/) : Redux is an open-source JavaScript library for state managing tools. It is most commonly used with libraries such as React or Angular and helps build user interfaces for applications.
 
 
 ## React UI library
 
-1.  [MUI](https://mui.com/) : Material UI provides a simple, customizable, and accessible library of React components. 
+1.  [MUI](https://mui.com/) : Material UI provides a simple, customizable, accessible library of React components. 
 2.  [Primer React](https://primer.style/react/) : Primer React built with Primer CSS and ReactJs. 
 3.  [React bootstrap](https://react-bootstrap.github.io/) : React Bootstrap built based on react and bootstrap.
 
