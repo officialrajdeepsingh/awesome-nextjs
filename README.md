@@ -31,6 +31,9 @@ List of NPM libraries that helps to build small and large-scale applications wit
 
 1. [react icons](https://react-icons.github.io/react-icons/): Used the popular svg icons in your React projects easily with react-icons.
 
+## Nextjs based template
+1. [Blogify](https://github.com/frontendweb3/blogify): Blogify is a specific design for blogging. It is an open-source template for blogging. 
+2. [Minimalist](https://github.com/frontendweb3/minimalist): Minimalist is an open-source next.js-based blog template. Minimalist template design with tailwind CSS.
 
 ## Tailwind CSS
 
