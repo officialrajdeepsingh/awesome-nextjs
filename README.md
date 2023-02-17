@@ -26,6 +26,12 @@ List of NPM libraries that helps to build small and large-scale applications wit
 2.  [Primer React](https://primer.style/react/) : Primer React built with Primer CSS and ReactJs. 
 3.  [React bootstrap](https://react-bootstrap.github.io/) : React Bootstrap built based on react and bootstrap.
 
+
+## ICON
+
+1. [react icons](https://react-icons.github.io/react-icons/): Used the popular svg icons in your React projects easily with react-icons.
+
+
 ## Tailwind CSS
 
 1.  [Flowbite](https://flowbite.com/) : Flowbite is a popular library builtin with tailwind CSS and provides inbuilt tailwindcss components for developers.
@@ -58,3 +64,5 @@ List of NPM libraries that helps to build small and large-scale applications wit
 
 ## Chrome extension
 1. [Gimli](https://gimli.app/) : Gimli chrome extension is a smart visual tools for front-end developers to built application with tailwind CSS.
+
+## 
