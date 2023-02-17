@@ -14,7 +14,7 @@ List of NPM libraries that helps to build small and large-scale applications wit
 4.  [Next PWA](https://www.npmjs.com/package/next-pwa)
 5.  [Contentlayer](https://www.npmjs.com/package/contentlayer) : Content layer is working with nextjs and markdown.
 6.  [Nextjs progressbar](https://www.npmjs.com/package/nextjs-progressbar) : Nextjs progressbar 
-7.  [Nextjs Google Analytics](https://www.npmjs.com/package/nextjs-google-analytics)
+7.  [Nextjs Google Analytics](https://www.npmjs.com/package/nextjs-google-analytics) Y
 8.  [Next MDX](https://www.npmjs.com/package/@next/mdx) 
 
 ## State management
