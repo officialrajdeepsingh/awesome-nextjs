@@ -61,4 +61,4 @@ List of NPM libraries that helps to build small and large-scale applications wit
 
 
 ## Chrome extension
-1. [Gimli](https://gimli.app/) : Gimli chrome extension is a smart visual tools for front-end developers for tailwind CSS.
+1. [Gimli](https://gimli.app/) : Gimli chrome extension is a smart visual tools for front-end developers to built with tailwind CSS.
