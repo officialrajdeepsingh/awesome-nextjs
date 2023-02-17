@@ -32,8 +32,10 @@ List of NPM libraries that helps to build small and large-scale applications wit
 1. [react icons](https://react-icons.github.io/react-icons/): Used the popular svg icons in your React projects easily with react-icons.
 
 ## Nextjs based template
+
 1. [Blogify](https://github.com/frontendweb3/blogify): Blogify is a specific design for blogging. It is an open-source template for blogging. 
 2. [Minimalist](https://github.com/frontendweb3/minimalist): Minimalist is an open-source next.js-based blog template. Minimalist template design with tailwind CSS.
+
 
 ## Tailwind CSS
 
@@ -70,5 +72,5 @@ List of NPM libraries that helps to build small and large-scale applications wit
 
 ## Utility
 
-[Demo posts for markdown](https://github.com/frontendweb3/Demo-markdown-posts): Demo markdown posts are used to design your new blog base template. you do not write markdown demo posts. you can use demo markdown posts with any static site generator, which supports markdown. for example next.js, gatsby, lume, fresh, etc. Demo markdown posts are written with Lorem Ipsum. In markdown posts, I can use bold, italic, code block, inline code, links, images and quotes.
+1. [Demo posts for markdown](https://github.com/frontendweb3/Demo-markdown-posts): Demo markdown posts are used to design your new blog base template. you do not write markdown demo posts. you can use demo markdown posts with any static site generator, which supports markdown. for example next.js, gatsby, lume, fresh, etc. Demo markdown posts are written with Lorem Ipsum. In markdown posts, I can use bold, italic, code block, inline code, links, images and quotes.
 
