@@ -8,14 +8,14 @@ List of NPM libraries that helps to build small and large-scale applications wit
 
 ##  Specfiy for nextjs
 
-1.  [Next SEO](https://www.npmjs.com/package/next-seo) : Next SEO is a plugin that help managing your SEO easier in Next.js projects.
-2.  [Next sitemap](https://www.npmjs.com/package/next-sitemap) : Next sitemap libray help to add sitemap in your nextjs app.
-3.  [Next auth](https://www.npmjs.com/package/next-auth) : Next auth library 
-4.  [Next PWA](https://www.npmjs.com/package/next-pwa)
-5.  [Contentlayer](https://www.npmjs.com/package/contentlayer) : Content layer is working with nextjs and markdown.
-6.  [Nextjs progressbar](https://www.npmjs.com/package/nextjs-progressbar) : Nextjs progressbar 
-7.  [Nextjs Google Analytics](https://www.npmjs.com/package/nextjs-google-analytics) Y
-8.  [Next MDX](https://www.npmjs.com/package/@next/mdx) 
+1.  [Next SEO](https://www.npmjs.com/package/next-seo) : Next SEO is a plugin that help managing the SEO in Next.js.
+2.  [Next sitemap](https://www.npmjs.com/package/next-sitemap) : Next sitemap libray help to add sitemap.xml in your nextjs app.
+3.  [Next auth](https://www.npmjs.com/package/next-auth) : Next auth library provide authori functinalty for your app.
+4.  [Next PWA](https://www.npmjs.com/package/next-pwa) : 
+5.  [Contentlayer](https://www.npmjs.com/package/contentlayer) : Content layer is work with nextjs and markdown and help to build the blog application.
+6.  [Nextjs progressbar](https://www.npmjs.com/package/nextjs-progressbar) : Nextjs progressbar show the loading inicator in nextjs
+7.  [Nextjs Google Analytics](https://www.npmjs.com/package/nextjs-google-analytics) : Adding the google analaytics in your nextjs app.
+8.  [Next MDX](https://www.npmjs.com/package/@next/mdx) :
 
 ## State management
 1.  [Zustand](https://github.com/pmndrs/zustand) : Zustand is a fast and scalable state management tool built by the developers for React.js.
