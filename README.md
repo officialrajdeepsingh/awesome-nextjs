@@ -51,10 +51,10 @@ List of NPM libraries that helps to build small and large-scale applications wit
 21. [Tailwind toolbox](https://www.tailwindtoolbox.com/) : A tailwind toolbox site is where you find other people's projects on tailwind CSS. All the project is free, and you copy and paste code into your project.
 
 ## Development tool
-1. [Typescript](https://www.typescriptlang.org/) : Write the type safe javascript for production.  
+1. [Typescript](https://www.typescriptlang.org/) : Typescript help to write the type safe javascript for production.  
 2. [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) : 
 3. [@next/bundle-analyzer](https://www.npmjs.com/package/@next/bundle-analyzer) : Analyzer the bundle size with webpack-bundle-analyzer package in your Next.js.
 
 
 ## Chrome extension
-1. [Gimli](https://gimli.app/) : Gimli chrome extension is a smart visual tools for front-end developers to built with tailwind CSS.
+1. [Gimli](https://gimli.app/) : Gimli chrome extension is a smart visual tools for front-end developers to built application with tailwind CSS.
