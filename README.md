@@ -7,8 +7,8 @@ List of NPM libraries that helps to build small and large-scale applications wit
 1.  [Next SEO](https://www.npmjs.com/package/next-seo) : Next SEO is a plugin that helps manage the SEO in Next.js.
 2.  [Next sitemap](https://www.npmjs.com/package/next-sitemap) : Next sitemap library help to add sitemap.xml in your nextjs app.
 3.  [Next auth](https://www.npmjs.com/package/next-auth) : Next auth library provides authorization functionality for your app.
-4.  [Next PWA](https://www.npmjs.com/package/next-pwa) : 
-5.  [Contentlayer](https://www.npmjs.com/package/contentlayer) : The content layer works with nextjs and markdown and helps to build the blog application.
+4.  [Next PWA](https://www.npmjs.com/package/next-pwa) : Next PWA library help to enable the progressive Web Apps functionality in your application.
+5.  [Content layer](https://www.npmjs.com/package/contentlayer) : The content layer works with nextjs and markdown and helps to build the blog application.
 6.  [Nextjs progressbar](https://www.npmjs.com/package/nextjs-progressbar) : Nextjs progress bar shows the loading indicator in nextjs.
 7.  [Nextjs Google Analytics](https://www.npmjs.com/package/nextjs-google-analytics) : Adding the google analaytics in your nextjs app.
 8.  [Next MDX](https://www.npmjs.com/package/@next/mdx) : MDX library allows you to combine the JSX and markdown content.
