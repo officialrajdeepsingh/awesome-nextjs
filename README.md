@@ -1,6 +1,6 @@
 # List of NPM packages for Nextjs and Reactjs
 
->>  Currenlty in writing stage
+>  Currenlty in writing stage
 
 
 List of NPM libraries that helps to build small and large-scale applications with next.js.
