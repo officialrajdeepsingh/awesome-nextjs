@@ -1,6 +1,6 @@
 # List of NPM packages for Nextjs and Reactjs
 
-List of NPM libraries that helps to build small and large-scale applications with next.js.
+List of NPM libraries that helps to build small and large-scale applications with next.js. I create a list based on my user expersice In this list I used every 
 
 ##  Specfiy for nextjs
 
