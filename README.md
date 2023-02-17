@@ -15,7 +15,7 @@ List of NPM libraries that helps to build small and large-scale applications wit
 5.  [Contentlayer](https://www.npmjs.com/package/contentlayer) : Content layer is working with nextjs and markdown.
 6.  [Nextjs progressbar](https://www.npmjs.com/package/nextjs-progressbar) : Nextjs progressbar 
 7.  [Nextjs Google Analytics](https://www.npmjs.com/package/nextjs-google-analytics)
-8.  [Next MDX](https://www.npmjs.com/package/@next/mdx)
+8.  [Next MDX](https://www.npmjs.com/package/@next/mdx) 
 
 ## State management
 1.  [Zustand](https://github.com/pmndrs/zustand) : Zustand is a fast and scalable state management tool built by the developers for React.js.
