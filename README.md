@@ -1,29 +1,31 @@
-# List of NPM packages with nextjs.
+# List of NPM packages for Nextjs and Reactjs
 
->> Currenlty in writing stage
+>>  Currenlty in writing stage
+
 
 List of NPM libraries that helps to build small and large-scale applications with next.js.
 
-## Specfiy for nextjs
 
-1. [Next SEO](https://www.npmjs.com/package/next-seo) : Next SEO is a plugin that help managing your SEO easier in Next.js projects.
-2. [Next sitemap](https://www.npmjs.com/package/next-sitemap) : 
-3. [Next auth](https://www.npmjs.com/package/next-auth)
-4. [Next PWA](https://www.npmjs.com/package/next-pwa)
-5. [Contentlayer](https://www.npmjs.com/package/contentlayer)
-6. [Nextjs progressbar](https://www.npmjs.com/package/nextjs-progressbar)
-7. [Nextjs Google Analytics](https://www.npmjs.com/package/nextjs-google-analytics)
-8. [Next MDX](https://www.npmjs.com/package/@next/mdx)
+##  Specfiy for nextjs
+
+1.  [Next SEO](https://www.npmjs.com/package/next-seo) : Next SEO is a plugin that help managing your SEO easier in Next.js projects.
+2.  [Next sitemap](https://www.npmjs.com/package/next-sitemap) : Next sitemap libray help to add sitemap in your nextjs app.
+3.  [Next auth](https://www.npmjs.com/package/next-auth) : Next auth library 
+4.  [Next PWA](https://www.npmjs.com/package/next-pwa)
+5.  [Contentlayer](https://www.npmjs.com/package/contentlayer) : Content layer is working with nextjs and markdown.
+6.  [Nextjs progressbar](https://www.npmjs.com/package/nextjs-progressbar) : Nextjs progressbar 
+7.  [Nextjs Google Analytics](https://www.npmjs.com/package/nextjs-google-analytics)
+8.  [Next MDX](https://www.npmjs.com/package/@next/mdx)
 
 ## State management
-1. [Zustand](https://github.com/pmndrs/zustand) 
-2. [Redux](https://redux.js.org/)
+1.  [Zustand](https://github.com/pmndrs/zustand) : Zustand is a fast and scalable state management tool built by the developers for React.js.
+2.  [Redux](https://redux.js.org/) : Redux is an open-source JavaScript library for state managing tool. It is most commonly used with libraries such as React or Angular and it help to build user interfaces for application.
 
 
 ## React UI library
-1. [MUI](https://mui.com/)
-2. [Primer React](https://primer.style/react/)
-3. [React bootstrap](https://react-bootstrap.github.io/)
+1.  [MUI](https://mui.com/)
+2.  [Primer React](https://primer.style/react/)
+3.  [React bootstrap](https://react-bootstrap.github.io/)
 
 ## Tailwind CSS
 1.  [Flowbite](https://flowbite.com/)
@@ -56,3 +58,4 @@ List of NPM libraries that helps to build small and large-scale applications wit
 
 ## chrome extenshion
 1. [Gimli](https://gimli.app/)
+2. []()
