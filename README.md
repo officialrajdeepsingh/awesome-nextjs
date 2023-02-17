@@ -56,7 +56,9 @@ List of NPM libraries that helps to build small and large-scale applications wit
 ## Development tool
 1. [Typescript](https://www.typescriptlang.org/) : Write the type safe javascript for production. 
 2. [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) : 
-3. [@next/bundle-analyzer](https://www.npmjs.com/package/@next/bundle-analyzer) : 
+3. [@next/bundle-analyzer](https://www.npmjs.com/package/@next/bundle-analyzer) : Analyzer the bundle size with webpack-bundle-analyzer in your Next.js project
+
+
 
 ## chrome extenshion
 1. [Gimli](https://gimli.app/) : 
