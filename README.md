@@ -1,9 +1,9 @@
 # List of NPM packages for Nextjs and Reactjs
 
-List of NPM libraries that helps to build small and large-scale applications with next.js. I created a list based on my working experience. In this list, I mention those packages I know and used in my life as a frontend developer. In the future, I will discover more packages and mention them in the current list that helps to build nextjs or frontend developers more easily for everyone. 
+List of NPM libraries that helps to build small and large-scale applications with next.js. I created a list based on my working experience. In this list, I mention those packages I know and used in my life as a frontend developer. 
+In the future, I will discover more packages and mention them in the current list that helps to build nextjs or frontend developers more easily for everyone.
 
-
-##  Specfiy for nextjs
+##  Specfiy for Nextjs
 
 1.  [Next SEO](https://www.npmjs.com/package/next-seo) : Next SEO is a plugin that helps manage the SEO in Next.js.
 2.  [Next sitemap](https://www.npmjs.com/package/next-sitemap) : Next sitemap library help to add sitemap.xml in your nextjs app.
@@ -15,24 +15,24 @@ List of NPM libraries that helps to build small and large-scale applications wit
 8.  [Next MDX](https://www.npmjs.com/package/@next/mdx) : MDX library allows you to combine the JSX and markdown content.
 
 
-## State management
+## State Management
 
 1.  [Zustand](https://github.com/pmndrs/zustand) :  Zustand is a fast and scalable state management tool built by developers for React.js.
 2.  [Redux](https://redux.js.org/) : Redux is an open-source JavaScript library for state managing tools. It is most commonly used with libraries such as React or Angular and helps build user interfaces for applications.
 
 
-## React UI library
+## React UI Library
 
 1.  [MUI](https://mui.com/) : Material UI provides a simple, customizable, accessible library of React components. 
 2.  [Primer React](https://primer.style/react/) : Primer React built with Primer CSS and ReactJs. 
 3.  [React bootstrap](https://react-bootstrap.github.io/) : React Bootstrap built based on react and bootstrap.
 
 
-## ICON
+## Icon
 
 1. [react icons](https://react-icons.github.io/react-icons/): Used the popular svg icons in your React projects easily with react-icons.
 
-## Nextjs based template
+## Nextjs based Template
 
 1. [Blogify](https://github.com/frontendweb3/blogify): Blogify is a specific design for blogging. It is an open-source template for blogging. 
 2. [Minimalist](https://github.com/frontendweb3/minimalist): Minimalist is an open-source next.js-based blog template. Minimalist template design with tailwind CSS.
@@ -62,13 +62,15 @@ List of NPM libraries that helps to build small and large-scale applications wit
 20. [Tailblocks](https://tailblocks.cc/) : Tailblocks is a small library based on tailwind CSS. Tailblocks provide 60+ inbuilt components. 
 21. [Tailwind toolbox](https://www.tailwindtoolbox.com/) : A tailwind toolbox site is where you find other people's projects on tailwind CSS. All the project is free, and you copy and paste code into your project.
 
-## Development tool
+## Development Tool
+
 1. [Typescript](https://www.typescriptlang.org/) : Typescript help to write the type safe javascript for production.  
 2. [@next/eslint-plugin-next](https://www.npmjs.com/package/@next/eslint-plugin-next) : 
 3. [@next/bundle-analyzer](https://www.npmjs.com/package/@next/bundle-analyzer) : Analyzer the bundle size with webpack-bundle-analyzer package in your Next.js.
 
 
-## Chrome extension
+## Chrome Extension
+
 1. [Gimli](https://gimli.app/) : Gimli chrome extension is a smart visual tools for front-end developers to built application with tailwind CSS.
 
 ## Utility
