@@ -25,7 +25,7 @@ List of NPM libraries that helps to build small and large-scale applications wit
 
 ## React UI library
 
-1.  [MUI](https://mui.com/) : 
+1.  [MUI](https://mui.com/) : Material UI provides a simple, customizable, and accessible library of React components. 
 2.  [Primer React](https://primer.style/react/) : 
 3.  [React bootstrap](https://react-bootstrap.github.io/) : Built the 
 
