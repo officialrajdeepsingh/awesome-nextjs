@@ -14,7 +14,7 @@ In this list, I used 80% of the package in my life as a frontend developer. In t
 7.  [Nextjs Google Analytics](https://www.npmjs.com/package/nextjs-google-analytics) : Adding the google analaytics in your nextjs app.
 8.  [Next MDX](https://www.npmjs.com/package/@next/mdx) : MDX library allows you to combine the JSX and markdown content.
 9.  [Nextra](https://nextra.site/) : Nextra is a simple, powerful, and flexible site generation framework to build blogs and documents with Next.js and MDX.
-10. [Create t3-app](https://create.t3.gg/) : The best way to start a full-stack, typesafe Next.js app
+10. [Create t3-app](https://create.t3.gg/) : Build the  The best way to start a full-stack, typesafe Next.js app
 
 
 
