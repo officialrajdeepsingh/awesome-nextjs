@@ -13,7 +13,7 @@ In this list, I used 80% of the package in my life as a frontend developer. In t
 6.  [Nextjs progressbar](https://www.npmjs.com/package/nextjs-progressbar) : Nextjs progress bar shows the loading indicator in nextjs.
 7.  [Nextjs Google Analytics](https://www.npmjs.com/package/nextjs-google-analytics) : Adding the google analaytics in your nextjs app.
 8.  [Next MDX](https://www.npmjs.com/package/@next/mdx) : MDX library allows you to combine the JSX and markdown content.
-9.  [Nextra](https://nextra.site/) : Simple, powerful and flexible site generation framework for Next.js and MDX.
+9.  [Nextra](https://nextra.site/) : Nextra is a simple, powerful, and flexible site generation framework to build blogs and documents with Next.js and MDX.
 
 
 
