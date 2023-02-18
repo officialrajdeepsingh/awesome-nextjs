@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
-          input_dir: ./
+          input_path: ./README.md
           output_dir: pdfs
           build_html: false
       - uses: actions/upload-artifact@v1
