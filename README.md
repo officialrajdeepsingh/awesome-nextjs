@@ -1,7 +1,6 @@
 # List of NPM packages for Nextjs and Reactjs
 
-List of NPM libraries that helps to build small and large-scale applications with next.js. I created a list based on my working experience. In this list, I mention those packages I know and used in my life as a frontend developer. 
-In the future, I will discover more packages and mention them in the current list that helps to build nextjs or frontend developers more easily for everyone.
+List of NPM libraries that helps to build small and large-scale applications with next.js. I created a list based on my working experience. In this list, I used 80% of the package in my life as a frontend developer. In the future, I will discover more packages and mention them in the current list that helps to build nextjs or frontend developers more efficiently for everyone. 
 
 ##  Specfiy for Nextjs
 
@@ -50,7 +49,7 @@ In the future, I will discover more packages and mention them in the current lis
 8.  [Daisy UI](https://daisyui.com/) : Daisy UI is an open-source UI based on tailwind CSS. The Big motivation is to use daisy UI in our project. 
 9.  [Hyper UI](https://www.hyperui.dev/) : Hyper UI is a free open-source tailwind CSS-based component for modern design. Hyper UI is a complete bundle of CSS and javascript.
 10. [Flowrift](https://flowrift.com/c/banner) : Flowrift is a free open-source tailwind CSS-based component library. It provides different category components for the website.
-11. [Tailwind UI kit](https://tailwinduikit.com/) : The tailwind UI kit provides an extensive list of inbuilt components. In the free plan tailwind, the UI kit provides only 250 components; in the paid plan, you access all components and templates for a lifetime.
+11. [Tailwind UI kit](https://tailwinduikit.com/) :  The tailwind UI kit provides an extensive list of inbuilt components. In the free plan tailwind, the UI kit provides only 250 components; in the paid plan, you access all components and templates for a lifetime.
 12. [Tailwind-kit](https://www.tailwind-kit.com/) : The tailwind kit provides access to over 250 free tailwinds CSS-based components.
 13. [Wickedblocks](https://wickedblocks.dev/) : Wickedblocks provide a free 120 fully responsive tailwind CSS-based component, and All component comes ready to copy and paste into your Tailwind projects. 
 14. [Tailus](https://tailus.io/) : Tailus provides a list of UI components and templates built on tailwind CSS. Tailus components offer a rich and modern UI experience. 
@@ -71,7 +70,7 @@ In the future, I will discover more packages and mention them in the current lis
 
 ## Chrome Extension
 
-1. [Gimli](https://gimli.app/) : Gimli chrome extension is a smart visual tools for front-end developers to built application with tailwind CSS.
+1. [Gimli](https://gimli.app/) : Gimli chrome extension is an innovative visual tool for frontend developers to build with tailwind CSS.
 
 
 
