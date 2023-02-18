@@ -65,7 +65,7 @@ In the future, I will discover more packages and mention them in the current lis
 ## Development Tool
 
 1. [Typescript](https://www.typescriptlang.org/) : Typescript help to write the type safe javascript for production.  
-2. [@next/eslint-plugin-next](https://www.npmjs.com/package/@next/eslint-plugin-next) : 
+2. [@next/eslint-plugin-next](https://www.npmjs.com/package/@next/eslint-plugin-next) : Next/eslint-plugin help to resolve the error
 3. [@next/bundle-analyzer](https://www.npmjs.com/package/@next/bundle-analyzer) : Analyzer the bundle size with webpack-bundle-analyzer package in your Next.js.
 
 
