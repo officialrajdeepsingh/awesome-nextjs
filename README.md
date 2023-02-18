@@ -4,7 +4,7 @@ List of NPM libraries that helps to build small and large-scale applications wit
 In this list, I used 80% of the package in my life as a frontend developer. In the future, I will discover more packages and mention them in the current list that helps to build nextjs or frontend developers more efficiently for everyone. 
 
 ## Contribute 
-You can share your favorite library, tool, or template related to nextjs. It helps full for other developer. before the share your favorite library, tool, or template please read our Contribution guide line.
+You can share your favorite library, tool, or template related to nextjs. It helps full for other developer. before the share your favorite library, tool, or template please read our [Contribution guide line](./.github/CONTRIBUTING.md).
 
 ##  Specfiy for Nextjs
 
