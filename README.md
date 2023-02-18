@@ -3,6 +3,9 @@
 List of NPM libraries that helps to build small and large-scale applications with next.js. I created a list based on my working experience. 
 In this list, I used 80% of the package in my life as a frontend developer. In the future, I will discover more packages and mention them in the current list that helps to build nextjs or frontend developers more efficiently for everyone. 
 
+## Contribute 
+menation your favrate libaray and ex
+
 ##  Specfiy for Nextjs
 
 1.  [Next SEO](https://www.npmjs.com/package/next-seo) : Next SEO is a plugin that helps manage the SEO in Next.js.
@@ -14,8 +17,7 @@ In this list, I used 80% of the package in my life as a frontend developer. In t
 7.  [Nextjs Google Analytics](https://www.npmjs.com/package/nextjs-google-analytics) : Adding the google analaytics in your nextjs app.
 8.  [Next MDX](https://www.npmjs.com/package/@next/mdx) : MDX library allows you to combine the JSX and markdown content.
 9.  [Nextra](https://nextra.site/) : Nextra is a simple, powerful, and flexible site generation framework to build blogs and documents with Next.js and MDX.
-10. [Create t3-app](https://create.t3.gg/) : Build the full-stack application with TypeScript and Next.js app.
-
+10. [Create t3-app](https://create.t3.gg/) : Build the full-stack application with TypeScript,Prisma, tRPC, NextAuth, Tailwind CSS and Next.js app.
 
 
 
