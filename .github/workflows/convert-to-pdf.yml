@@ -7,7 +7,8 @@ on:
       - main
 
     paths:
-      - './README.md'
+      - /README.md
+
 jobs:
   converttopdf:
     name: Build PDF

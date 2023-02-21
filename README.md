@@ -19,7 +19,9 @@ You can share your favorite library, tool, or template related to nextjs. It hel
 9.  [Nextra](https://nextra.site/) : Nextra is a simple, powerful, and flexible site generation framework to build blogs and documents with Next.js and MDX.
 10. [Create t3-app](https://create.t3.gg/) : Build the full-stack application with TypeScript,Prisma, tRPC, NextAuth, Tailwind CSS and Next.js app.
 
-
+## Headless CMS
+1. [Strapi](StrapiStrapi) : Strapi is a powerful open-source Node.js based Content Management Systems (CMS) that is perfect for small to large scale websites.
+2. [Ghost ](https://ghost.org/) : 
 
 ## State Management
 
