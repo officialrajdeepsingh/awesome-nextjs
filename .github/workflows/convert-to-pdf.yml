@@ -14,9 +14,9 @@ jobs:
         with:
           input_path: ./README.md
           table_of_contents: true
-          output_dir: pdfs
+          output_dir: pdf
           build_html: false
       - uses: actions/upload-artifact@v3
         with:
-          name: docs
-          path: docs/README.pdf
+          name: list-of-libraries-for-nextjs
+          path: pdf/README.pdf
