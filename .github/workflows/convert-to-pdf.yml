@@ -1,4 +1,4 @@
-name: Docs to PDF
+name: README to PDF
 on:
   push:
     branches:
@@ -6,11 +6,10 @@ on:
 
 jobs:
   converttopdf:
-    name: Build PDF
+    name: Build README PDF
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_path: ./README.md
@@ -20,4 +19,4 @@ jobs:
       - uses: actions/upload-artifact@v3
         with:
           name: docs
-          path: pdfs
+          path: pdfs/README.pdf
