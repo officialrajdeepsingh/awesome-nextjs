@@ -16,8 +16,9 @@ You can share your favorite library, tool, or template related to nextjs. It hel
 6.  [Nextjs progressbar](https://www.npmjs.com/package/nextjs-progressbar) : Nextjs progress bar shows the loading indicator in nextjs.
 7.  [Nextjs Google Analytics](https://www.npmjs.com/package/nextjs-google-analytics) : Adding the google analaytics in your nextjs app.
 8.  [Next MDX](https://www.npmjs.com/package/@next/mdx) : MDX library allows you to combine the JSX and markdown content.
-9.  [Nextra](https://nextra.site/) : Nextra is a simple, powerful, and flexible site generation framework to build blogs and documents with Next.js and MDX.
-10. [Create t3-app](https://create.t3.gg/) : Build the full-stack application with TypeScript,Prisma, tRPC, NextAuth, Tailwind CSS and Next.js app.
+9.  [next-themes](https://www.npmjs.com/package/next-themes): You can enable the dark-to-light theme toggle with next-themes in your Next.js app.
+10.  [Nextra](https://nextra.site/) : Nextra is a simple, powerful, and flexible site generation framework to build blogs and documents with Next.js and MDX.
+11. [Create t3-app](https://create.t3.gg/) : Build the full-stack application with TypeScript,Prisma, tRPC, NextAuth, Tailwind CSS and Next.js app.
 
 ## Headless CMS
 1. [Strapi](https://strapi.io/) : Strapi is a powerful open-source Node.js based Content Management Systems (CMS) perfect for small to large scale websites.
@@ -69,6 +70,8 @@ You can share your favorite library, tool, or template related to nextjs. It hel
 19. [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation) : Tailwind Starter Kit is a Free and Open Source library. The Tailwind Starter Kit is based on Tailwind CSS.
 20. [Tailblocks](https://tailblocks.cc/) : Tailblocks is a small library based on tailwind CSS. Tailblocks provide 60+ inbuilt components. 
 21. [Tailwind toolbox](https://www.tailwindtoolbox.com/) : A tailwind toolbox site is where you find other people's projects on tailwind CSS. All the project is free, and you copy and paste code into your project.
+22. [Headless UI](https://headlessui.com/) : Built-in the react UI components designed with Tailwind CSS.
+
 
 ## Development Tool
 
