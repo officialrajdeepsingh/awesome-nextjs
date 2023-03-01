@@ -1,5 +1,4 @@
 name: Docs to PDF
-
 on:
   push:
     branches:
