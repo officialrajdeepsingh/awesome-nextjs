@@ -1,13 +1,9 @@
 name: Docs to PDF
 
-
 on:
   push:
     branches:
       - main
-
-    paths:
-      - /README.md
 
 jobs:
   converttopdf:
