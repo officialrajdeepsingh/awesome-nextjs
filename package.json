@@ -1,6 +1,10 @@
 {
+	"scripts": {
+		"pdf":"pnpm  md-to-pdf -w --highlight-style github-dark ./README.md"
+	},
 	"devDependencies": {
 		"eslint": "^8.36.0",
-		"eslint-plugin-markdown": "^3.0.0"
+		"eslint-plugin-markdown": "^3.0.0",
+		"md-to-pdf": "^5.2.3"
 	}
 }

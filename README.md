@@ -1,4 +1,5 @@
-# Awesome Nextjs
+#  Awesome ![Nextjs](./media/next.svg) <a href="/media/readme.pdf" download>Download PDF</a>
+
 
 List of NPM libraries that helps to build small and large-scale applications with next.js. I created a list based on my working experience.
 
@@ -76,6 +77,7 @@ You can add any npm package or library in the existing subcategory using the fol
 
 - [Blogify](https://github.com/frontendweb3/blogify): Blogify is a specific design for blogging. It is an open-source template for blogging.
 - [Minimalist](https://github.com/frontendweb3/minimalist): Minimalist is an open-source nextjs-based blog template---minimalist template design with tailwind CSS.
+- []()
 
 ## Tailwind CSS
 
