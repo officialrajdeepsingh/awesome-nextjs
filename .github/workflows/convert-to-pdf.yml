@@ -18,5 +18,4 @@ jobs:
           build_html: false
       - uses: actions/upload-artifact@v3
         with:
-          name: list-of-libraries-for-nextjs
           path: pdf/README.pdf
