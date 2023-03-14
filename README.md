@@ -21,17 +21,17 @@ Your subcategory is not listed there, and you can create a subcategory yourself.
 
 ## name of the subcategory
 
-[title](link) : basic introduction
+- [title](link) : basic introduction
 ```
 
-#### Adding item
+### Adding item
 
-**You can add any npm package or library in the existing subcategory using the following syntax. **
+You can add any npm package or library in the existing subcategory using the following syntax.
 
 #### Syntax 
 
 ```markdown
-[title](link) : basic introduction
+- [title](link) : basic introduction
 ```
 ## Specify for Nextjs
 
@@ -89,19 +89,19 @@ Tailwind CSS
 - [Headless UI](https://headlessui.com/): Headless UI is a slight tailwind CSS-based component library only for react developers.
 - [Daisy UI](https://daisyui.com/): Daisy UI is an open-source UI based on tailwind CSS. The Big motivation is to use daisy UI in our project.
 - [Hyper UI](https://www.hyperui.dev/): Hyper UI is a free open-source tailwind CSS-based component for modern design. Hyper UI is a complete bundle of CSS and javascript.
-10. [Flowrift](https://flowrift.com/c/banner): Flowrift is a free open-source tailwind CSS-based component library. It provides different category components for the website.
-11. [Tailwind UI kit](https://tailwinduikit.com/): The tailwind UI kit offers an extensive list of inbuilt components. In the free plan tailwind, the UI kit provides only 250 components; in the paid plan, you access all components and templates for a lifetime.
-12. [Tailwind-kit](https://www.tailwind-kit.com/): The tailwind kit provides access to over 250 free tailwinds CSS-based components.
-13. [Wickedblocks](https://wickedblocks.dev/): Wickedblocks provide a free 120 fully responsive tailwind CSS-based component, and All component comes ready to copy and paste into your Tailwind projects.
-14. [Tailus](https://tailus.io/): Tailus provides a list of UI components and templates built on tailwind CSS. Tailus components offer a rich and modern UI experience.
-15. [Tailgrids](https://tailgrids.com/): Tailgrids provides a variety of 500+ components, blocks, sections, and templates built on tailwind CSS.
-16. [Kutty](https://kutty.netlify.app/): Kutty is based on reusable tailwind CSS components and adds component interaction with alpine.js.
-17. [Windmill UI](https://windmillui.com/): Windmill UI is a free react base UI component library design with tailwind CSS.
-18. [Myna UI](https://mynaui.com/): Myna UI is open source tailwind CSS-based component library. It provides few components as compared to other libraries.
-19. [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation): Tailwind Starter Kit is a Free and Open Source library. The Tailwind Starter Kit is based on Tailwind CSS.
-20. [Tailblocks](https://tailblocks.cc/): Tailblocks is a small library based on tailwind CSS. Tailblocks provide 60+ inbuilt components.
-21. [Tailwind toolbox](https://www.tailwindtoolbox.com/): A tailwind toolbox site is where you find other people's projects on tailwind CSS. All the project is free, and you copy and paste code into your project.
-22. [Headless UI](https://headlessui.com/): Built-in the react UI components designed with Tailwind CSS.
+- [Flowrift](https://flowrift.com/c/banner): Flowrift is a free open-source tailwind CSS-based component library. It provides different category components for the website.
+- [Tailwind UI kit](https://tailwinduikit.com/): The tailwind UI kit offers an extensive list of inbuilt components. In the free plan tailwind, the UI kit provides only 250 components; in the paid plan, you access all components and templates for a lifetime.
+- [Tailwind-kit](https://www.tailwind-kit.com/): The tailwind kit provides access to over 250 free tailwinds CSS-based components.
+- [Wickedblocks](https://wickedblocks.dev/): Wickedblocks provide a free 120 fully responsive tailwind CSS-based component, and All component comes ready to copy and paste into your Tailwind projects.
+- [Tailus](https://tailus.io/): Tailus provides a list of UI components and templates built on tailwind CSS. Tailus components offer a rich and modern UI experience.
+- [Tailgrids](https://tailgrids.com/): Tailgrids provides a variety of 500+ components, blocks, sections, and templates built on tailwind CSS.
+- [Kutty](https://kutty.netlify.app/): Kutty is based on reusable tailwind CSS components and adds component interaction with alpine.js.
+- [Windmill UI](https://windmillui.com/): Windmill UI is a free react base UI component library design with tailwind CSS.
+- [Myna UI](https://mynaui.com/): Myna UI is open source tailwind CSS-based component library. It provides few components as compared to other libraries.
+- [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation): Tailwind Starter Kit is a Free and Open Source library. The Tailwind Starter Kit is based on Tailwind CSS.
+- [Tailblocks](https://tailblocks.cc/): Tailblocks is a small library based on tailwind CSS. Tailblocks provide 60+ inbuilt components.
+- [Tailwind toolbox](https://www.tailwindtoolbox.com/): A tailwind toolbox site is where you find other people's projects on tailwind CSS. All the project is free, and you copy and paste code into your project.
+- [Headless UI](https://headlessui.com/): Built-in the react UI components designed with Tailwind CSS.
 
 Development Tool
 ----------------
