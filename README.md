@@ -1,9 +1,8 @@
-#  Awesome ![Nextjs](https://github.com/officialrajdeepsingh/awesome-nextjs/blob/main/media/next.svg) <a href="/media/readme.pdf" download>Download The PDF</a>
+#  Awesome ![Nextjs](/media/next.svg) <a href="/media/readme.pdf" download>Download The PDF</a>
 
 List of NPM libraries that helps to build small and large-scale applications with next.js. I created a list based on my working experience.
-
+   
 I used 80% of the package as a front-end developer in this list. In the future, I will discover and mention more packages in the current list that helps build nextjs or front-end developers more efficiently for everyone.
-
 
 ## Contributing
 
