@@ -8,15 +8,15 @@ I used 80% of the package as a front-end developer in this list. In the future, 
 
 You can share your favourite library, tool, or template related to nextjs. It helps full for other developers. Before the share your favourite library, tool, or template, please read our [Contribution guidelines](https://dillinger.io/.github/CONTRIBUTING.md).
 
-How to contribute?
+### How to contribute?
 
 You start to contribute with the following syntax. Make sure you do not add any promotions or spam links.
 
-### Adding subcategory
+#### Adding subcategory
 
 Your subcategory is not listed there, and you can create a subcategory yourself.
 
-#### Syntax
+##### Syntax
 ```markdown
 
 ## name of the subcategory
@@ -24,11 +24,11 @@ Your subcategory is not listed there, and you can create a subcategory yourself.
 - [title](link) : basic introduction
 ```
 
-### Adding item
+#### Adding item
 
 You can add any npm package or library in the existing subcategory using the following syntax.
 
-#### Syntax 
+##### Syntax 
 
 ```markdown
 - [title](link) : basic introduction
@@ -53,32 +53,32 @@ You can add any npm package or library in the existing subcategory using the fol
 - [Strapi](https://strapi.io/): Strapi is a powerful open-source node js-based Content Management System (CMS) perfect for small to large-scale websites.
 - [Ghost](https://ghost.org/): Ghost is a popular open-source CMS perfect for creating blogs. It offers a simple, user-friendly API interface that makes creating and publishing articles easy.
 
-State Management
-----------------
+## State Management
+
 
 - [Zustand](https://github.com/pmndrs/zustand): Zustand is a fast and scalable state management tool built by developers for React.js.
 - [Redux](https://redux.js.org/): Redux is an open-source JavaScript library for state managing tools. It is most commonly used with libraries such as React or Angular and helps build application user interfaces.
 
-React UI Library
-----------------
+## React UI Library
+
 
 - [MUI](https://mui.com/): Material UI provides a simple, customizable, accessible library of React components.
 - [Primer React](https://primer.style/react/): Primer React is built with Primer CSS and ReactJs by GitHub
 - [React bootstrap](https://react-bootstrap.github.io/): React bootstrap is made based on react and bootstrap.
 
-Icon
-----
+## Icon
+
 
 - [react icons](https://react-icons.github.io/react-icons/): Use the popular svg icons in your React projects easily with react-icons.
 
-Nextjs based template
----------------------
+## Nextjs based template
+
 
 - [Blogify](https://github.com/frontendweb3/blogify): Blogify is a specific design for blogging. It is an open-source template for blogging.
 - [Minimalist](https://github.com/frontendweb3/minimalist): Minimalist is an open-source nextjs-based blog template---minimalist template design with tailwind CSS.
 
-Tailwind CSS
-------------
+## Tailwind CSS
+
 
 - [Flowbite](https://flowbite.com/): Flowbite is a popular library builtin with tailwind CSS and provides inbuilt tailwindcss components for developers.
 - [Radix UI](https://www.radix-ui.com/): Radix-ui is a popular library builtin on the tailwind css framework. Radix UI feels like material UI.
@@ -103,19 +103,16 @@ Tailwind CSS
 - [Tailwind toolbox](https://www.tailwindtoolbox.com/): A tailwind toolbox site is where you find other people's projects on tailwind CSS. All the project is free, and you copy and paste code into your project.
 - [Headless UI](https://headlessui.com/): Built-in the react UI components designed with Tailwind CSS.
 
-Development Tool
-----------------
+## Development Tool
 
 - [Typescript](https://www.typescriptlang.org/): Typescript help to write type-safe javascript for production.
 - [@next/eslint-plugin-next](https://www.npmjs.com/package/@next/eslint-plugin-next): Next/eslint-plugin help to resolve the error
 - [@next/bundle-analyzer](https://www.npmjs.com/package/@next/bundle-analyzer) : Analyzer the bundle size with webpack-bundle-analyzer package in your Next.js.
 
-Chrome Extension
-----------------
+## Chrome Extension
 
 - [Gimli](https://gimli.app/): Gimli chrome extension is an innovative visual tool for front-end developers to build with tailwind CSS.
 
-Utility (Others )
------------------
+## Utility (Others )
 
 - [Demo posts for markdown](https://github.com/frontendweb3/Demo-markdown-posts): Demo markdown posts are used to design your new blog base template. You do not write markdown demo posts. You can use demo markdown posts with any static site generator which supports markdown---for example, next.js, gatsby, lume, fresh, etc. Demo markdown posts are written with Lorem Ipsum. I can use bold, italic, code block, inline code, links, images, and quotes in markdown posts.
