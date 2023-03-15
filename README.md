@@ -46,6 +46,8 @@ You can add any npm package or library in the existing subcategory using the fol
 - [Next-themes](https://www.npmjs.com/package/next-themes): You can enable the dark-to-light theme toggle with next-themes in your Next.js app.
 - [Nextra](https://nextra.site/): Nextra is a simple, powerful, and flexible site generation framework to build blogs and documents with Next.js and MDX.
 - [Create t3-app](https://create.t3.gg/): Build the full-stack application with TypeScript, Prisma, tRPC, NextAuth, Tailwind CSS, and Next.js app.
+- [Tina CMS](https://tina.io/): Tina CMS is a new nextjs-based CMS; it is an open-source, Git-backed headless CMS you can use with  Markdown, MDX, and JSON. 
+
 
 ## Headless CMS
 
