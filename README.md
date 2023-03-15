@@ -28,7 +28,7 @@ Your subcategory is not listed there, and you can create a subcategory yourself.
 
 You can add any npm package or library in the existing subcategory using the following syntax.
 
-##### Syntax 
+##### Syntax
 
 ```markdown
 - [title](link) : basic introduction
@@ -49,9 +49,10 @@ You can add any npm package or library in the existing subcategory using the fol
 
 ## Headless CMS
 
-
 - [Strapi](https://strapi.io/): Strapi is a powerful open-source node js-based Content Management System (CMS) perfect for small to large-scale websites.
 - [Ghost](https://ghost.org/): Ghost is a popular open-source CMS perfect for creating blogs. It offers a simple, user-friendly API interface that makes creating and publishing articles easy.
+- [Netlify CMS](https://github.com/decaporg/decap-cms): Decap CMS(Netlify CMS) work with all type of static site generators. It permits users to edit, update and delete content to any site built with a static generator. You can use Decap CMS without any technical knowledge.
+- [Forestry](https://forestry.io/): Forestry is a headless CMS easy-to-customizable, configurable and integrated with all types of static site generators.
 
 ## State Management
 
