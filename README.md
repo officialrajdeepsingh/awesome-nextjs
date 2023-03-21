@@ -98,7 +98,6 @@ You can add any npm package or library in the existing subcategory using the fol
 
 ## Icon
 
-
 - [react icons](https://react-icons.github.io/react-icons/): Use the popular svg icons in your React projects easily with react-icons.
 
 ## Nextjs based template
