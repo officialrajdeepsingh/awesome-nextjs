@@ -119,7 +119,7 @@ You can add any npm package or library in the existing subcategory using the fol
 - [Kometa](https://kitwind.io/products/kometa/) : Kometa is UI kit based on tailwind CSS. Kometa provides 130 inbuilt tailwinds CSS-based components, and Kometa is free.
 - [Headless UI](https://headlessui.com/): Headless UI is a slight tailwind CSS-based component library only for react developers.
 - [Daisy UI](https://daisyui.com/): Daisy UI is an open-source UI based on tailwind CSS. The Big motivation is to use daisy UI in our project.
-- [Hyper UI](https://www.hyperui.dev/): Hyper UI is a free open-source tailwind CSS-based component for modern design. Hyper UI is a complete bundle of CSS and javascript.
+- [Hyper UI](https://www.hyperui.dev/): Hyper UI is a free open-source tailwind CSS-based component for modern design. Hyper UI is a complete bundle of CSS and JavaScript.
 - [Flowrift](https://flowrift.com/c/banner): Flowrift is a free open-source tailwind CSS-based component library. It provides different category components for the website.
 - [Tailwind UI kit](https://tailwinduikit.com/): The tailwind UI kit offers an extensive list of inbuilt components. In the free plan tailwind, the UI kit provides only 250 components; in the paid plan, you access all components and templates for a lifetime.
 - [Tailwind-kit](https://www.tailwind-kit.com/): The tailwind kit provides access to over 250 free tailwinds CSS-based components.
@@ -136,7 +136,7 @@ You can add any npm package or library in the existing subcategory using the fol
 
 ## Development Tool
 
-- [Typescript](https://www.typescriptlang.org/): Typescript help to write type-safe javascript for production.
+- [Typescript](https://www.typescriptlang.org/): Typescript help to write type-safe JavaScript for production.
 - [@next/eslint-plugin-next](https://www.npmjs.com/package/@next/eslint-plugin-next): Next/eslint-plugin help to resolve the error
 - [@next/bundle-analyzer](https://www.npmjs.com/package/@next/bundle-analyzer) : Analyzer the bundle size with webpack-bundle-analyzer package in your Next.js.
 
