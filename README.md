@@ -1,10 +1,10 @@
-#  Awesome Nextjs <a href="/media/readme.pdf" download>Download The PDF</a>
+#  Awesome Nextjs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 List of NPM libraries that helps to build small and large-scale applications with next.js. I created a list based on my working experience.
 
 I used 80% of the package as a front-end developer in this list. In the future, I will discover and mention more packages in the current list that helps build nextjs or front-end developers more efficiently for everyone.
 
-## Contributing 
+## Contributing
 
 You can share your favourite library, tool, or template related to nextjs. It helps full for other developers. Before the share your favourite library, tool, or template, please read our [Contribution guidelines](https://dillinger.io/.github/CONTRIBUTING.md).
 
@@ -33,6 +33,32 @@ You can add any npm package or library in the existing subcategory using the fol
 ```markdown
 - [title](link) : basic introduction
 ```
+
+Table of Content 
+---
+---
+
+- [Awesome Nextjs ](#awesome-nextjs-)
+  - [Contributing](#contributing)
+    - [How to contribute?](#how-to-contribute)
+      - [Adding subcategory](#adding-subcategory)
+        - [Syntax](#syntax)
+      - [Adding item](#adding-item)
+        - [Syntax](#syntax-1)
+  - [Table of Content](#table-of-content)
+  - [Specify for Nextjs](#specify-for-nextjs)
+  - [Headless CMS](#headless-cms)
+  - [State Management](#state-management)
+  - [React UI Library](#react-ui-library)
+  - [Icon](#icon)
+  - [Nextjs based template](#nextjs-based-template)
+  - [Tailwind CSS](#tailwind-css)
+  - [Development Tool](#development-tool)
+  - [Chrome Extension](#chrome-extension)
+  - [Utility (Others )](#utility-others-)
+
+*** 
+
 ## Specify for Nextjs
 
 - [Next SEO](https://www.npmjs.com/package/next-seo): Next SEO is a plugin that helps manage the SEO in Next.js.
@@ -61,8 +87,6 @@ You can add any npm package or library in the existing subcategory using the fol
 
 - [Zustand](https://github.com/pmndrs/zustand): Zustand is a fast and scalable state management tool built by developers for React.js.
 - [Redux](https://redux.js.org/): Redux is an open-source JavaScript library for state managing tools. It is most commonly used with libraries such as React or Angular and helps build application user interfaces.
-- [Jotai](https://jotai.org/): Jotai is an open-source primitive and flexible state management tool for React and reacts developer
-
 
 ## React UI Library
 
