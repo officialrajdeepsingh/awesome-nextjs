@@ -88,7 +88,9 @@ You can add any npm package or library in the existing subcategory using the fol
 
 - [Zustand](https://github.com/pmndrs/zustand): Zustand is a fast and scalable state management tool built by developers for React.js.
 - [Redux](https://redux.js.org/): Redux is an open-source JavaScript library for state managing tools. It is most commonly used with libraries such as React or Angular and helps build application user interfaces.
-- [Recoil](https://recoiljs.org/): Recoil is a state management library for React built by meta 
+- [Recoil](https://recoiljs.org/): Recoil is a state management library for React built by meta.
+- [Jotai](https://jotai.org/): Jotai, primitive and flexible state management library for Reactjs.
+
 ## React UI Library
 
 
