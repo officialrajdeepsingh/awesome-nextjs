@@ -4,12 +4,12 @@ List of NPM libraries that helps to build small and large-scale applications wit
 
 I used 80% of the package as a front-end developer in this list. In the future, I will discover and mention more packages in the current list that helps build nextjs or front-end developers more efficiently for everyone.
 
-Table of Content
+## Table of Content
 ---
 
 - [Awesome Nextjs ](#awesome-nextjs-)
   - [Contributing](#contributing)
-    - [How to contribute?](#how-to-contribute)
+    - [How to contribute](#how-to-contribute)
       - [Adding subcategory](#adding-subcategory)
         - [Syntax](#syntax)
       - [Adding item](#adding-item)
@@ -31,7 +31,7 @@ Table of Content
 
 You can share your favourite library, tool, or template related to nextjs. It helps full for other developers. Before the share your favourite library, tool, or template, please read our [Contribution guidelines](https://dillinger.io/.github/CONTRIBUTING.md).
 
-### How to contribute?
+### How to contribute
 
 You start to contribute with the following syntax. Make sure you do not add any promotions or spam links.
 
@@ -40,10 +40,12 @@ You start to contribute with the following syntax. Make sure you do not add any 
 Your subcategory is not listed there, and you can create a subcategory yourself.
 
 ##### Syntax
+
 ```markdown
+
 ## name of the subcategory
 
-- [title](link) : basic introduction
+- [title](link) : Basic introduction
 ```
 
 #### Adding item
@@ -53,7 +55,7 @@ You can add any npm package or library in the existing subcategory using the fol
 ##### Syntax
 
 ```markdown
-- [title](link) : basic introduction
+- [title](link) : Basic introduction
 ```
 
 ---
@@ -117,7 +119,7 @@ You can add any npm package or library in the existing subcategory using the fol
 - [Meraki UI](https://merakiui.com/): Meraki UI provides 144+ custom UI components built with tailwind CSS and Alpine JS.
 - [Sailboat UI](https://sailboatui.com/): Sailboat UI provides 150+ tailwind CSS components with tailwind CSS and alpine.js.
 - [Kometa](https://kitwind.io/products/kometa/) : Kometa is UI kit based on tailwind CSS. Kometa provides 130 inbuilt tailwinds CSS-based components, and Kometa is free.
-- [Headless UI](https://headlessui.com/): Headless UI is a slight tailwind CSS-based component library only for react developers.
+- [Headless UI](https://headlessui.com): Headless UI is a slight tailwind CSS-based component library only for react developers.
 - [Daisy UI](https://daisyui.com/): Daisy UI is an open-source UI based on tailwind CSS. The Big motivation is to use daisy UI in our project.
 - [Hyper UI](https://www.hyperui.dev/): Hyper UI is a free open-source tailwind CSS-based component for modern design. Hyper UI is a complete bundle of CSS and JavaScript.
 - [Flowrift](https://flowrift.com/c/banner): Flowrift is a free open-source tailwind CSS-based component library. It provides different category components for the website.
