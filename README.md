@@ -45,7 +45,6 @@ Table of Content
         - [Syntax](#syntax)
       - [Adding item](#adding-item)
         - [Syntax](#syntax-1)
-  - [Table of Content](#table-of-content)
   - [Specify for Nextjs](#specify-for-nextjs)
   - [Headless CMS](#headless-cms)
   - [State Management](#state-management)
