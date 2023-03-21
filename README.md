@@ -4,8 +4,7 @@ List of NPM libraries that helps to build small and large-scale applications wit
 
 I used 80% of the package as a front-end developer in this list. In the future, I will discover and mention more packages in the current list that helps build nextjs or front-end developers more efficiently for everyone.
 
-Table of Content 
----
+Table of Content
 ---
 
 - [Awesome Nextjs ](#awesome-nextjs-)
@@ -42,7 +41,6 @@ Your subcategory is not listed there, and you can create a subcategory yourself.
 
 ##### Syntax
 ```markdown
-
 ## name of the subcategory
 
 - [title](link) : basic introduction
@@ -91,6 +89,7 @@ You can add any npm package or library in the existing subcategory using the fol
 - [Redux](https://redux.js.org/): Redux is an open-source JavaScript library for state managing tools. It is most commonly used with libraries such as React or Angular and helps build application user interfaces.
 - [Recoil](https://recoiljs.org/): Recoil is a state management library for React built by meta.
 - [Jotai](https://jotai.org/): Jotai, primitive and flexible state management library for Reactjs.
+- [React context](https://react.dev/learn/passing-data-deeply-with-context): React.createContext() is a React API allowing you to pass or share between react components.
 
 ## React UI Library
 
