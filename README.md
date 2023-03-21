@@ -57,7 +57,8 @@ You can add any npm package or library in the existing subcategory using the fol
 ```markdown
 - [title](link) : basic introduction
 ```
- 
+
+---
 
 ## Specify for Nextjs
 
