@@ -103,10 +103,9 @@ You can add any npm package or library in the existing subcategory using the fol
 
 ## Nextjs based template
 
-
-- [Blogify](https://github.com/frontendweb3/blogify): Blogify is a specific design for blogging. It is an open-source template for blogging.
-- [Minimalist](https://github.com/frontendweb3/minimalist): Minimalist is an open-source nextjs-based blog template---minimalist template design with tailwind CSS.
-- []()
+- [Minimalist](https://github.com/frontendweb3/minimalist): Minimalist blog template built with nextjs and tailwind css.
+- [Open Blog](https://github.com/frontendweb3/open-blog): Open blog is a bloging template built with nextjs, tailwind CSS and markdown.
+- [Blogify](https://github.com/frontendweb3/blogify): Blogify is an open-source nextjs blog template design with tailwind CSS.
 
 ## Tailwind CSS
 
