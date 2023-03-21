@@ -4,6 +4,30 @@ List of NPM libraries that helps to build small and large-scale applications wit
 
 I used 80% of the package as a front-end developer in this list. In the future, I will discover and mention more packages in the current list that helps build nextjs or front-end developers more efficiently for everyone.
 
+Table of Content 
+---
+---
+
+- [Awesome Nextjs ](#awesome-nextjs-)
+  - [Contributing](#contributing)
+    - [How to contribute?](#how-to-contribute)
+      - [Adding subcategory](#adding-subcategory)
+        - [Syntax](#syntax)
+      - [Adding item](#adding-item)
+        - [Syntax](#syntax-1)
+  - [Specify for Nextjs](#specify-for-nextjs)
+  - [Headless CMS](#headless-cms)
+  - [State Management](#state-management)
+  - [React UI Library](#react-ui-library)
+  - [Icon](#icon)
+  - [Nextjs based template](#nextjs-based-template)
+  - [Tailwind CSS](#tailwind-css)
+  - [Development Tool](#development-tool)
+  - [Chrome Extension](#chrome-extension)
+  - [Utility (Others )](#utility-others-)
+
+***
+
 ## Contributing
 
 You can share your favourite library, tool, or template related to nextjs. It helps full for other developers. Before the share your favourite library, tool, or template, please read our [Contribution guidelines](https://dillinger.io/.github/CONTRIBUTING.md).
@@ -33,30 +57,7 @@ You can add any npm package or library in the existing subcategory using the fol
 ```markdown
 - [title](link) : basic introduction
 ```
-
-Table of Content 
----
----
-
-- [Awesome Nextjs ](#awesome-nextjs-)
-  - [Contributing](#contributing)
-    - [How to contribute?](#how-to-contribute)
-      - [Adding subcategory](#adding-subcategory)
-        - [Syntax](#syntax)
-      - [Adding item](#adding-item)
-        - [Syntax](#syntax-1)
-  - [Specify for Nextjs](#specify-for-nextjs)
-  - [Headless CMS](#headless-cms)
-  - [State Management](#state-management)
-  - [React UI Library](#react-ui-library)
-  - [Icon](#icon)
-  - [Nextjs based template](#nextjs-based-template)
-  - [Tailwind CSS](#tailwind-css)
-  - [Development Tool](#development-tool)
-  - [Chrome Extension](#chrome-extension)
-  - [Utility (Others )](#utility-others-)
-
-*** 
+ 
 
 ## Specify for Nextjs
 
