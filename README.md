@@ -96,6 +96,9 @@ You can add any npm package or library in the existing subcategory using the fol
 - [MUI](https://mui.com/): Material UI provides a simple, customizable, accessible library of React components.
 - [Primer React](https://primer.style/react/): Primer React is built with Primer CSS and ReactJs by GitHub
 - [React bootstrap](https://react-bootstrap.github.io/): React bootstrap is made based on react and bootstrap.
+- [Ant Design](https://ant.design/): Ant Design UI is a high-quality React components library that helps designers/developers build beautiful products.
+- [Chakra UI](https://chakra-ui.com/): With the help of Chakra UI, you can quickly design a simple to complex site.  It gives you the building blocks to build your React applications.
+
 
 ## Icon
 
