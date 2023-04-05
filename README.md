@@ -5,7 +5,6 @@ List of NPM libraries that helps to build small and large-scale applications wit
 I used 80% of the package as a front-end developer in this list. In the future, I will discover and mention more packages in the current list that helps build nextjs or front-end developers more efficiently for everyone.
 
 ## Table of Content
----
 
 - [Awesome Nextjs ](#awesome-nextjs-)
   - [Contributing](#contributing)
@@ -24,8 +23,6 @@ I used 80% of the package as a front-end developer in this list. In the future, 
   - [Development Tool](#development-tool)
   - [Chrome Extension](#chrome-extension)
   - [Utility (Others )](#utility-others-)
-
-***
 
 ## Contributing
 
@@ -103,6 +100,8 @@ You can add any npm package or library in the existing subcategory using the fol
 ## Icon
 
 - [react icons](https://react-icons.github.io/react-icons/): Use the popular svg icons in your React projects easily with react-icons.
+- [MUI Icons](https://mui.com/material-ui/material-icons/): Material icons are ready-to-use with React, which is officially designed and maintained by the MUI team.
+
 
 ## Nextjs based template
 
