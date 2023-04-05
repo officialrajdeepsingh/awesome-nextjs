@@ -28,10 +28,6 @@ I used 80% of the package as a front-end developer in this list. In the future, 
 
 You can share your favourite library, tool, or template related to nextjs. It helps full for other developers. Before the share your favourite library, tool, or template, please read our [Contribution guidelines](https://dillinger.io/.github/CONTRIBUTING.md).
 
-<div style="background-color:DodgerBlue;padding:4px">
-  <h1 style="text-align:center;">Contribute</h1>
-</div>
-
 
 ### How to contribute
 
