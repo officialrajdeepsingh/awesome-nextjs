@@ -18,6 +18,7 @@ I used 80% of the package as a front-end developer in this list. In the future, 
   - [State Management](#state-management)
   - [React UI Library](#react-ui-library)
   - [Icon](#icon)
+  - [Static Search library](#static-search-library)
   - [Nextjs based template](#nextjs-based-template)
   - [Tailwind CSS](#tailwind-css)
   - [Development Tool](#development-tool)
