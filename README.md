@@ -109,7 +109,7 @@ You can add any npm package or library in the existing subcategory using the fol
 
 ## Static Search library 
 
-- [fusejs](https://fusejs.io/):Fusejs is a popular, powerful, lightweight search library for creating search functionality for sites.
+- [fusejs](https://fusejs.io/): Fusejs is a popular, powerful, lightweight search library for creating search functionality for sites.
 - [flex Search](https://github.com/nextapps-de/flexsearch): Next-Generation full text search library for Browser and Node.js
 - [orama](https://docs.oramasearch.com/): Orama is a powerful full-text search engine that works both on client and server.
 
