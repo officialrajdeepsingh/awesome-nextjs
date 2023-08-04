@@ -21,8 +21,8 @@ jobs:
       - uses: actions/upload-artifact@v3
         with:
           name: Upload PDF
-          files: [ pdfs/README.pdf ]
+          files: "pdfs/README.pdf" 
       - uses: actions/download-artifact@v3
         with:
           name: Download PDF
-          files: [ pdfs/README.pdf ]
+          files: "pdfs/README.pdf"
