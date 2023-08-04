@@ -1,21 +1,24 @@
-name: README to PDF
+name: Docs to PDF
 on:
   push:
     branches:
       - main
+    paths:
+      - 'README.md'
 
 jobs:
   converttopdf:
-    name: Build README PDF
+    name: Build PDF
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v2
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
-          input_path: ./README.md
-          table_of_contents: true
-          output_dir: pdf
+          input_dir: docs
+          output_dir: pdfs
+          # Default is true, can set to false to only get PDF files
           build_html: false
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v1
         with:
-          path: pdf/README.pdf
+          name: docs
+          path: pdfs
