@@ -1,5 +1,5 @@
 <h1 align="center"> Awesome Nextjs</h1>
-<div  style="display:flex;justify-content:center;align-items: center;">
+<div  align="center" style="display:flex;justify-content:center;align-items: center;">
 
 <img alt="Next.js" heigth="32" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 
