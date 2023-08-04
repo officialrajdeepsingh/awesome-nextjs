@@ -4,7 +4,9 @@ List of NPM libraries that helps to build small and large-scale applications wit
 
 I used 80% of the package as a front-end developer in this list. In the future, I will discover and mention more packages in the current list that helps build nextjs or front-end developers more efficiently for everyone.
 
-## Table of Content
+
+<details>
+  <summary> Table of Content </summary>
 
 - [Awesome Nextjs ](#awesome-nextjs-)
   - [Contributing](#contributing)
@@ -24,6 +26,8 @@ I used 80% of the package as a front-end developer in this list. In the future, 
   - [Development Tool](#development-tool)
   - [Chrome Extension](#chrome-extension)
   - [Utility (Others )](#utility-others-)
+
+</details>
 
 ## Contributing
 
@@ -73,6 +77,8 @@ You can add any npm package or library in the existing subcategory using the fol
 - [Nextra](https://nextra.site/): Nextra is a simple, powerful, and flexible site generation framework to build blogs and documents with Next.js and MDX.
 - [Create t3-app](https://create.t3.gg/): Build the full-stack application with TypeScript, Prisma, tRPC, NextAuth, Tailwind CSS, and Next.js app.
 - [Tina CMS](https://tina.io/): Tina CMS is a new nextjs-based CMS; it is an open-source, Git-backed headless CMS you can use with  Markdown, MDX, and JSON. 
+- [Out static](https://outstatic.com): Outstatic is a new static site content management system(CMS) built with Next.js. Special built for Next.js. It works with a pages and app router.
+
 
 
 ## Headless CMS
@@ -150,6 +156,11 @@ You can add any npm package or library in the existing subcategory using the fol
 - [Typescript](https://www.typescriptlang.org/): Typescript help to write type-safe JavaScript for production.
 - [@next/eslint-plugin-next](https://www.npmjs.com/package/@next/eslint-plugin-next): Next/eslint-plugin help to resolve the error
 - [@next/bundle-analyzer](https://www.npmjs.com/package/@next/bundle-analyzer) : Analyzer the bundle size with webpack-bundle-analyzer package in your Next.js.
+
+## Error Handling
+- [React Error Boundary](https://www.npmjs.com/package/react-error-boundary?activeTab=readme): The react error boundary package is a reusable React error boundary component. You can wrap your application with an Error Boundary component around other React components to catch errors and render a fallback UI.
+- [Use error boundary](https://www.npmjs.com/package/use-error-boundary): The use-error-boundary is a react hook, it is built to handle error boundaries in your react functional components.
+
 
 ## Chrome Extension
 
