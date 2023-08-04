@@ -18,12 +18,15 @@ jobs:
           output_dir: pdfs
           # Default is true, can set to false to only get PDF files
           build_html: false
+      
       - uses: actions/upload-artifact@v3
         with:
           name: Upload PDF
           path: pdfs/README.pdf
+      
       - name: List Files
         run: ls -R
+      
       - uses: actions/download-artifact@v3
         with:
           name: Download PDF
