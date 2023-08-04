@@ -21,7 +21,9 @@ jobs:
       - uses: actions/upload-artifact@v3
         with:
           name: Upload PDF
-          path: pdfs/README.pdf
+          files: pdfs/README.pdf
+      - name: List Files
+        run: ls -R
       - uses: actions/download-artifact@v3
         with:
           name: Download PDF
