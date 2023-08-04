@@ -1,4 +1,15 @@
-#  Awesome Nextjs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
+<h1 align="center"> Awesome Nextjs</h1>
+<div  style="display:flex;justify-content:center;align-items: center;">
+
+<img alt="Next.js" heigth="32" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+
+<img alt="Awesome" heigth="32" src="https://awesome.re/badge.svg">
+
+
+</div>
+
+---
+
 
 List of NPM libraries that helps to build small and large-scale applications with next.js. I created a list based on my working experience.
 
@@ -45,10 +56,7 @@ Your subcategory is not listed there, and you can create a subcategory yourself.
 ##### Syntax
 
 ```markdown
-
 ## name of the subcategory
-
-- [title](link) : Basic introduction
 ```
 
 #### Adding item
@@ -165,6 +173,9 @@ You can add any npm package or library in the existing subcategory using the fol
 ## Chrome Extension
 
 - [Gimli](https://gimli.app/): Gimli chrome extension is an innovative visual tool for front-end developers to build with tailwind CSS.
+- [NextJS Utilities Extension](https://chrome.google.com/webstore/detail/nextjs-utilities-extensio/ffcogmoganomoabikgmcmckdgojnpldo): Next.js Utilities Extension shows you the size of Next.js static data without installing of any additional stuff.
+- [GitHub Web IDE](): Open Any GitHub repositories in online web (cloud) IDE like VS Code, GitHub Dev, Code Sandbox, Repl.it, Gitpod etc.
+
 
 ## Utility (Others )
 
