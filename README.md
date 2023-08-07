@@ -26,6 +26,7 @@ I used 80% of the package as a front-end developer in this list. In the future, 
       - [Adding item](#adding-item)
         - [Syntax](#syntax-1)
   - [Specify for Nextjs](#specify-for-nextjs)
+  - [Nextjs boilerplate](nextjs-boilerplate)
   - [Headless CMS](#headless-cms)
   - [State Management](#state-management)
   - [React UI Library](#react-ui-library)
@@ -86,7 +87,13 @@ You can add any npm package or library in the existing subcategory using the fol
 - [Tina CMS](https://tina.io/): Tina CMS is a new nextjs-based CMS; it is an open-source, Git-backed headless CMS you can use with  Markdown, MDX, and JSON. 
 - [Out static](https://outstatic.com): Outstatic is a new static site content management system(CMS) built with Next.js. Special built for Next.js. It works with a pages and app router.
 
+## Nextjs boilerplate
 
+- [Next.js Enterprise Boilerplate](https://github.com/Blazity/next-enterprise): Next.js Enterprise Boilerplate, an open-source template, build a high-performance, maintainable, and enjoyable application.
+- [Create t3 App](https://github.com/t3-oss/create-t3-app): Interactive CLI to start a full-stack, type-safe new Next.js application.
+- [Nextjs Boilerplate](https://github.com/ixartz/Next-js-Boilerplate): Start new projects with App Router and Page Router support, Tailwind CSS and TypeScript, and many more.
+- [Superplate](https://github.com/pankod/superplate): superplate is well-structured and production-ready and comes with Typescript, Popular UI Kits and +30 plugins.
+- [Next.js + Tailwind CSS + TypeScript Starter and Boilerplate](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter): Combination of Next.js, Tailwind CSS, and TypeScript
 
 ## Headless CMS
 
