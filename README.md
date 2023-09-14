@@ -179,7 +179,7 @@ You can add any npm package or library in the existing subcategory using the fol
 ## VS Code extensions
 
 - [Next.Nav](https://marketplace.visualstudio.com/items?itemName=NextNav.NextNav): Using the VS Code extension, navigate and create routes easily in your Next.js application.
-
+- [Nextjs snippets](https://marketplace.visualstudio.com/items?itemName=PulkitGangwar.nextjs-snippets): Ready-made snippets for Next.js.
 
 ## Chrome Extension
 
