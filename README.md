@@ -180,6 +180,8 @@ You can add any npm package or library in the existing subcategory using the fol
 
 - [Next.Nav](https://marketplace.visualstudio.com/items?itemName=NextNav.NextNav): Using the VS Code extension, navigate and create routes easily in your Next.js application.
 - [Nextjs snippets](https://marketplace.visualstudio.com/items?itemName=PulkitGangwar.nextjs-snippets): Ready-made snippets for Next.js.
+- [Front Matter CMS](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-front-matter): Front Matter CMS gives you the power, flexibility, and control to work with Markdown.
+
 
 ## Chrome Extension
 
