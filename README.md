@@ -35,6 +35,7 @@ I used 80% of the package as a front-end developer in this list. In the future, 
   - [Nextjs based template](#nextjs-based-template)
   - [Tailwind CSS](#tailwind-css)
   - [Development Tool](#development-tool)
+  - [VS Code Extensions](#vs-code-extensions)
   - [Chrome Extension](#chrome-extension)
   - [Utility (Others )](#utility-others-)
 
@@ -174,6 +175,9 @@ You can add any npm package or library in the existing subcategory using the fol
 ## Error Handling
 - [React Error Boundary](https://www.npmjs.com/package/react-error-boundary?activeTab=readme): The react error boundary package is a reusable React error boundary component. You can wrap your application with an Error Boundary component around other React components to catch errors and render a fallback UI.
 - [Use error boundary](https://www.npmjs.com/package/use-error-boundary): The use-error-boundary is a react hook, it is built to handle error boundaries in your react functional components.
+
+## VS Code extensions
+
 
 
 ## Chrome Extension
