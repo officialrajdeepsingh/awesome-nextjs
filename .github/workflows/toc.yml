@@ -7,6 +7,6 @@ jobs:
     steps:
       - uses: technote-space/toc-generator@v4
         with:
-            TARGET_PATHS: "/README.md"
+            TARGET_PATHS: "README.md"
             MAX_HEADER_LEVEL: 1
             FOLDING: true
