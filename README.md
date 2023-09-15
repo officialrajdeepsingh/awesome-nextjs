@@ -14,34 +14,9 @@ List of NPM libraries that helps to build small and large-scale applications wit
 
 I used 80% of the package as a front-end developer in this list. In the future, I will discover and mention more packages in the current list that helps build nextjs or front-end developers more efficiently for everyone.
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-<details>
-<summary>Table of Contents</summary>
+<!-- START doctoc -->
+<!-- END doctoc -->
 
-- [Contributing](#contributing)
-  - [How to contribute](#how-to-contribute)
-    - [Adding subcategory](#adding-subcategory)
-      - [Syntax](#syntax)
-    - [Adding item](#adding-item)
-      - [Syntax](#syntax-1)
-- [Specify for Nextjs](#specify-for-nextjs)
-- [Nextjs boilerplate](#nextjs-boilerplate)
-- [Headless CMS](#headless-cms)
-- [State Management](#state-management)
-- [React UI Library](#react-ui-library)
-- [Icon](#icon)
-- [Static Search library](#static-search-library)
-- [Nextjs based template](#nextjs-based-template)
-- [Tailwind CSS](#tailwind-css)
-- [Development Tool](#development-tool)
-- [Error Handling](#error-handling)
-- [VS Code extensions](#vs-code-extensions)
-- [Chrome Extension](#chrome-extension)
-- [Utility (Others )](#utility-others-)
-
-</details>
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Contributing
 
