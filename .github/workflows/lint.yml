@@ -1,0 +1,21 @@
+on:
+  push:
+    branches:
+      - main
+
+name: 'Trigger: Push action'
+jobs:
+  write_good_job:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+    
+    name: A job to lint Markdown files
+
+    steps:
+    - uses: actions/checkout@v4
+    - uses: articulate/actions-markdownlint@v1
+      with:
+        config: markdownlint-config.json
+        files: 'docs/**/*.md'
+        ignore: node_modules
