@@ -17,28 +17,8 @@ I used 80% of the package as a front-end developer in this list. In the future, 
 
 <details>
   <summary> Table of Content </summary>
-
-- [Awesome Nextjs ](#awesome-nextjs-)
-  - [Contributing](#contributing)
-    - [How to contribute](#how-to-contribute)
-      - [Adding subcategory](#adding-subcategory)
-        - [Syntax](#syntax)
-      - [Adding item](#adding-item)
-        - [Syntax](#syntax-1)
-  - [Specify for Nextjs](#specify-for-nextjs)
-  - [Nextjs boilerplate](nextjs-boilerplate)
-  - [Headless CMS](#headless-cms)
-  - [State Management](#state-management)
-  - [React UI Library](#react-ui-library)
-  - [Icon](#icon)
-  - [Static Search library](#static-search-library)
-  - [Nextjs based template](#nextjs-based-template)
-  - [Tailwind CSS](#tailwind-css)
-  - [Development Tool](#development-tool)
-  - [VS Code Extensions](#vs-code-extensions)
-  - [Chrome Extension](#chrome-extension)
-  - [Utility (Others )](#utility-others-)
-
+  <!-- START doctoc -->
+  <!-- END doctoc -->
 </details>
 
 ## Contributing
