@@ -11,6 +11,29 @@ Our contribution guideline is simple and easy for everyone. So everyone easily c
 ## Do It
  * We accept only those packages which actively contributed by the maintainer or community.
 
+### How to contribute
+
+You start to contribute with the following syntax. Make sure you do not add any promotions or spam links.
+
+#### Adding subcategory
+
+Your subcategory is not listed there, and you can create a subcategory yourself.
+
+##### Syntax
+
+```markdown
+## name of the subcategory
+```
+
+#### Adding item
+
+You can add any npm package or library in the existing subcategory using the following syntax.
+
+##### Syntax
+
+```markdown
+- [title](link) : Basic introduction
+```
 
 ## Make changes locally
 1. Fork the repository locally.
