@@ -2,12 +2,14 @@ on:
   push:
     branches:
       - main
-      
+
 name: TOC Generator
 jobs:
   generateTOC:
     name: TOC Generator
     runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
     steps:
       - uses: technote-space/toc-generator@v4
         with:
