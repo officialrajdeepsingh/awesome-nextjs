@@ -1,4 +1,20 @@
 {
+  "name": "awesome-nextjs",
+  "description": "A curated list of awesome Nextjs-based libraries that help build small and large-scale applications with next.js.",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/officialrajdeepsingh/awesome-nextjs.git"
+  },
+  "keywords": [
+    "awesome-next"
+  ],
+  "author": "Rajdeep singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/officialrajdeepsingh/awesome-nextjs/issues"
+  },
+  "homepage": "https://github.com/officialrajdeepsingh/awesome-nextjs#readme",
   "scripts": {
     "pdf": "pnpm  md-to-pdf  --highlight-style github-dark ./README.md"
   },
