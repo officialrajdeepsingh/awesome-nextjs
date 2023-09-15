@@ -10,3 +10,4 @@ jobs:
             TARGET_PATHS: "README.md"
             MAX_HEADER_LEVEL: 1
             FOLDING: true
+            GITHUB_TOKEN: ${{ secrets.ACCESS_TOC_TOKEN }}
