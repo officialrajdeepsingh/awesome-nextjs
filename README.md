@@ -1,4 +1,4 @@
-<h1 align="center"> Awesome Nextjs</h1>
+<h1 align="center">Awesome Nextjs</h1>
 <div  align="center" style="display:flex;justify-content:center;align-items: center;">
 
 <img alt="Next.js" heigth="32" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
@@ -20,31 +20,6 @@ I used 80% of the package as a front-end developer in this list. In the future, 
 ## Contributing
 
 You can share your favourite library, tool, or template related to nextjs. It helps full for other developers. Before the share your favourite library, tool, or template, please read our [Contribution guidelines](/CONTRIBUTING.md).
-
-
-### How to contribute
-
-You start to contribute with the following syntax. Make sure you do not add any promotions or spam links.
-
-#### Adding subcategory
-
-Your subcategory is not listed there, and you can create a subcategory yourself.
-
-##### Syntax
-
-```markdown
-## name of the subcategory
-```
-
-#### Adding item
-
-You can add any npm package or library in the existing subcategory using the following syntax.
-
-##### Syntax
-
-```markdown
-- [title](link) : Basic introduction
-```
 
 ---
 
@@ -149,6 +124,7 @@ You can add any npm package or library in the existing subcategory using the fol
 - [@next/bundle-analyzer](https://www.npmjs.com/package/@next/bundle-analyzer) : Analyzer the bundle size with webpack-bundle-analyzer package in your Next.js.
 
 ## Error Handling
+
 - [React Error Boundary](https://www.npmjs.com/package/react-error-boundary?activeTab=readme): The react error boundary package is a reusable React error boundary component. You can wrap your application with an Error Boundary component around other React components to catch errors and render a fallback UI.
 - [Use error boundary](https://www.npmjs.com/package/use-error-boundary): The use-error-boundary is a react hook, it is built to handle error boundaries in your react functional components.
 
@@ -166,10 +142,6 @@ You can add any npm package or library in the existing subcategory using the fol
 - [GitHub Web IDE](): Open Any GitHub repositories in online web (cloud) IDE like VS Code, GitHub Dev, Code Sandbox, Repl.it, Gitpod etc.
 
 
-## Utility (Others )
+## Utility (Others)
 
 - [Demo posts for markdown](https://github.com/frontendweb3/Demo-markdown-posts): Demo markdown posts are used to design your new blog base template. You do not write markdown demo posts. You can use demo markdown posts with any static site generator which supports markdown---for example, next.js, gatsby, lume, fresh, etc. Demo markdown posts are written with Lorem Ipsum. I can use bold, italic, code block, inline code, links, images, and quotes in markdown posts.
-
-
-
-
