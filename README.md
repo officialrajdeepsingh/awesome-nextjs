@@ -158,7 +158,7 @@ You can share your favourite library, tool, or template related to nextjs. It he
 
 - [Gimli](https://gimli.app/): Gimli chrome extension is an innovative visual tool for front-end developers to build with tailwind CSS.
 - [NextJS Utilities Extension](https://chrome.google.com/webstore/detail/nextjs-utilities-extensio/ffcogmoganomoabikgmcmckdgojnpldo): Next.js Utilities Extension shows you the size of Next.js static data without installing of any additional stuff.
-- [GitHub Web IDE](): Open Any GitHub repositories in online web (cloud) IDE like VS Code, GitHub Dev, Code Sandbox, Repl.it, Gitpod etc.
+- [GitHub Web IDE](https://chromewebstore.google.com/detail/github-web-ide/adjiklnjodbiaioggfpbpkhbfcnhgkfe): Open Any GitHub repositories in online web (cloud) IDE like VS Code, GitHub Dev, Code Sandbox, Repl.it, Gitpod etc.
 
 
 ## Utility (Others)
