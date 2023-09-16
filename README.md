@@ -1,5 +1,6 @@
 <h1 align="center">Awesome Nextjs</h1>
-<div  align="center" style="display:flex;justify-content:center;align-items: center;">
+
+<div align="center" style="display:flex;justify-content:center;align-items: center;">
 
 <img alt="Next.js" heigth="32" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 
@@ -8,7 +9,6 @@
 </div>
 
 ---
-
 
 List of NPM libraries that helps to build small and large-scale applications with next.js. I created a list based on my working experience.
 
