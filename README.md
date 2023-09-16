@@ -72,7 +72,6 @@ You can share your favourite library, tool, or template related to nextjs. It he
 - [Ghost](https://ghost.org/): Ghost is a popular open-source CMS perfect for creating blogs. It offers a simple, user-friendly API interface that makes creating and publishing articles easy.
 - [Netlify CMS](https://github.com/decaporg/decap-cms): Decap CMS(Netlify CMS) work with all type of static site generators. It permits users to edit, update and delete content to any site built with a static generator. You can use Decap CMS without any technical knowledge.
 - [Forestry](https://forestry.io/): Forestry is a headless CMS easy-to-customizable, configurable and integrated with all types of static site generators.
-- [React Context](https://react.dev/learn/passing-data-deeply-with-context): React.createContext() is a React API allowing you to pass or share between react components.
 
 ## State Management
 
