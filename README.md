@@ -1,7 +1,8 @@
 <h1 align="center">Awesome Nextjs</h1>
+
 <div align="center" style="display:flex;justify-content:center;align-items: center;">
 
-<img alt="Next.js" style="margin-left:10px" heigth="32" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+<img alt="Next.js" heigth="32" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 
 <img alt="Awesome" heigth="32" src="https://awesome.re/badge.svg">
 
@@ -23,7 +24,7 @@ I used 80% of the package as a front-end developer in this list. In the future, 
 - [Headless CMS](#headless-cms)
 - [State Management](#state-management)
 - [React UI Library](#react-ui-library)
-- [Icon](#icon)
+- [Icons Library](#icons-library)
 - [Static Search library](#static-search-library)
 - [Nextjs based template](#nextjs-based-template)
 - [Tailwind CSS](#tailwind-css)
@@ -92,7 +93,7 @@ You can share your favourite library, tool, or template related to nextjs. It he
 - [Chakra UI](https://chakra-ui.com/): With the help of Chakra UI, you can quickly design a simple to complex site.  It gives you the building blocks to build your React applications.
 
 
-## Icon
+## Icons Library
 
 - [react icons](https://react-icons.github.io/react-icons/): Use the popular svg icons in your React projects easily with react-icons.
 - [MUI Icons](https://mui.com/material-ui/material-icons/): Material icons are ready-to-use with React, which is officially designed and maintained by the MUI team.
