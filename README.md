@@ -1,7 +1,7 @@
 <h1 align="center">Awesome Nextjs</h1>
 <div align="center" style="display:flex;justify-content:center;align-items: center;">
 
-<img alt="Next.js" heigth="32" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+<img alt="Next.js" style="margin-left:10px" heigth="32" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 
 <img alt="Awesome" heigth="32" src="https://awesome.re/badge.svg">
 
