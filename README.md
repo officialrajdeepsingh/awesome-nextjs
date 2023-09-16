@@ -1,5 +1,4 @@
 <h1 align="center">Awesome Nextjs</h1>
-
 <div align="center" style="display:flex;justify-content:center;align-items: center;">
 
 <img alt="Next.js" heigth="32" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
@@ -14,9 +13,27 @@ List of NPM libraries that helps to build small and large-scale applications wit
 
 I used 80% of the package as a front-end developer in this list. In the future, I will discover and mention more packages in the current list that helps build nextjs or front-end developers more efficiently for everyone.
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<details>
 
+<summary>Table of Contents</summary>
+
+- [Contributing](#contributing)
+- [Specify for Nextjs](#specify-for-nextjs)
+- [Nextjs boilerplate](#nextjs-boilerplate)
+- [Headless CMS](#headless-cms)
+- [State Management](#state-management)
+- [React UI Library](#react-ui-library)
+- [Icon](#icon)
+- [Static Search library](#static-search-library)
+- [Nextjs based template](#nextjs-based-template)
+- [Tailwind CSS](#tailwind-css)
+- [Development Tool](#development-tool)
+- [Error Handling](#error-handling)
+- [VS Code extensions](#vs-code-extensions)
+- [Chrome Extension](#chrome-extension)
+- [Utility (Others)](#utility-others)
+
+</details>
 
 ## Contributing
 
