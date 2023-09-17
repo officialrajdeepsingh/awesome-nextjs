@@ -6,30 +6,31 @@ Read our [Code of Conduct](../CODE_OF_CONDUCT.md) to keep our community approach
 ## Contributor Guidelines
 Our contribution guideline is simple and easy for everyone. So everyone easily creates contribute without any problem.
 
-## Do Not
+### Do Not
  * We do not accept any promotion links.
-## Do It
+
+### Do It
  * We accept only those packages which actively contributed by the maintainer or community.
 
-### How to contribute
+## How to contribute
 
 You start to contribute with the following syntax. Make sure you do not add any promotions or spam links.
 
-#### Adding subcategory
+### Adding subcategory
 
 Your subcategory is not listed there, and you can create a subcategory yourself.
 
-##### Syntax
+**Syntax**
 
 ```markdown
 ## name of the subcategory
 ```
 
-#### Adding item
+### Adding item
 
 You can add any npm package or library in the existing subcategory using the following syntax.
 
-##### Syntax
+**Syntax**
 
 ```markdown
 - [title](link) : Basic introduction
