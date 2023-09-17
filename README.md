@@ -14,7 +14,8 @@ List of NPM libraries that helps to build small and large-scale applications wit
 
 I used 80% of the package as a front-end developer in this list. In the future, I will discover and mention more packages in the current list that helps build nextjs or front-end developers more efficiently for everyone.
 
-<details>
+
+<details> 
 
 <summary>Table of Contents</summary>
 
