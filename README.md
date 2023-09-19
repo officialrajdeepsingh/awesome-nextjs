@@ -39,7 +39,7 @@ I used 80% of the package as a front-end developer in this list. In the future, 
 
 ## Contributing
 
-You can share your favourite library, tool, or template related to nextjs. It helps full for other developers. Before the share your favourite library, tool, or template, please read our [Contribution guidelines](/CONTRIBUTING.md).
+You can share your favourite library, tool, or template related to nextjs. It helps full for other developers. Before the share your favourite library, tool, or template, please read our [Contribution guidelines](CONTRIBUTING.md).
 
 ---
 
