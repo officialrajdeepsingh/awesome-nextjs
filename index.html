@@ -74,16 +74,13 @@
           function editButton(hook, vm) {
             // The date template pattern
             $docsify.formatUpdated = "{YYYY}/{MM}/{DD} {HH}:{mm}";
-            console.log("vm :", vm);
             hook.beforeEach(function (html) {
               
               var url = "https://github.com/officialrajdeepsingh/awesome-nextjs/blob/main" + vm.route.file;
               
               let tempFile= url.replace("awesome-nextjs/README.md", "/README.md")
                   ? url.replace("awesome-nextjs/README.md", "/README.md")
-                  : url 
-             
-                console.log(tempFile)
+                  : url
 
               var editHtml = "[📝 EDIT DOCUMENT](" + tempFile + ")\n";
 
