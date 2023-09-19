@@ -70,7 +70,22 @@
         name: "Awesome Nextjs",
         repo: "officialrajdeepsingh/awesome-nextjs",
         sidebarDisplayLevel: 1,
-              };
+        plugins: [
+          function editButton(hook, vm) {
+            // The date template pattern
+            $docsify.formatUpdated = "{YYYY}/{MM}/{DD} {HH}:{mm}";
+
+            hook.beforeEach(function (html) {
+              var url =
+                "https://cdn.jsdelivr.net/gh/officialrajdeepsingh/awesome-nextjs/blob/main/" +
+                vm.route.file;
+              var editHtml = "[📝 EDIT DOCUMENT](" + url + ")\n";
+
+              return editHtml + html + "\n----\n" + "Last modified " + editHtml;
+            });
+          },
+        ],
+      };
     </script>
 
     <!-- Docsify v4 -->
