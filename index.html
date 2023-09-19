@@ -79,10 +79,12 @@
               
               var url = "https://github.com/officialrajdeepsingh/awesome-nextjs/blob/main" + vm.route.file;
               
-              let tempFile= url.replace("awesome-nextjs/README.md", "/")
-                  ? url.replace("awesome-nextjs/README.md", "/")
+              let tempFile= url.replace("awesome-nextjs/README.md", "/README.md")
+                  ? url.replace("awesome-nextjs/README.md", "/README.md")
                   : url 
-              
+             
+                console.log(tempFile)
+
               var editHtml = "[📝 EDIT DOCUMENT](" + tempFile + ")\n";
 
               return editHtml + html + "\n----\n" + "Last modified " + editHtml;
