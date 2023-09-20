@@ -1,7 +1,7 @@
 # Welcome to GitHub docs contributing guide
 Thank you for investing your time in contributing to our project! Your contribution is reflected in the readme.
 
-Read our [Code of Conduct](../CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
+Read our [Code of Conduct](/CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
 
 ## Contributor Guidelines
 Our contribution guideline is simple and easy for everyone. So everyone easily creates contribute without any problem.
