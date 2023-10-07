@@ -86,6 +86,7 @@ You can share your favourite library, tool, or template related to nextjs. It he
 ## React UI Library
 
 - [Radix UI](https://www.radix-ui.com/): An open source component library optimized for fast development, easy maintenance, and accessibility.
+- [Shadcn UI](https://ui.shadcn.com/): Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [MUI](https://mui.com/): Material UI provides a simple, customizable, accessible library of React components.
 - [Primer React](https://primer.style/react/): Primer React is built with Primer CSS and ReactJs by GitHub
 - [React bootstrap](https://react-bootstrap.github.io/): React bootstrap is made based on react and bootstrap.
