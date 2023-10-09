@@ -69,6 +69,7 @@ You can share your favourite library, tool, or template related to nextjs. It he
 
 ## Headless CMS
 
+- [Wordpress](https://wordpress.org/): WordPress is an open-source CMS and is ready for production. Using the built-in REST API, WordPress can power any website. 
 - [Strapi](https://strapi.io/): Strapi is a powerful open-source node js-based Content Management System (CMS) perfect for small to large-scale websites.
 - [Ghost](https://ghost.org/): Ghost is a popular open-source CMS perfect for creating blogs. It offers a simple, user-friendly API interface that makes creating and publishing articles easy.
 - [Netlify CMS](https://github.com/decaporg/decap-cms): Decap CMS(Netlify CMS) work with all type of static site generators. It permits users to edit, update and delete content to any site built with a static generator. You can use Decap CMS without any technical knowledge.
