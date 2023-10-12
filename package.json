@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/officialrajdeepsingh/awesome-nextjs/issues"
   },
-  "homepage": "https://github.com/officialrajdeepsingh/awesome-nextjs#readme"
+  "scripts": {
+    "docsify": "docsify"
+  },
+  "homepage": "https://github.com/officialrajdeepsingh/awesome-nextjs#readme",
+  "dependencies": {
+    "docsify-cli": "^4.4.4"
+  }
 }
