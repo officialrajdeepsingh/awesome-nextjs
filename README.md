@@ -28,6 +28,7 @@ I used 80% of the package as a front-end developer in this list. In the future, 
 - [Icons Library](#icons-library)
 - [Static Search library](#static-search-library)
 - [Nextjs based template](#nextjs-based-template)
+- [Ready-Made React Hooks](ready-made-react-hooks)
 - [Tailwind CSS](#tailwind-css)
 - [Development Tool](#development-tool)
 - [Error Handling](#error-handling)
@@ -112,6 +113,11 @@ You can share your favourite library, tool, or template related to nextjs. It he
 - [Minimalist](https://github.com/frontendweb3/minimalist): Minimalist blog template built with nextjs and tailwind css.
 - [Open Blog](https://github.com/frontendweb3/open-blog): Open blog is a bloging template built with nextjs, tailwind CSS and markdown.
 - [Blogify](https://github.com/frontendweb3/blogify): Blogify is an open-source nextjs blog template design with tailwind CSS.
+
+## Ready-Made Reactjs Hooks
+
+- [usehooks-ts](https://usehooks-ts.com/) : React hook library, ready to use, written in Typescript.
+
 
 ## Tailwind CSS
 
