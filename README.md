@@ -116,7 +116,8 @@ You can share your favourite library, tool, or template related to nextjs. It he
 
 ## Ready-Made Reactjs Hooks
 
-- [usehooks-ts](https://usehooks-ts.com/) : React hook library, ready to use, written in Typescript.
+- [usehooks-ts](https://usehooks-ts.com) : React hook library, ready to use, written in Typescript.
+- [Mantine Hooks](https://mantine.dev/getting-started) : Mantine Hooks provide Inbuilt readymade reactjs hooks for handling state and UI management.
 
 
 ## Tailwind CSS
