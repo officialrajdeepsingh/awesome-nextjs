@@ -87,15 +87,15 @@ You can share your favourite library, tool, or template related to nextjs. It he
 
 ## React UI Library
 
-- [Tail Spark](https://tailspark.co): Tail Spark is lightning, fast, beautifully designed and ready for production. Tail Spark comes with 300+ Tailwind CSS Components, All the components come with copy and paste code.
-- [Radix UI](https://www.radix-ui.com/): An open source component library optimized for fast development, easy maintenance, and accessibility.
-- [Shadcn UI](https://ui.shadcn.com/): Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
-- [MUI](https://mui.com/): Material UI provides a simple, customizable, accessible library of React components.
-- [Primer React](https://primer.style/react/): Primer React is built with Primer CSS and ReactJs by GitHub
+- [Tail Spark](https://tailspark.co) : Tail Spark is lightning, fast, beautifully designed and ready for production. Tail Spark comes with 300+ Tailwind CSS Components, All the components come with copy and paste code.
+- [Radix UI](https://www.radix-ui.com/) : An open source component library optimized for fast development, easy maintenance, and accessibility.
+- [Shadcn UI](https://ui.shadcn.com/) : Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [MUI](https://mui.com/) : Material UI provides a simple, customizable, accessible library of React components.
+- [Primer React](https://primer.style/react/) : Primer React is built with Primer CSS and ReactJs by GitHub
 - [React bootstrap](https://react-bootstrap.github.io/): React bootstrap is made based on react and bootstrap.
-- [Ant Design](https://ant.design/): Ant Design UI is a high-quality React components library that helps designers/developers build beautiful products.
-- [Chakra UI](https://chakra-ui.com/): With the help of Chakra UI, you can quickly design a simple to complex site.  It gives you the building blocks to build your React applications.
-
+- [Ant Design](https://ant.design/) : Ant Design UI is a high-quality React components library that helps designers/developers build beautiful products.
+- [Chakra UI](https://chakra-ui.com/) : With the help of Chakra UI, you can quickly design a simple to complex site.  It gives you the building blocks to build your React applications.
+- [Next UI](https://nextui.org) : Beautiful, fast and modern React UI library.
 
 ## Icons Library
 
@@ -106,9 +106,9 @@ You can share your favourite library, tool, or template related to nextjs. It he
 
 ## Static Search library 
 
-- [fusejs](https://fusejs.io/): Fusejs is a popular, powerful, lightweight search library for creating search functionality for sites.
-- [flex Search](https://github.com/nextapps-de/flexsearch): Next-Generation full text search library for Browser and Node.js
-- [orama](https://docs.oramasearch.com/): Orama is a powerful full-text search engine that works both on client and server.
+- [Fusejs](https://fusejs.io/): Fusejs is a popular, powerful, lightweight search library for creating search functionality for sites.
+- [Flex Search](https://github.com/nextapps-de/flexsearch): Next-Generation full text search library for Browser and Node.js
+- [Orama](https://docs.oramasearch.com/): Orama is a powerful full-text search engine that works both on client and server.
 
 ## Nextjs based template
 
