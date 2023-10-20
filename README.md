@@ -99,7 +99,7 @@ You can share your favourite library, tool, or template related to nextjs. It he
 
 ## Icons Library
 
-- [react icons](https://react-icons.github.io/react-icons/): Use the popular svg icons in your React projects easily with react-icons.
+- [React icons](https://react-icons.github.io/react-icons/): Use the popular svg icons in your React projects easily with react-icons.
 - [MUI Icons](https://mui.com/material-ui/material-icons/): Material icons are ready-to-use with React, which is officially designed and maintained by the MUI team.
 - [Icon Buddy](https://iconbuddy.app/) : Icon Buddy comes to downloads, customized, edits, and personalized. Icon Buddy has over 180k open-source icons.
 
