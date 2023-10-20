@@ -95,7 +95,7 @@ You can share your favourite library, tool, or template related to nextjs. It he
 - [React bootstrap](https://react-bootstrap.github.io/): React bootstrap is made based on react and bootstrap.
 - [Ant Design](https://ant.design/) : Ant Design UI is a high-quality React components library that helps designers/developers build beautiful products.
 - [Chakra UI](https://chakra-ui.com/) : With the help of Chakra UI, you can quickly design a simple to complex site.  It gives you the building blocks to build your React applications.
-- [Next UI](https://nextui.org) : Beautiful, fast and modern React UI library.
+- [Kuma UI](https://www.kuma-ui.com/) : Empower Your Web with Ultimate Performance and Flexibility.
 
 ## Icons Library
 
@@ -148,6 +148,7 @@ You can share your favourite library, tool, or template related to nextjs. It he
 - [Tailblocks](https://tailblocks.cc/): Tailblocks is a small library based on tailwind CSS. Tailblocks provide 60+ inbuilt components.
 - [Tailwind toolbox](https://www.tailwindtoolbox.com/): A tailwind toolbox site is where you find other people's projects on tailwind CSS. All the project is free, and you copy and paste code into your project.
 - [Headless UI](https://headlessui.com/): Built-in the react UI components designed with Tailwind CSS.
+- [Next UI](https://nextui.org) : Beautiful, fast and modern React UI library.
 
 ## Development Tool
 
