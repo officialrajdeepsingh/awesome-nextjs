@@ -103,7 +103,8 @@ You can share your favourite library, tool, or template related to nextjs. It he
 - [MUI Icons](https://mui.com/material-ui/material-icons/): Material icons are ready-to-use with React, which is officially designed and maintained by the MUI team.
 - [Icon Buddy](https://iconbuddy.app/): Icon Buddy comes to downloads, customized, edits, and personalized. Icon Buddy has over 180k open-source icons.
 - [Flowbite Icon](https://flowbite.com/icons/): Flowbite Icons is a 487+ free and open-source SVG icon library. it is compatible with Flowbite and Tailwind CSS based on solid and outline styles with React (JSX) and Figma support.
-
+- [Hero Icons](https://heroicons.com/): Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
+- [Lucide](https://lucide.dev/): Beautiful & consistent icons Made by the community.
 
 
 ## Static Search library 
