@@ -107,7 +107,9 @@ You can share your favourite library, tool, or template related to nextjs. It he
 - [Lucide](https://lucide.dev/): Beautiful & consistent icons Made by the community.
 - [Eva Icons](): Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common use.
 - [Icon Monstr](https://iconmonstr.com/): iconmonstr is a free, monstrously big and continuously growing icon library.
-
+- [Icon SVG](https://iconsvg.xyz/): ICONSVG is a tool to simplify the process of finding and generating common icons for your project.
+- [Iconoir](https://iconoir.com/): Iconoir is an open-source library with 1300+ unique SVG icons, designed on a 24x24 pixels grid. No premium icons, no email sign-up, no newsletters.
+- [Icons.download](https://icons.download/): Open-source free universal icons.
 
 ## Static Search library 
 
