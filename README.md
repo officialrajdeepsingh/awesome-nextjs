@@ -93,16 +93,23 @@ You can share your favourite library, tool, or template related to nextjs. It he
 - [MUI](https://mui.com/) : Material UI provides a simple, customizable, accessible library of React components.
 - [Primer React](https://primer.style/react/) : Primer React is built with Primer CSS and ReactJs by GitHub
 - [React bootstrap](https://react-bootstrap.github.io/): React bootstrap is made based on react and bootstrap.
-- [Ant Design](https://ant.design/) : Ant Design UI is a high-quality React components library that helps designers/developers build beautiful products.
-- [Chakra UI](https://chakra-ui.com/) : With the help of Chakra UI, you can quickly design a simple to complex site.  It gives you the building blocks to build your React applications.
-- [Kuma UI](https://www.kuma-ui.com/) : Empower Your Web with Ultimate Performance and Flexibility.
+- [Ant Design](https://ant.design/): Ant Design UI is a high-quality React components library that helps designers/developers build beautiful products.
+- [Chakra UI](https://chakra-ui.com/): With the help of Chakra UI, you can quickly design a simple to complex site.  It gives you the building blocks to build your React applications.
+- [Kuma UI](https://www.kuma-ui.com/): Empower Your Web with Ultimate Performance and Flexibility.
 
 ## Icons Library
 
 - [React icons](https://react-icons.github.io/react-icons/): Use the popular svg icons in your React projects easily with react-icons.
 - [MUI Icons](https://mui.com/material-ui/material-icons/): Material icons are ready-to-use with React, which is officially designed and maintained by the MUI team.
-- [Icon Buddy](https://iconbuddy.app/) : Icon Buddy comes to downloads, customized, edits, and personalized. Icon Buddy has over 180k open-source icons.
-
+- [Icon Buddy](https://iconbuddy.app/): Icon Buddy comes to downloads, customized, edits, and personalized. Icon Buddy has over 180k open-source icons.
+- [Flowbite Icon](https://flowbite.com/icons/): Flowbite Icons is a 487+ free and open-source SVG icon library. it is compatible with Flowbite and Tailwind CSS based on solid and outline styles with React (JSX) and Figma support.
+- [Hero Icons](https://heroicons.com/): Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
+- [Lucide](https://lucide.dev/): Beautiful & consistent icons Made by the community.
+- [Eva Icons](): Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common use.
+- [Icon Monstr](https://iconmonstr.com/): iconmonstr is a free, monstrously big and continuously growing icon library.
+- [Icon SVG](https://iconsvg.xyz/): ICONSVG is a tool to simplify the process of finding and generating common icons for your project.
+- [Iconoir](https://iconoir.com/): Iconoir is an open-source library with 1300+ unique SVG icons, designed on a 24x24 pixels grid. No premium icons, no email sign-up, no newsletters.
+- [Icons.download](https://icons.download/): Open-source free universal icons.
 
 ## Static Search library 
 
