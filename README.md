@@ -105,6 +105,8 @@ You can share your favourite library, tool, or template related to nextjs. It he
 - [Flowbite Icon](https://flowbite.com/icons/): Flowbite Icons is a 487+ free and open-source SVG icon library. it is compatible with Flowbite and Tailwind CSS based on solid and outline styles with React (JSX) and Figma support.
 - [Hero Icons](https://heroicons.com/): Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
 - [Lucide](https://lucide.dev/): Beautiful & consistent icons Made by the community.
+- [Eva Icons](): Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common use.
+- [Icon Monstr](https://iconmonstr.com/): iconmonstr is a free, monstrously big and continuously growing icon library.
 
 
 ## Static Search library 
