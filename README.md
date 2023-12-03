@@ -10,9 +10,9 @@
 
 ---
 
-List of NPM libraries that helps to build small and large-scale applications with next.js. I created a list based on my working experience.
+List of NPM libraries that help to build small and large-scale applications with next.js. I created a list based on my working experience.
 
-I used 80% of the package as a front-end developer in this list. In the future, I will discover and mention more packages in the current list that helps build nextjs or front-end developers more efficiently for everyone.
+I used 80% of the package as a front-end developer in this list. In the future, I will discover and mention more packages in the current list that help build nextjs or front-end developers more efficiently for everyone.
 
 
 <details> 
@@ -27,7 +27,7 @@ I used 80% of the package as a front-end developer in this list. In the future, 
 - [React UI Library](#react-ui-library)
 - [Icons Library](#icons-library)
 - [Static Search library](#static-search-library)
-- [Nextjs based template](#nextjs-based-template)
+- [Nextjs-based template](#nextjs-based-template)
 - [Ready-Made React Hooks](#ready-made-reactjs-hooks)
 - [Tailwind CSS](#tailwind-css)
 - [Development Tool](#development-tool)
@@ -40,7 +40,7 @@ I used 80% of the package as a front-end developer in this list. In the future, 
 
 ## Contributing
 
-You can share your favourite library, tool, or template related to nextjs. It helps full for other developers. Before the share your favourite library, tool, or template, please read our [Contribution guidelines](CONTRIBUTING.md).
+You can share your favourite library, tool, or template related to nextjs. It helps full for other developers. Before sharing your favourite library, tool, or template, please read our [Contribution guidelines](CONTRIBUTING.md).
 
 ---
 
@@ -87,11 +87,11 @@ You can share your favourite library, tool, or template related to nextjs. It he
 
 ## React UI Library
 
-- [Tail Spark](https://tailspark.co) : Tail Spark is lightning, fast, beautifully designed and ready for production. Tail Spark comes with 300+ Tailwind CSS Components, All the components come with copy and paste code.
-- [Radix UI](https://www.radix-ui.com/) : An open source component library optimized for fast development, easy maintenance, and accessibility.
-- [Shadcn UI](https://ui.shadcn.com/) : Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
-- [MUI](https://mui.com/) : Material UI provides a simple, customizable, accessible library of React components.
-- [Primer React](https://primer.style/react/) : Primer React is built with Primer CSS and ReactJs by GitHub
+- [Tail Spark](https://tailspark.co): Tail Spark is lightning, fast, beautifully designed and ready for production. Tail Spark comes with 300+ Tailwind CSS Components, All the components come with copy and paste code.
+- [Radix UI](https://www.radix-ui.com/): An open source component library optimized for fast development, easy maintenance, and accessibility.
+- [Shadcn UI](https://ui.shadcn.com/): Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [MUI](https://mui.com/): Material UI provides a simple, customizable, accessible library of React components.
+- [Primer React](https://primer.style/react/): Primer React is built with Primer CSS and ReactJs by GitHub
 - [React bootstrap](https://react-bootstrap.github.io/): React bootstrap is made based on react and bootstrap.
 - [Ant Design](https://ant.design/): Ant Design UI is a high-quality React components library that helps designers/developers build beautiful products.
 - [Chakra UI](https://chakra-ui.com/): With the help of Chakra UI, you can quickly design a simple to complex site.  It gives you the building blocks to build your React applications.
@@ -109,7 +109,7 @@ You can share your favourite library, tool, or template related to nextjs. It he
 - [Icon Monstr](https://iconmonstr.com/): iconmonstr is a free, monstrously big and continuously growing icon library.
 - [Icon SVG](https://iconsvg.xyz/): ICONSVG is a tool to simplify the process of finding and generating common icons for your project.
 - [Iconoir](https://iconoir.com/): Iconoir is an open-source library with 1300+ unique SVG icons, designed on a 24x24 pixels grid. No premium icons, no email sign-up, no newsletters.
-- [Icons.download](https://icons.download/): Open-source free universal icons.
+- [Icons download](https://icons.download/): Open-source free universal icons.
 
 ## Static Search library 
 
@@ -125,15 +125,15 @@ You can share your favourite library, tool, or template related to nextjs. It he
 
 ## Ready-Made Reactjs Hooks
 
-- [usehooks-ts](https://usehooks-ts.com) : React hook library, ready to use, written in Typescript.
-- [Mantine Hooks](https://mantine.dev/getting-started) : Mantine Hooks provide Inbuilt readymade reactjs hooks for handling state and UI management.
-- [usehooks](https://usehooks.com) : A collection of built-in modern, server-side React hooks.
-- [React Custom Hooks](https://github.com/sergeyleschev/react-custom-hooks) : Supercharge Your Projects with ready-made custom hooks.
+- [usehooks-ts](https://usehooks-ts.com): React hook library, ready to use, written in Typescript.
+- [Mantine Hooks](https://mantine.dev/getting-started): Mantine Hooks provide Inbuilt readymade reactjs hooks for handling state and UI management.
+- [usehooks](https://usehooks.com): A collection of built-in modern, server-side React hooks.
+- [React Custom Hooks](https://github.com/sergeyleschev/react-custom-hooks): Supercharge Your Projects with ready-made custom hooks.
 
 ## Tailwind CSS
 
 
-- [Flowbite](https://flowbite.com/): Flowbite is a popular library builtin with tailwind CSS and provides inbuilt tailwindcss components for developers.
+- [Flowbite](https://flowbite.com/): Flowbite is a popular library built with tailwind CSS and provides inbuilt tailwindcss components for developers.
 - [Radix UI](https://www.radix-ui.com/): Radix-ui is a popular library builtin on the tailwind css framework. Radix UI feels like material UI.
 - [Material Tailwind](https://www.material-tailwind.com/): Material Tailwind comes with ready-made components. You can design pure HTML and react website layouts using material tailwind components.
 - [Meraki UI](https://merakiui.com/): Meraki UI provides 144+ custom UI components built with tailwind CSS and Alpine JS.
@@ -155,7 +155,7 @@ You can share your favourite library, tool, or template related to nextjs. It he
 - [Tailblocks](https://tailblocks.cc/): Tailblocks is a small library based on tailwind CSS. Tailblocks provide 60+ inbuilt components.
 - [Tailwind toolbox](https://www.tailwindtoolbox.com/): A tailwind toolbox site is where you find other people's projects on tailwind CSS. All the project is free, and you copy and paste code into your project.
 - [Headless UI](https://headlessui.com/): Built-in the react UI components designed with Tailwind CSS.
-- [Next UI](https://nextui.org) : Beautiful, fast and modern React UI library.
+- [Next UI](https://nextui.org): Beautiful, fast and modern React UI library.
 
 ## Development Tool
 
@@ -177,11 +177,11 @@ You can share your favourite library, tool, or template related to nextjs. It he
 
 ## Chrome Extension
 
-- [Gimli](https://gimli.app/): Gimli chrome extension is an innovative visual tool for front-end developers to build with tailwind CSS.
+- [Gimli](https://gimli.app/): Gimli Chrome extension is an innovative visual tool for front-end developers to build with tailwind CSS.
 - [NextJS Utilities Extension](https://chrome.google.com/webstore/detail/nextjs-utilities-extensio/ffcogmoganomoabikgmcmckdgojnpldo): Next.js Utilities Extension shows you the size of Next.js static data without installing of any additional stuff.
 - [GitHub Web IDE](https://chromewebstore.google.com/detail/github-web-ide/adjiklnjodbiaioggfpbpkhbfcnhgkfe): Open Any GitHub repositories in online web (cloud) IDE like VS Code, GitHub Dev, Code Sandbox, Repl.it, Gitpod etc.
 
 
 ## Utility (Others)
 
-- [Demo posts for markdown](https://github.com/frontendweb3/Demo-markdown-posts): Demo markdown posts are used to design your new blog base template. You do not write markdown demo posts. You can use demo markdown posts with any static site generator which supports markdown---for example, next.js, gatsby, lume, fresh, etc. Demo markdown posts are written with Lorem Ipsum. I can use bold, italic, code block, inline code, links, images, and quotes in markdown posts.
+- [Demo posts for markdown](https://github.com/frontendweb3/Demo-markdown-posts): Demo markdown posts are used to design your new blog base template. You do not write markdown demo posts. You can use demo markdown posts with any static site generator which supports markdown. for example, next.js, gatsby, lume, fresh, etc. Demo markdown posts are written with Lorem Ipsum. I can use bold, italic, code block, inline code, links, images, and quotes in markdown posts.
