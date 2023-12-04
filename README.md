@@ -77,6 +77,10 @@ You can share your favourite library, tool, or template related to nextjs. It he
 - [Forestry](https://forestry.io/): Forestry is a headless CMS easy-to-customizable, configurable and integrated with all types of static site generators.
 - [Craft CMS](https://craftcms.com/): Craft CMS is a flexible, user-friendly CMS for creating the web.
 
+## Authentication and User Management
+
+- [Clerk](https://clerk.com/):
+
 ## State Management
 
 - [Zustand](https://github.com/pmndrs/zustand): Zustand is a fast and scalable state management tool built by developers for React.js.
