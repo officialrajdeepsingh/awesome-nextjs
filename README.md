@@ -75,9 +75,9 @@ You can share your favourite library, tool, or template related to nextjs. It he
 - [Ghost](https://ghost.org/): Ghost is a popular open-source CMS perfect for creating blogs. It offers a simple, user-friendly API interface that makes creating and publishing articles easy.
 - [Netlify CMS](https://github.com/decaporg/decap-cms): Decap CMS(Netlify CMS) work with all type of static site generators. It permits users to edit, update and delete content to any site built with a static generator. You can use Decap CMS without any technical knowledge.
 - [Forestry](https://forestry.io/): Forestry is a headless CMS easy-to-customizable, configurable and integrated with all types of static site generators.
+- [Craft CMS](https://craftcms.com/): Craft CMS is a flexible, user-friendly CMS for creating the web.
 
 ## State Management
-
 
 - [Zustand](https://github.com/pmndrs/zustand): Zustand is a fast and scalable state management tool built by developers for React.js.
 - [Redux](https://redux.js.org/): Redux is an open-source JavaScript library for state managing tools. It is most commonly used with libraries such as React or Angular and helps build application user interfaces.
