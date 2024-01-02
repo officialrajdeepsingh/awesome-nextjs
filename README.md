@@ -58,7 +58,7 @@ You can share your favourite library, tool, or template related to nextjs. It he
 - [Nextra](https://nextra.site/): Nextra is a simple, powerful, and flexible site generation framework to build blogs and documents with Next.js and MDX.
 - [Create t3-app](https://create.t3.gg/): Build the full-stack application with TypeScript, Prisma, tRPC, NextAuth, Tailwind CSS, and Next.js app.
 - [Tina CMS](https://tina.io/): Tina CMS is a new nextjs-based CMS; it is an open-source, Git-backed headless CMS you can use with  Markdown, MDX, and JSON. 
-- [Out static](https://outstatic.com): Outstatic is a new static site content management system(CMS) built with Next.js. Special built for Next.js. It works with a pages and app router.
+- [Outstatic](https://outstatic.com): Outstatic is a new static site content management system(CMS) built with Next.js. Special built for Next.js. It works with a pages and app router.
 
 ## Nextjs boilerplate
 
