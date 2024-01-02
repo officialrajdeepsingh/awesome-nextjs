@@ -82,7 +82,7 @@ You can share your favourite library, tool, or template related to nextjs. It he
 - [Clerk](https://clerk.com/): Clerk is more than a "sign-in box" and integrates complete user management UIs and APIs, purpose-built for React, Next.js, and the Modern Web.
 - [Mojo Auth](https://mojoauth.com/): Mojo Auth is a secure and delightful passwordless login solution.
 - [Auth kit](https://www.authkit.com/): MojoAuth offer passwordless authentication solution for any web and mobile application
-
+- [Kinde](https://kinde.com): Auth built for developers.
 
 ## State Management
 
