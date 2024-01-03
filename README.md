@@ -50,7 +50,7 @@ You can share your favourite library, tool, or template related to nextjs. It he
 - [Next sitemap](https://www.npmjs.com/package/next-sitemap): Next sitemap library help to create a sitemap file in your nextjs application.
 - [Next auth](https://www.npmjs.com/package/next-auth): Next auth library provides authorization functionality for your app.
 - [Next PWA](https://www.npmjs.com/package/next-pwa): Next PWA library help to enable your application's progressive Web Apps functionality.
-- [Content layer](https://www.npmjs.com/package/contentlayer): The content layer works with nextjs and markdown and helps to build the blog application.
+- [Content layer](https://www.npmjs.com/package/contentlayer ): The content layer works with nextjs and markdown and helps build the blog application.
 - [Nextjs progress bar](https://www.npmjs.com/package/nextjs-progressbar): Nextjs progress bar shows the loading indicator in nextjs.
 - [Nextjs Google Analytics](https://www.npmjs.com/package/nextjs-google-analytics): Adding Google Analytics in your nextjs app.
 - [Next MDX](https://www.npmjs.com/package/@next/mdx): MDX library combines the JSX and markdown content.
@@ -58,7 +58,7 @@ You can share your favourite library, tool, or template related to nextjs. It he
 - [Nextra](https://nextra.site/): Nextra is a simple, powerful, and flexible site generation framework to build blogs and documents with Next.js and MDX.
 - [Create t3-app](https://create.t3.gg/): Build the full-stack application with TypeScript, Prisma, tRPC, NextAuth, Tailwind CSS, and Next.js app.
 - [Tina CMS](https://tina.io/): Tina CMS is a new nextjs-based CMS; it is an open-source, Git-backed headless CMS you can use with  Markdown, MDX, and JSON. 
-- [Outstatic](https://outstatic.com): Outstatic is a new static site content management system(CMS) built with Next.js. Special built for Next.js. It works with a pages and app router.
+- [Outstatic](https://outstatic.com): Outstatic is a new static site content management system(CMS) built with Next.js. Special built for Next.js. It works with a page and app router.
 
 ## Nextjs boilerplate
 
@@ -112,9 +112,9 @@ You can share your favourite library, tool, or template related to nextjs. It he
 - [Flowbite Icon](https://flowbite.com/icons/): Flowbite Icons is a 487+ free and open-source SVG icon library. it is compatible with Flowbite and Tailwind CSS based on solid and outline styles with React (JSX) and Figma support.
 - [Hero Icons](https://heroicons.com/): Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
 - [Lucide](https://lucide.dev/): Beautiful & consistent icons Made by the community.
-- [Eva Icons](): Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common use.
+- [Eva Icons](): Eva Icons is a pack of over 480 beautifully crafted Open Source icons for common use.
 - [Icon Monstr](https://iconmonstr.com/): iconmonstr is a free, monstrously big and continuously growing icon library.
-- [Icon SVG](https://iconsvg.xyz/): ICONSVG is a tool to simplify the process of finding and generating common icons for your project.
+- [Icon SVG](https://iconsvg.xyz/): ICONSVG is a tool to simplify finding and generating common icons for your project.
 - [Iconoir](https://iconoir.com/): Iconoir is an open-source library with 1300+ unique SVG icons, designed on a 24x24 pixels grid. No premium icons, no email sign-up, no newsletters.
 - [Icons download](https://icons.download/): Open-source free universal icons.
 
@@ -152,7 +152,7 @@ You can share your favourite library, tool, or template related to nextjs. It he
 - [Flowrift](https://flowrift.com/c/banner): Flowrift is a free open-source tailwind CSS-based component library. It provides different category components for the website.
 - [Tailwind UI kit](https://tailwinduikit.com/): The tailwind UI kit offers an extensive list of inbuilt components. In the free plan tailwind, the UI kit provides only 250 components; in the paid plan, you access all components and templates for a lifetime.
 - [Tailwind-kit](https://www.tailwind-kit.com/): The tailwind kit provides access to over 250 free tailwinds CSS-based components.
-- [Wickedblocks](https://wickedblocks.dev/): Wickedblocks provide a free 120 fully responsive tailwind CSS-based component, and All component comes ready to copy and paste into your Tailwind projects.
+- [Wickedblocks](https://wickedblocks.dev/ ): Wickedblocks provide a free 120 fully responsive tailwind CSS-based component, and all components come ready to copy and paste into your Tailwind projects.
 - [Tailus](https://tailus.io/): Tailus provides a list of UI components and templates built on tailwind CSS. Tailus components offer a rich and modern UI experience.
 - [Tailgrids](https://tailgrids.com/): Tailgrids provides a variety of 500+ components, blocks, sections, and templates built on tailwind CSS.
 - [Kutty](https://kutty.netlify.app/): Kutty is based on reusable tailwind CSS components and adds component interaction with alpine.js.
