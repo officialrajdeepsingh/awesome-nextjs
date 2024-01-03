@@ -163,6 +163,7 @@ You can share your favourite library, tool, or template related to nextjs. It he
 - [Tailwind toolbox](https://www.tailwindtoolbox.com/): A tailwind toolbox site is where you find other people's projects on tailwind CSS. All the project is free, and you copy and paste code into your project.
 - [Headless UI](https://headlessui.com/): Built-in the react UI components designed with Tailwind CSS.
 - [Next UI](https://nextui.org): Beautiful, fast and modern React UI library.
+- [Lang UI](https://www.langui.dev/): Beautifully crafted Tailwind components for your GPT projects.
 
 ## Development Tool
 
