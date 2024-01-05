@@ -103,6 +103,8 @@ You can share your favourite library, tool, or template related to nextjs. It he
 - [Ant Design](https://ant.design/): Ant Design UI is a high-quality React components library that helps designers/developers build beautiful products.
 - [Chakra UI](https://chakra-ui.com/): With the help of Chakra UI, you can quickly design a simple to complex site.  It gives you the building blocks to build your React applications.
 - [Kuma UI](https://www.kuma-ui.com/): Empower Your Web with Ultimate Performance and Flexibility.
+- [Aceternity UI](https://ui.aceternity.com/): Beautiful Tailwind CSS and Framer Motion Components, built with Next.js and TypeScript.
+
 
 ## Icons Library
 
