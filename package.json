@@ -22,5 +22,8 @@
   "homepage": "https://github.com/officialrajdeepsingh/awesome-nextjs#readme",
   "dependencies": {
     "docsify-cli": "^4.4.4"
+  },
+  "devDependencies": {
+    "prettier": "3.1.1"
   }
 }
