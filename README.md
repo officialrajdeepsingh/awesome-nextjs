@@ -76,6 +76,7 @@ You can share your favourite library, tool, or template related to nextjs. It he
 - [Netlify CMS](https://github.com/decaporg/decap-cms): Decap CMS(Netlify CMS) work with all type of static site generators. It permits users to edit, update and delete content to any site built with a static generator. You can use Decap CMS without any technical knowledge.
 - [Forestry](https://forestry.io/): Forestry is a headless CMS easy-to-customizable, configurable and integrated with all types of static site generators.
 - [Craft CMS](https://craftcms.com/): Craft CMS is a flexible, user-friendly CMS for creating the web.
+- [Payload CMS](https://payloadcms.com): Build a modern backend admin UI with payload CMS. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 
 ## Authentication and User Management
 
