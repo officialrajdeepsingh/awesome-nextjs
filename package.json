@@ -17,7 +17,8 @@
     "url": "https://github.com/officialrajdeepsingh/awesome-nextjs/issues"
   },
   "scripts": {
-    "docsify": "docsify"
+    "docsify": "docsify",
+    "format":"pnpm exec prettier   --write ./README.md"
   },
   "homepage": "https://github.com/officialrajdeepsingh/awesome-nextjs#readme",
   "dependencies": {
