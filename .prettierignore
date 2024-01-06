@@ -1,0 +1,6 @@
+**/.git
+**/.svn
+**/.hg
+**/node_modules
+_404.md
+.vscode
