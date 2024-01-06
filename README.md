@@ -14,8 +14,7 @@ List of NPM libraries that help to build small and large-scale applications with
 
 I used 80% of the package as a front-end developer in this list. In the future, I will discover and mention more packages in the current list that help build nextjs or front-end developers more efficiently for everyone.
 
-
-<details> 
+<details>
 
 <summary>Table of Contents</summary>
 
@@ -50,14 +49,14 @@ You can share your favourite library, tool, or template related to nextjs. It he
 - [Next sitemap](https://www.npmjs.com/package/next-sitemap): Next sitemap library help to create a sitemap file in your nextjs application.
 - [Next auth](https://www.npmjs.com/package/next-auth): Next auth library provides authorization functionality for your app.
 - [Next PWA](https://www.npmjs.com/package/next-pwa): Next PWA library help to enable your application's progressive Web Apps functionality.
-- [Content layer](https://www.npmjs.com/package/contentlayer ): The content layer works with nextjs and markdown and helps build the blog application.
+- [Content layer](https://www.npmjs.com/package/contentlayer): The content layer works with nextjs and markdown and helps build the blog application.
 - [Nextjs progress bar](https://www.npmjs.com/package/nextjs-progressbar): Nextjs progress bar shows the loading indicator in nextjs.
 - [Nextjs Google Analytics](https://www.npmjs.com/package/nextjs-google-analytics): Adding Google Analytics in your nextjs app.
 - [Next MDX](https://www.npmjs.com/package/@next/mdx): MDX library combines the JSX and markdown content.
 - [Next-themes](https://www.npmjs.com/package/next-themes): You can enable the dark-to-light theme toggle with next-themes in your Next.js app.
 - [Nextra](https://nextra.site/): Nextra is a simple, powerful, and flexible site generation framework to build blogs and documents with Next.js and MDX.
 - [Create t3-app](https://create.t3.gg/): Build the full-stack application with TypeScript, Prisma, tRPC, NextAuth, Tailwind CSS, and Next.js app.
-- [Tina CMS](https://tina.io/): Tina CMS is a new nextjs-based CMS; it is an open-source, Git-backed headless CMS you can use with  Markdown, MDX, and JSON. 
+- [Tina CMS](https://tina.io/): Tina CMS is a new nextjs-based CMS; it is an open-source, Git-backed headless CMS you can use with Markdown, MDX, and JSON.
 - [Outstatic](https://outstatic.com): Outstatic is a new static site content management system(CMS) built with Next.js. Special built for Next.js. It works with a page and app router.
 
 ## Nextjs boilerplate
@@ -70,7 +69,7 @@ You can share your favourite library, tool, or template related to nextjs. It he
 
 ## Headless CMS
 
-- [Wordpress](https://wordpress.org/): WordPress is an open-source CMS and is ready for production. Using the built-in REST API, WordPress can power any website. 
+- [Wordpress](https://wordpress.org/): WordPress is an open-source CMS and is ready for production. Using the built-in REST API, WordPress can power any website.
 - [Strapi](https://strapi.io/): Strapi is a powerful open-source node js-based Content Management System (CMS) perfect for small to large-scale websites.
 - [Ghost](https://ghost.org/): Ghost is a popular open-source CMS perfect for creating blogs. It offers a simple, user-friendly API interface that makes creating and publishing articles easy.
 - [Netlify CMS](https://github.com/decaporg/decap-cms): Decap CMS(Netlify CMS) work with all type of static site generators. It permits users to edit, update and delete content to any site built with a static generator. You can use Decap CMS without any technical knowledge.
@@ -102,10 +101,9 @@ You can share your favourite library, tool, or template related to nextjs. It he
 - [Primer React](https://primer.style/react/): Primer React is built with Primer CSS and ReactJs by GitHub
 - [React bootstrap](https://react-bootstrap.github.io/): React bootstrap is made based on react and bootstrap.
 - [Ant Design](https://ant.design/): Ant Design UI is a high-quality React components library that helps designers/developers build beautiful products.
-- [Chakra UI](https://chakra-ui.com/): With the help of Chakra UI, you can quickly design a simple to complex site.  It gives you the building blocks to build your React applications.
+- [Chakra UI](https://chakra-ui.com/): With the help of Chakra UI, you can quickly design a simple to complex site. It gives you the building blocks to build your React applications.
 - [Kuma UI](https://www.kuma-ui.com/): Empower Your Web with Ultimate Performance and Flexibility.
 - [Aceternity UI](https://ui.aceternity.com/): Beautiful Tailwind CSS and Framer Motion Components, built with Next.js and TypeScript.
-
 
 ## Icons Library
 
@@ -121,7 +119,7 @@ You can share your favourite library, tool, or template related to nextjs. It he
 - [Iconoir](https://iconoir.com/): Iconoir is an open-source library with 1300+ unique SVG icons, designed on a 24x24 pixels grid. No premium icons, no email sign-up, no newsletters.
 - [Icons download](https://icons.download/): Open-source free universal icons.
 
-## Static Search library 
+## Static Search library
 
 - [Fusejs](https://fusejs.io/): Fusejs is a popular, powerful, lightweight search library for creating search functionality for sites.
 - [Flex Search](https://github.com/nextapps-de/flexsearch): Next-Generation full text search library for Browser and Node.js
@@ -142,7 +140,6 @@ You can share your favourite library, tool, or template related to nextjs. It he
 
 ## Tailwind CSS
 
-
 - [Flowbite](https://flowbite.com/): Flowbite is a popular library built with tailwind CSS and provides inbuilt tailwindcss components for developers.
 - [Radix UI](https://www.radix-ui.com/): Radix-ui is a popular library builtin on the tailwind css framework. Radix UI feels like material UI.
 - [Material Tailwind](https://www.material-tailwind.com/): Material Tailwind comes with ready-made components. You can design pure HTML and react website layouts using material tailwind components.
@@ -155,7 +152,7 @@ You can share your favourite library, tool, or template related to nextjs. It he
 - [Flowrift](https://flowrift.com/c/banner): Flowrift is a free open-source tailwind CSS-based component library. It provides different category components for the website.
 - [Tailwind UI kit](https://tailwinduikit.com/): The tailwind UI kit offers an extensive list of inbuilt components. In the free plan tailwind, the UI kit provides only 250 components; in the paid plan, you access all components and templates for a lifetime.
 - [Tailwind-kit](https://www.tailwind-kit.com/): The tailwind kit provides access to over 250 free tailwinds CSS-based components.
-- [Wickedblocks](https://wickedblocks.dev/ ): Wickedblocks provide a free 120 fully responsive tailwind CSS-based component, and all components come ready to copy and paste into your Tailwind projects.
+- [Wickedblocks](https://wickedblocks.dev/): Wickedblocks provide a free 120 fully responsive tailwind CSS-based component, and all components come ready to copy and paste into your Tailwind projects.
 - [Tailus](https://tailus.io/): Tailus provides a list of UI components and templates built on tailwind CSS. Tailus components offer a rich and modern UI experience.
 - [Tailgrids](https://tailgrids.com/): Tailgrids provides a variety of 500+ components, blocks, sections, and templates built on tailwind CSS.
 - [Kutty](https://kutty.netlify.app/): Kutty is based on reusable tailwind CSS components and adds component interaction with alpine.js.
@@ -185,13 +182,11 @@ You can share your favourite library, tool, or template related to nextjs. It he
 - [Nextjs snippets](https://marketplace.visualstudio.com/items?itemName=PulkitGangwar.nextjs-snippets): Ready-made snippets for Next.js.
 - [Front Matter CMS](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-front-matter): Front Matter CMS gives you the power, flexibility, and control to work with Markdown.
 
-
 ## Chrome Extension
 
 - [Gimli](https://gimli.app/): Gimli Chrome extension is an innovative visual tool for front-end developers to build with tailwind CSS.
 - [NextJS Utilities Extension](https://chrome.google.com/webstore/detail/nextjs-utilities-extensio/ffcogmoganomoabikgmcmckdgojnpldo): Next.js Utilities Extension shows you the size of Next.js static data without installing of any additional stuff.
 - [GitHub Web IDE](https://chromewebstore.google.com/detail/github-web-ide/adjiklnjodbiaioggfpbpkhbfcnhgkfe): Open Any GitHub repositories in online web (cloud) IDE like VS Code, GitHub Dev, Code Sandbox, Repl.it, Gitpod etc.
-
 
 ## Utility (Others)
 
