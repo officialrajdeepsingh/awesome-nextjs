@@ -7,6 +7,10 @@ on:
     branches:
       - main
 
+permissions:
+  contents: read
+  pages: write   
+
 jobs:
   prettier:
     runs-on: ubuntu-latest
