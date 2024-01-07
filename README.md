@@ -60,7 +60,8 @@ You can share your favourite library, tool, or template related to nextjs. It he
 - [Outstatic](https://outstatic.com) : Outstatic is a new static site content management system(CMS) built with Next.js. Special built for Next.js. It works with a page and app router.
 
 ## Nextjs boilerplate
--   [Next.js Enterprise Boilerplate](https://github.com/Blazity/next-enterprise) : Next.js Enterprise Boilerplate, an open-source template, build a high-performance, maintainable, and enjoyable application.
+
+- [Next.js Enterprise Boilerplate](https://github.com/Blazity/next-enterprise) : Next.js Enterprise Boilerplate, an open-source template, build a high-performance, maintainable, and enjoyable application.
 - [Create t3 App](https://github.com/t3-oss/create-t3-app) : Interactive CLI to start a full-stack, type-safe new Next.js application.
 - [Nextjs Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) : Start new projects with App Router and Page Router support, Tailwind CSS and TypeScript, and many more.
 - [Superplate](https://github.com/pankod/superplate) : superplate is well-structured and production-ready and comes with Typescript, Popular UI Kits and +30 plugins.
