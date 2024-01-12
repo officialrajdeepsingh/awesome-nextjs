@@ -1,12 +1,15 @@
 <h1 align="center">Awesome Nextjs</h1>
 
-<div align="center" style="display:flex;justify-content:center;align-items: center;">
+<div style="display:flex;justify-content:center;align-items:center;">
 
-<img alt="Next.js" heigth="32" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+<img alt="Next.js" style="display:block;margin-right:6px" width="80" heigth="32" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 
-<img alt="Awesome" heigth="32" src="https://awesome.re/badge.svg">
+<img alt="Awesome" style="display:block;" width="80" heigth="32" src="https://awesome.re/badge.svg">
 
 </div>
+
+
+<div  style="width:100%;heigth:100px"> </div>
 
 ---
 
