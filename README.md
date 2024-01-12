@@ -1,18 +1,35 @@
 <h1 align="center">Awesome Nextjs</h1>
 
-<div align="center" style="display:flex;justify-content:center;align-items: center;">
+<div align="center" width="120px" heigth="70px" style="display:flex;justify-content:center;align-items:center;">
 
-<img alt="Next.js" heigth="32" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+<img alt="Next.js" style="display:block;" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 
-<img alt="Awesome" heigth="32" src="https://awesome.re/badge.svg">
+<img alt="Awesome" style="display:block;" src="https://awesome.re/badge.svg">
 
 </div>
 
 ---
 
-List of NPM libraries that help to build small and large-scale applications with next.js. I created a list based on my working experience.
+I have compiled a list of NPM libraries that can be used to develop small and large-scale applications with Next.js. The list is based on my personal experience as a front-end developer, and I have used 80% of the packages mentioned. As I discover more packages in the future, I will add them to the current list to help other front-end developers build applications with Next.js more efficiently.
 
-I used 80% of the package as a front-end developer in this list. In the future, I will discover and mention more packages in the current list that help build nextjs or front-end developers more efficiently for everyone.
+To stay updated, please follow us on GitHub and give our repository a star. This will help others discover our repository, encouraging more developers to contribute and build a solid list. Additionally, we encourage you to share our repository on your social media platforms, like X (previously known as Twitter).
+
+
+<h1 align="center"> Share on Social Media</h1>
+
+<div align="center" style="display:flex;justify-content:center;align-items:center;">
+  <a width="120px" heigth="70" style="display:block;"  href="https://twitter.com/intent/tweet?text=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps.&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs">
+      <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
+  </a>
+  <a width="120px" heigth="70" style="display:block;margin:auto 5px" href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs&title=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a width="120px" heigth="70" style="display:block;" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs">
+      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+  </a>
+</div>
+
+---
 
 <details>
 
@@ -36,6 +53,8 @@ I used 80% of the package as a front-end developer in this list. In the future, 
 - [Utility (Others)](#utility-others)
 
 </details>
+
+---
 
 ## Contributing
 
