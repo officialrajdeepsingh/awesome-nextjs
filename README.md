@@ -1,6 +1,6 @@
 <h1 align="center">Awesome Nextjs</h1>
 
-<div style="display:flex;justify-content:center;align-items:center;">
+<div align="center" style="display:flex;justify-content:center;align-items:center;">
 
 <img alt="Next.js" style="display:block;margin-right:6px" width="80" heigth="32" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 
@@ -20,7 +20,7 @@ To stay updated, please follow us on GitHub and give our repository a star. This
 
 ### Share on Social Media
 
-<div style="display:flex;justify-content:center;align-items:center;">
+<div align="center" style="display:flex;justify-content:center;align-items:center;">
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/intent/tweet?text=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps.&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs)
 
