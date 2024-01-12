@@ -31,7 +31,7 @@ To stay updated, please follow us on GitHub and give our repository a star. This
   </a>
 </div>
 
-<div style="margin-top: 20px auto;width:100%;"></div>
+<div style="margin-top: 24px auto;width:100%;"></div>
 
 <details>
 
