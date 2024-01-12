@@ -8,16 +8,14 @@
 
 </div>
 
-<div style="heigth: 72px;width:100%;"></div>
-
+---
 
 I have compiled a list of NPM libraries that can be used to develop small and large-scale applications with Next.js. The list is based on my personal experience as a front-end developer, and I have used 80% of the packages mentioned. As I discover more packages in the future, I will add them to the current list to help other front-end developers build applications with Next.js more efficiently.
 
 To stay updated, please follow us on GitHub and give our repository a star. This will help others discover our repository, encouraging more developers to contribute and build a solid list. Additionally, we encourage you to share our repository on your social media platforms, like X (previously known as Twitter).
 
-<div style="heigth: 30px;width:100%;"></div>
 
-### Share on Social Media
+<h1 align="center"> Share on Social Media</h1>
 
 <div align="center" style="display:flex;justify-content:center;align-items:center;">
   <a width="120px" heigth="70" style="display:block;"  href="https://twitter.com/intent/tweet?text=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps.&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs">
@@ -31,7 +29,7 @@ To stay updated, please follow us on GitHub and give our repository a star. This
   </a>
 </div>
 
-<div style="heigth: 60px;width:100%;"></div>
+---
 
 <details>
 
@@ -55,6 +53,8 @@ To stay updated, please follow us on GitHub and give our repository a star. This
 - [Utility (Others)](#utility-others)
 
 </details>
+
+---
 
 ## Contributing
 
