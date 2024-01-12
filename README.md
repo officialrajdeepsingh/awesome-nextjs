@@ -1,21 +1,21 @@
 <h1 align="center">Awesome Nextjs</h1>
 
-<div align="center" style="display:flex;justify-content:center;align-items:center;">
+<div align="center" width="120px" heigth="70px" style="display:flex;justify-content:center;align-items:center;">
 
-<img alt="Next.js" style="display:block;margin-right:6px" width="80" heigth="32" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+<img alt="Next.js" style="display:block;" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 
-<img alt="Awesome" style="display:block;" width="80" heigth="32" src="https://awesome.re/badge.svg">
+<img alt="Awesome" style="display:block;" src="https://awesome.re/badge.svg">
 
 </div>
 
-<div style="heigth: 72px auto;width:100%;"></div>
+<div style="heigth: 72px;width:100%;"></div>
 
 
 I have compiled a list of NPM libraries that can be used to develop small and large-scale applications with Next.js. The list is based on my personal experience as a front-end developer, and I have used 80% of the packages mentioned. As I discover more packages in the future, I will add them to the current list to help other front-end developers build applications with Next.js more efficiently.
 
 To stay updated, please follow us on GitHub and give our repository a star. This will help others discover our repository, encouraging more developers to contribute and build a solid list. Additionally, we encourage you to share our repository on your social media platforms, like X (previously known as Twitter).
 
-<div style="heigth: 30px auto;width:100%;"></div>
+<div style="heigth: 30px;width:100%;"></div>
 
 ### Share on Social Media
 
@@ -31,7 +31,7 @@ To stay updated, please follow us on GitHub and give our repository a star. This
   </a>
 </div>
 
-<div style="heigth: 60px auto;width:100%;"></div>
+<div style="heigth: 60px;width:100%;"></div>
 
 <details>
 
