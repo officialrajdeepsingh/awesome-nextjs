@@ -13,9 +13,10 @@
 
 ---
 
-List of NPM libraries that help to build small and large-scale applications with next.js. I created a list based on my working experience.
+I have compiled a list of NPM libraries that can be used to develop small and large-scale applications with Next.js. The list is based on my personal experience as a front-end developer, and I have used 80% of the packages mentioned. As I discover more packages in the future, I will add them to the current list to help other front-end developers build applications with Next.js more efficiently.
 
-I used 80% of the package as a front-end developer in this list. In the future, I will discover and mention more packages in the current list that help build nextjs or front-end developers more efficiently for everyone.
+To stay updated, please follow us on GitHub and give our repository a star. This will help others discover our repository, encouraging more developers to contribute and build a solid list. Additionally, we encourage you to share our repository on your social media platforms, like X (previously known as Twitter).
+
 
 <details>
 
