@@ -8,14 +8,14 @@
 
 </div>
 
-<div style="margin-top: 12px auto;width:100%;"></div>
+<div style="heigth: 72px auto;width:100%;"></div>
 
 
 I have compiled a list of NPM libraries that can be used to develop small and large-scale applications with Next.js. The list is based on my personal experience as a front-end developer, and I have used 80% of the packages mentioned. As I discover more packages in the future, I will add them to the current list to help other front-end developers build applications with Next.js more efficiently.
 
 To stay updated, please follow us on GitHub and give our repository a star. This will help others discover our repository, encouraging more developers to contribute and build a solid list. Additionally, we encourage you to share our repository on your social media platforms, like X (previously known as Twitter).
 
-<div style="margin-top: 12px auto;width:100%;"></div>
+<div style="heigth: 30px auto;width:100%;"></div>
 
 ### Share on Social Media
 
@@ -31,7 +31,7 @@ To stay updated, please follow us on GitHub and give our repository a star. This
   </a>
 </div>
 
-<div style="margin-top: 24px auto;width:100%;"></div>
+<div style="heigth: 60px auto;width:100%;"></div>
 
 <details>
 
