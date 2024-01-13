@@ -14,7 +14,6 @@ I have compiled a list of NPM libraries that can be used to develop small and la
 
 To stay updated, please follow us on GitHub and give our repository a star. This will help others discover our repository, encouraging more developers to contribute and build a solid list. Additionally, we encourage you to share our repository on your social media platforms, like X (previously known as Twitter).
 
-
 <h1 align="center"> Share on Social Media</h1>
 
 <div align="center" style="display:flex;justify-content:center;align-items:center;">
