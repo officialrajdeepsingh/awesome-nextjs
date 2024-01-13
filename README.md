@@ -71,12 +71,9 @@ You can share your favourite library, tool, or template related to nextjs. It he
 - [Content layer](https://www.npmjs.com/package/contentlayer) : The content layer works with nextjs and markdown and helps build the blog application.
 - [Nextjs progress bar](https://www.npmjs.com/package/nextjs-progressbar) : Nextjs progress bar shows the loading indicator in nextjs.
 - [Nextjs Google Analytics](https://www.npmjs.com/package/nextjs-google-analytics) : Adding Google Analytics in your nextjs app.
-- [Next MDX](https://www.npmjs.com/package/@next/mdx) : MDX library combines the JSX and markdown content.
 - [Next-themes](https://www.npmjs.com/package/next-themes) : You can enable the dark-to-light theme toggle with next-themes in your Next.js app.
-- [Nextra](https://nextra.site/) : Nextra is a simple, powerful, and flexible site generation framework to build blogs and documents with Next.js and MDX.
 - [Create t3-app](https://create.t3.gg/) : Build the full-stack application with TypeScript, Prisma, tRPC, NextAuth, Tailwind CSS, and Next.js app.
 - [Tina CMS](https://tina.io/) : Tina CMS is a new nextjs-based CMS; it is an open-source, Git-backed headless CMS you can use with Markdown, MDX, and JSON.
-- [Outstatic](https://outstatic.com) : Outstatic is a new static site content management system(CMS) built with Next.js. Special built for Next.js. It works with a page and app router.
 
 ## Nextjs boilerplate
 
