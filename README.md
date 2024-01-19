@@ -85,8 +85,7 @@ You can share your favourite library, tool, or template related to nextjs. It he
 
 ## Blogging
 
-- [Section  blog theme](https://github.com/frontendweb3/section-theme-blog): Section  blog theme is nextra based MDX theme.
-
+- [Section blog theme](https://github.com/frontendweb3/section-theme-blog): Section blog theme is nextra based MDX theme.
 
 ## Nextjs boilerplate
 
