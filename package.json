@@ -18,7 +18,9 @@
   },
   "scripts": {
     "docsify": "docsify",
-    "format": "pnpm exec prettier   --write ./README.md"
+    "format": "pnpm exec prettier   --write ./README.md",
+    "lint": "npx awesome-lint  ./README.md",
+    "issue": "pnpm run format && pnpm run lint"
   },
   "homepage": "https://github.com/officialrajdeepsingh/awesome-nextjs#readme",
   "dependencies": {
