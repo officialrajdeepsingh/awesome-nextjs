@@ -17,13 +17,13 @@ To stay updated, please follow us on GitHub and give our repository a star. This
 <h1 align="center"> Share on Social Media</h1>
 
 <div align="center" style="display:flex;justify-content:center;align-items:center;">
-  <a width="120px" heigth="70" style="display:block;"  href="https://twitter.com/intent/tweet?text=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps.&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs">
+  <a width="120" heigth="70" style="display:block;"  href="https://twitter.com/intent/tweet?text=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps.&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs">
       <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
   </a>
-  <a width="120px" heigth="70" style="display:block;margin:auto 5px" href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs&title=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps">
+  <a width="120" heigth="70" style="display:block;margin:auto 5px" href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs&title=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a width="120px" heigth="70" style="display:block;" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs">
+  <a width="120" heigth="70" style="display:block;" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs">
       <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
   </a>
 </div>
@@ -37,6 +37,7 @@ To stay updated, please follow us on GitHub and give our repository a star. This
 - [Contributing](#contributing)
 - [Specify for Nextjs](#specify-for-nextjs)
 - [Documentation](#documentation)
+- [Blogging](#blogging)
 - [Nextjs boilerplate](#nextjs-boilerplate)
 - [Headless CMS](#headless-cms)
 - [State Management](#state-management)
@@ -81,6 +82,10 @@ You can share your favourite library, tool, or template related to nextjs. It he
 - [Nextra](https://nextra.site/) : Nextra is a simple, powerful, and flexible site generation framework to build blogs and documents with Next.js and MDX.
 - [Markdoc](https://markdoc.dev/): Markdoc is a powerful, flexible, Markdown-based authoring framework.
 - [Outstatic](https://outstatic.com) : Outstatic is a new static site content management system(CMS) built with Next.js. Special built for Next.js. It works with a page and app router.
+
+## Blogging
+
+- [Section blog theme](https://github.com/frontendweb3/section-theme-blog): Section blog theme is nextra based MDX theme.
 
 ## Nextjs boilerplate
 
