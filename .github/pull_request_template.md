@@ -1,9 +1,3 @@
----
-name: pull_request_template
-about: Describe your pull request.
-assignees: 'officialrajdeepsingh'
----
-
 <!-- Thank you for contributing! -->
 
 ### Please confirm this pull request meets the following requirements:
