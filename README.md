@@ -6,8 +6,6 @@ I have compiled a list of NPM libraries that can be used to develop small and la
 
 To stay updated, follow us on GitHub and give our repository a star. This will help others discover our repository, encouraging more developers to contribute and build a solid list. Additionally, we encourage you to share our repository on your social media platforms, like X (previously known as Twitter).
 
-
-
 ## Share on Social Media
 
 <div align="center">
@@ -24,8 +22,7 @@ To stay updated, follow us on GitHub and give our repository a star. This will h
 
 ## Contents
 
-- [Awesome Next.js](#awesome-nextjs)
-      - [Share on Social Media](#share-on-social-media)
+- [Awesome Next.js](#awesome-nextjs) - [Share on Social Media](#share-on-social-media)
   - [Contents](#contents)
   - [Contributing](#contributing)
   - [Specify for Nextjs](#specify-for-nextjs)
@@ -46,7 +43,6 @@ To stay updated, follow us on GitHub and give our repository a star. This will h
   - [VS Code extensions](#vs-code-extensions)
   - [Chrome Extension](#chrome-extension)
   - [Utility (Others)](#utility-others)
-
 
 ## Contributing
 
