@@ -1,4 +1,4 @@
-name: Continuous Integration
+name: Format the Readme file.
 
 # This action works with pull requests and pushes
 on:
@@ -26,4 +26,4 @@ jobs:
         uses: creyD/prettier_action@v4.3
         with:
           # This part is also where you can pass other options, for example:
-          prettier_options: --write ./README.md
+          prettier_options: -c ./README.md 
