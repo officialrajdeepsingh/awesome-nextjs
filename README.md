@@ -191,6 +191,7 @@ To stay updated, follow us on GitHub and give our repository a star. This will h
 - [Next.Nav](https://marketplace.visualstudio.com/items?itemName=NextNav.NextNav) - Using the VS Code extension, navigate and create routes easily in your Next.js application.
 - [Nextjs snippets](https://marketplace.visualstudio.com/items?itemName=PulkitGangwar.nextjs-snippets) - Ready-made snippets for Next.js.
 - [Front Matter CMS](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-front-matter) - Front Matter CMS gives you the power, flexibility, and control to work with Markdown.
+- [React and Next.js Snippets](https://marketplace.visualstudio.com/items?itemName=AvneeshAgarwal.react-nextjs-snippets) - A VSCode extension packed with the latest React and Next.js snippets.
 
 ## Chrome Extension
 
