@@ -38,10 +38,10 @@ Using the following syntax, you can add any npm package or library in the existi
 
 ## Make changes locally
 
-1. Fork the repository locally.
+1. Fork the repository locally and install package with node package manager (npm,yarnor pnpm).
 2. Add a new package, library, tool, and template name.
 3. You can explain the package, library, tool, and template you added; if Your package category does not exist, you can also create it.
-4. Lastly, run `pnpm format` and `pnpm lint` to format and fix the lint issue.
+4. Lastly, run `pnpm format` and `pnpm lint` to format and fix the lint issue before applying the pull request.
 
 ## Commit your update
 
