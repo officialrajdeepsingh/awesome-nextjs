@@ -46,20 +46,20 @@ To stay updated, follow us on GitHub and give our repository a star. This will h
 
 ## Contributing
 
-You can share your favourite library, tool, or template related to next.js. It helps full for other developers. Before sharing your favourite library, tool, or template, please read our [Contribution guidelines](CONTRIBUTING.md).
+You can share your favorite library, tool, or template related to next.js. It helps full for other developers. Before sharing your favorite library, tool, or template, please read our [Contribution guidelines](CONTRIBUTING.md).
 
 ## Specify for Nextjs
 
 - [Next SEO](https://www.npmjs.com/package/next-seo) - Next SEO is a plugin that helps manage the SEO in Next.js.
-- [Next sitemap](https://www.npmjs.com/package/next-sitemap) - Next sitemap library help to create a sitemap file in your nextjs application.
+- [Next sitemap](https://www.npmjs.com/package/next-sitemap) - The next sitemap library helps you create a sitemap file in your nextjs application.
 - [Next auth](https://www.npmjs.com/package/next-auth) - Next auth library provides authorization functionality for your app.
-- [Next PWA](https://www.npmjs.com/package/next-pwa) - Next PWA library help to enable your application's progressive Web Apps functionality.
+- [Next PWA](https://www.npmjs.com/package/next-pwa) - Next PWA library helps to enable your application's progressive Web Apps functionality.
 - [Content layer](https://www.npmjs.com/package/contentlayer) - The content layer works with nextjs and markdown and helps build the blog application.
 - [Nextjs progress bar](https://www.npmjs.com/package/nextjs-progressbar) - Nextjs progress bar shows the loading indicator in nextjs.
-- [Nextjs Google Analytics](https://www.npmjs.com/package/nextjs-google-analytics) - Adding Google Analytics in your nextjs app.
+- [Nextjs Google Analytics](https://www.npmjs.com/package/nextjs-google-analytics) - Add Google Analytics to your nextjs app.
 - [Next-themes](https://www.npmjs.com/package/next-themes) - You can enable the dark-to-light theme toggle with next-themes in your Next.js app.
 - [Create t3-app](https://create.t3.gg/) - Build the full-stack application with TypeScript, Prisma, tRPC, NextAuth, Tailwind CSS, and Next.js app.
-- [Tina CMS](https://tina.io/) - Tina CMS is a new nextjs-based CMS; it is an open-source, Git-backed headless CMS you can use with Markdown, MDX, and JSON.
+- [Tina CMS](https://tina.io/) - Tina CMS is a new nextjs-based CMS, an open-source, Git-backed headless CMS you can use with Markdown, MDX, and JSON.
 
 ## Documentation
 
@@ -70,11 +70,11 @@ You can share your favourite library, tool, or template related to next.js. It h
 
 ## Blogging
 
-- [Section blog theme](https://github.com/frontendweb3/section-theme-blog) - Section blog theme is nextra based MDX theme.
+- [Section blog theme](https://github.com/frontendweb3/section-theme-blog) - The section blog theme is nextra-based MDX theme.
 
 ## Nextjs boilerplate
 
-- [Next.js Enterprise Boilerplate](https://github.com/Blazity/next-enterprise) - Next.js Enterprise Boilerplate, an open-source template, build a high-performance, maintainable, and enjoyable application.
+- [Next.js Enterprise Boilerplate](https://github.com/Blazity/next-enterprise) - Next.js Enterprise Boilerplate, an open-source template, builds a high-performance, maintainable, and enjoyable application.
 - [Create t3 App](https://github.com/t3-oss/create-t3-app) - Interactive CLI to start a full-stack, type-safe new Next.js application.
 - [Nextjs Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - Start new projects with App Router and Page Router support, Tailwind CSS and TypeScript, and many more.
 - [Superplate](https://github.com/pankod/superplate) - Superplate is well-structured and production-ready and comes with Typescript, Popular UI Kits and +30 plugins.
@@ -82,10 +82,10 @@ You can share your favourite library, tool, or template related to next.js. It h
 
 ## Headless CMS
 
-- [Wordpress](https://wordpress.org/) - WordPress is an open-source CMS and is ready for production. Using the built-in REST API, WordPress can power any website.
+- [WordPress](https://wordpress.org/) - WordPress is an open-source CMS ready for production. Using the built-in REST API, WordPress can power any website.
 - [Strapi](https://strapi.io/) - Strapi is a powerful open-source node js-based Content Management System (CMS) perfect for small to large-scale websites.
 - [Ghost](https://ghost.org/) - Ghost is a popular open-source CMS perfect for creating blogs. It offers a simple, user-friendly API interface that makes creating and publishing articles easy.
-- [Netlify CMS](https://github.com/decaporg/decap-cms) - Decap CMS(Netlify CMS) work with all type of static site generators. It permits users to edit, update and delete content to any site built with a static generator. You can use Decap CMS without any technical knowledge.
+- [Netlify CMS](https://github.com/decaporg/decap-cms) - Decap CMS(Netlify CMS) work with all type of static site generators. It permits users to edit, update, and delete content on any site built with a static generator. You can use Decap CMS without any technical knowledge.
 - [Forestry](https://forestry.io/) - Forestry is a headless CMS easy-to-customizable, configurable and integrated with all types of static site generators.
 - [Craft CMS](https://craftcms.com/) - Craft CMS is a flexible, user-friendly CMS for creating the web.
 - [Payload CMS](https://payloadcms.com) - Build a modern backend admin UI with payload CMS. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
@@ -94,7 +94,7 @@ You can share your favourite library, tool, or template related to next.js. It h
 
 - [Clerk](https://clerk.com/) - Clerk is more than a "sign-in box" and integrates complete user management UIs and APIs, purpose-built for React, Next.js, and the Modern Web.
 - [Mojo Auth](https://mojoauth.com/) - Mojo Auth is a secure and delightful passwordless login solution.
-- [Auth kit](https://www.authkit.com/) - MojoAuth offer passwordless authentication solution for any web and mobile application.
+- [Auth kit](https://www.authkit.com/) - MojoAuth offers a passwordless authentication solution for any web and mobile application.
 - [Kinde](https://kinde.com) - Auth built for developers.
 
 ## State Management
@@ -102,17 +102,17 @@ You can share your favourite library, tool, or template related to next.js. It h
 - [Zustand](https://github.com/pmndrs/zustand) - Zustand is a fast and scalable state management tool built by developers for React.js.
 - [Redux](https://redux.js.org/) - Redux is an open-source JavaScript library for state managing tools. It is most commonly used with libraries such as React or Angular and helps build application user interfaces.
 - [Recoil](https://recoiljs.org/) - Recoil is a state management library for React built by meta.
-- [Jotai](https://jotai.org/) - Jotai, primitive and flexible state management library for Reactjs.
+- [Jotai](https://jotai.org/) - Jotai is a primitive and flexible state management library for Reactjs.
 - [React context](https://react.dev/learn/passing-data-deeply-with-context) - React.createContext() is a React API allowing you to pass or share between react components.
 
 ## React UI Library
 
 - [Tail Spark](https://tailspark.co) - Tail Spark is lightning, fast, beautifully designed and ready for production. Tail Spark comes with 300+ Tailwind CSS Components, All the components come with copy and paste code.
-- [Radix UI](https://www.radix-ui.com/) - An open source component library optimized for fast development, easy maintenance, and accessibility.
+- [Radix UI](https://www.radix-ui.com/) - An open-source component library optimized for fast development, easy maintenance, and accessibility.
 - [Shadcn UI](https://ui.shadcn.com/) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [MUI](https://mui.com/) - Material UI provides a simple, customizable, accessible library of React components.
 - [Primer React](https://primer.style/react/) - Primer React is built with Primer CSS and ReactJs by GitHub.
-- [React bootstrap](https://react-bootstrap.github.io/) - React bootstrap is made based on react and bootstrap.
+- [React bootstrap](https://react-bootstrap.github.io/) - React bootstrap is made based on React and bootstrap.
 - [Ant Design](https://ant.design/) - Ant Design UI is a high-quality React components library that helps designers/developers build beautiful products.
 - [Chakra UI](https://chakra-ui.com/) - With the help of Chakra UI, you can quickly design a simple to complex site. It gives you the building blocks to build your React applications.
 - [Kuma UI](https://www.kuma-ui.com/) - Empower Your Web with Ultimate Performance and Flexibility.
@@ -120,14 +120,14 @@ You can share your favourite library, tool, or template related to next.js. It h
 
 ## Icons Library
 
-- [React icons](https://react-icons.github.io/react-icons/) - Use the popular svg icons in your React projects easily with react-icons.
-- [MUI Icons](https://mui.com/material-ui/material-icons/) - Material icons are ready-to-use with React, which is officially designed and maintained by the MUI team.
-- [Icon Buddy](https://iconbuddy.app/) - Icon Buddy comes to downloads, customized, edits, and personalized. Icon Buddy has over 180k open-source icons.
+- [React icons](https://react-icons.github.io/react-icons/) - Use the popular SVG icons in your React projects easily with react-icons.
+- [MUI Icons](https://mui.com/material-ui/material-icons/) - Material icons are ready to use with React, officially designed and maintained by the MUI team.
+- [Icon Buddy](https://iconbuddy.app/) - Icon Buddy comes for downloads, customizations, edits, and personalized. Icon Buddy has over 180k open-source icons.
 - [Flowbite Icon](https://flowbite.com/icons/) - Flowbite Icons is a 487+ free and open-source SVG icon library. it is compatible with Flowbite and Tailwind CSS based on solid and outline styles with React (JSX) and Figma support.
 - [Hero Icons](https://heroicons.com/) - Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
 - [Lucide](https://lucide.dev/) - Beautiful & consistent icons Made by the community.
 - [Eva Icons](https://akveo.github.io/eva-icons) - Eva Icons is a pack of over 480 beautifully crafted Open Source icons for common use.
-- [Icon Monstr](https://iconmonstr.com/) - Icon monstr is a free, monstrously big and continuously growing icon library.
+- [Icon Monstr](https://iconmonstr.com/) - Icon Monstr is a free, monstrously big, and continuously growing icon library.
 - [Icon SVG](https://iconsvg.xyz/) - ICONSVG is a tool to simplify finding and generating common icons for your project.
 - [Iconoir](https://iconoir.com/) - Iconoir is an open-source library with 1300+ unique SVG icons, designed on a 24x24 pixels grid. No premium icons, no email sign-up, no newsletters.
 - [Icons download](https://icons.download/) - Open-source free universal icons.
@@ -135,13 +135,13 @@ You can share your favourite library, tool, or template related to next.js. It h
 ## Static Search library
 
 - [Fusejs](https://fusejs.io/) - Fusejs is a popular, powerful, lightweight search library for creating search functionality for sites.
-- [Flex Search](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js.
+- [Flex Search](https://github.com/nextapps-de/flexsearch) - Next-Generation full-text search library for Browser and Node.js.
 - [Orama](https://docs.oramasearch.com/) - Orama is a powerful full-text search engine that works both on client and server.
 
 ## Nextjs based template
 
-- [Minimalist](https://github.com/frontendweb3/minimalist) - Minimalist blog template built with nextjs and tailwind css.
-- [Open Blog](https://github.com/frontendweb3/open-blog) - Open blog is a bloging template built with nextjs, tailwind CSS and markdown.
+- [Minimalist](https://github.com/frontendweb3/minimalist) - Minimalist blog template built with nextjs and tailwind CSS.
+- [Open Blog](https://github.com/frontendweb3/open-blog) - Open blog is a blogging template built with nextjs, tailwind CSS and markdown.
 - [Blogify](https://github.com/frontendweb3/blogify) - Blogify is an open-source nextjs blog template design with tailwind CSS.
 
 ## Ready-Made Reactjs Hooks
@@ -153,18 +153,18 @@ You can share your favourite library, tool, or template related to next.js. It h
 
 ## Tailwind CSS
 
-- [Flowbite](https://flowbite.com/) - Flowbite is a popular library built with tailwind CSS and provides inbuilt tailwindcss components for developers.
+- [Flowbite](https://flowbite.com/) - Flowbite is a popular library built with tailwind CSS and provides inbuilt tailwind CSS components for developers.
 - [Material Tailwind](https://www.material-tailwind.com/) - Material Tailwind comes with ready-made components. You can design pure HTML and react website layouts using material tailwind components.
 - [Meraki UI](https://merakiui.com/) - Meraki UI provides 144+ custom UI components built with tailwind CSS and Alpine JS.
 - [Sailboat UI](https://sailboatui.com/) - Sailboat UI provides 150+ tailwind CSS components with tailwind CSS and alpine.js.
 - [Kometa](https://kitwind.io/products/kometa/) - Kometa provides 130 inbuilt tailwinds CSS-based components, and Kometa is free.
-- [Headless UI](https://headlessui.com) - Headless UI is a slight tailwind CSS-based component library only for react developers.
+- [Headless UI](https://headlessui.com) - Headless UI is a slight tailwind CSS-based component library only for React developers.
 - [Daisy UI](https://daisyui.com/) - Daisy UI is an open-source UI based on tailwind CSS. The Big motivation is to use daisy UI in our project.
 - [Hyper UI](https://www.hyperui.dev/) - Hyper UI is a free open-source tailwind CSS-based component for modern design. Hyper UI is a complete bundle of CSS and JavaScript.
 - [Flowrift](https://flowrift.com/c/banner) - Flowrift is a free open-source tailwind CSS-based component library. It provides different category components for the website.
 - [Tailwind UI kit](https://tailwinduikit.com/) - The tailwind UI kit offers an extensive list of inbuilt components. In the free plan tailwind, the UI kit provides only 250 components; in the paid plan, you access all components and templates for a lifetime.
 - [Tailwind-kit](https://www.tailwind-kit.com/) - The tailwind kit provides access to over 250 free tailwinds CSS-based components.
-- [Wickedblocks](https://wickedblocks.dev/) - Wickedblocks provide a free 120 fully responsive tailwind CSS-based component, and all components come ready to copy and paste into your Tailwind projects.
+- [Wickedblocks](https://wickedblocks.dev/) - Wickedblocks provides a free 120 fully responsive tailwind CSS-based component, and all components come ready to copy and paste into your Tailwind projects.
 - [Tailus](https://tailus.io/) - Tailus provides a list of UI components and templates built on tailwind CSS. Tailus components offer a rich and modern UI experience.
 - [Tailgrids](https://tailgrids.com/) - Tailgrids provides a variety of 500+ components, blocks, sections, and templates built on tailwind CSS.
 - [Kutty](https://kutty.netlify.app/) - Kutty is based on reusable tailwind CSS components and adds component interaction with alpine.js.
@@ -173,12 +173,12 @@ You can share your favourite library, tool, or template related to next.js. It h
 - [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation) - Tailwind Starter Kit is a Free and Open Source library. The Tailwind Starter Kit is based on Tailwind CSS.
 - [Tailblocks](https://tailblocks.cc/) - Tailblocks is a small library based on tailwind CSS. Tailblocks provide 60+ inbuilt components.
 - [Tailwind toolbox](https://www.tailwindtoolbox.com/) - A tailwind toolbox site is where you find other people's projects on tailwind CSS. All the project is free, and you copy and paste code into your project.
-- [Next UI](https://nextui.org) - Beautiful, fast and modern React UI library.
+- [Next UI](https://nextui.org) - Beautiful, fast, and modern React UI library.
 - [Lang UI](https://www.langui.dev/) - Beautifully crafted Tailwind components for your GPT projects.
 
 ## Development Tool
 
-- [Typescript](https://www.typescriptlang.org/) - Typescript help to write type-safe JavaScript for production.
+- [Typescript](https://www.typescriptlang.org/) - Typescript helps to write type-safe JavaScript for production.
 - [@next/eslint-plugin-next](https://www.npmjs.com/package/@next/eslint-plugin-next) - Next/eslint-plugin help to resolve the error.
 - [@next/bundle-analyzer](https://www.npmjs.com/package/@next/bundle-analyzer) - Analyzer your nextjs bundle size using a webpack bundle analyzer.
 
@@ -197,7 +197,7 @@ You can share your favourite library, tool, or template related to next.js. It h
 
 - [Gimli](https://gimli.app/) - Gimli Chrome extension is an innovative visual tool for front-end developers to build with tailwind CSS.
 - [NextJS Utilities Extension](https://chrome.google.com/webstore/detail/nextjs-utilities-extensio/ffcogmoganomoabikgmcmckdgojnpldo) - Next.js Utilities Extension shows you the size of Next.js static data without installing of any additional stuff.
-- [GitHub Web IDE](https://chromewebstore.google.com/detail/github-web-ide/adjiklnjodbiaioggfpbpkhbfcnhgkfe) - Open Any GitHub repositories in online web (cloud) IDE like VS Code, GitHub Dev, Code Sandbox, Repl.it, Gitpod etc.
+- [GitHub Web IDE](https://chromewebstore.google.com/detail/github-web-ide/adjiklnjodbiaioggfpbpkhbfcnhgkfe) - Open Any GitHub repositories in online web (cloud) IDE like VS Code, GitHub Dev, Code Sandbox, Repl.it, Gitpod, etc.
 
 ## Utility (Others)
 
