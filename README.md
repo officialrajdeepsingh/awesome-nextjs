@@ -1,4 +1,5 @@
 <!-- omit in toc -->
+
 # Awesome Nextjs[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
 
 I have compiled a list of NPM libraries that can be used to develop small and large-scale applications with Next.js. The list is based on my experience as a front-end developer, and I have used 80% of the packages mentioned. As I discover more packages in the future, I will add them to the current list to help other front-end developers build applications with Next.js more efficiently.
@@ -24,7 +25,8 @@ To stay updated, follow us on GitHub and give our repository a star. This will h
 ---
 
 <!-- omit in toc -->
-## Contents
+
+## Contents <!-- omit in toc -->
 
 - [Specify for Nextjs](#specify-for-nextjs)
 - [Documentation](#documentation)
