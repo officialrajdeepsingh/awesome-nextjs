@@ -1,52 +1,49 @@
-<div align="center">
-# Awesome Next.js[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-</div>
+<!-- omit in toc -->
+# Awesome Nextjs[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
 
 I have compiled a list of NPM libraries that can be used to develop small and large-scale applications with Next.js. The list is based on my experience as a front-end developer, and I have used 80% of the packages mentioned. As I discover more packages in the future, I will add them to the current list to help other front-end developers build applications with Next.js more efficiently.
 
 To stay updated, follow us on GitHub and give our repository a star. This will help others discover our repository, encouraging more developers to contribute and build a solid list. Additionally, we encourage you to share our repository on your social media platforms, like X (previously known as Twitter).
 
-## Share on Social Media
+> You can share your favorite library, tool, or template related to next.js. It helps full for other developers. Before sharing your favorite library, tool, or template, please read our [Contribution guidelines](CONTRIBUTING.md).
+
+---
 
 <div align="center">
   <a  href="https://twitter.com/intent/tweet?text=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps.&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs">
-      <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
+      <img alt="nextjs" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
   </a>
   <a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs&title=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs">
-      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+      <img alt="facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
   </a>
 </div>
 
+---
+
+<!-- omit in toc -->
 ## Contents
 
-- [Awesome Next.js](#awesome-nextjs) - [Share on Social Media](#share-on-social-media)
-  - [Contents](#contents)
-  - [Contributing](#contributing)
-  - [Specify for Nextjs](#specify-for-nextjs)
-  - [Documentation](#documentation)
-  - [Blogging](#blogging)
-  - [Nextjs boilerplate](#nextjs-boilerplate)
-  - [Headless CMS](#headless-cms)
-  - [Authentication and User Management](#authentication-and-user-management)
-  - [State Management](#state-management)
-  - [React UI Library](#react-ui-library)
-  - [Icons Library](#icons-library)
-  - [Static Search library](#static-search-library)
-  - [Nextjs based template](#nextjs-based-template)
-  - [Ready-Made Reactjs Hooks](#ready-made-reactjs-hooks)
-  - [Tailwind CSS](#tailwind-css)
-  - [Development Tool](#development-tool)
-  - [Error Handling](#error-handling)
-  - [VS Code extensions](#vs-code-extensions)
-  - [Chrome Extension](#chrome-extension)
-  - [Utility (Others)](#utility-others)
-
-## Contributing
-
-You can share your favorite library, tool, or template related to next.js. It helps full for other developers. Before sharing your favorite library, tool, or template, please read our [Contribution guidelines](CONTRIBUTING.md).
+- [Specify for Nextjs](#specify-for-nextjs)
+- [Documentation](#documentation)
+- [Blogging](#blogging)
+- [Nextjs boilerplate](#nextjs-boilerplate)
+- [Headless CMS](#headless-cms)
+- [Authentication and User Management](#authentication-and-user-management)
+- [State Management](#state-management)
+- [React UI Library](#react-ui-library)
+- [Icons Library](#icons-library)
+- [Static Search library](#static-search-library)
+- [Nextjs based Template](#nextjs-based-template)
+- [Ready-Made Reactjs Hooks](#ready-made-reactjs-hooks)
+- [Tailwind CSS](#tailwind-css)
+- [Development Tool](#development-tool)
+- [Error Handling](#error-handling)
+- [VS Code Extensions](#vs-code-extensions)
+- [Chrome Extension](#chrome-extension)
+- [Utility (Others)](#utility-others)
 
 ## Specify for Nextjs
 
@@ -138,7 +135,7 @@ You can share your favorite library, tool, or template related to next.js. It he
 - [Flex Search](https://github.com/nextapps-de/flexsearch) - Next-Generation full-text search library for Browser and Node.js.
 - [Orama](https://docs.oramasearch.com/) - Orama is a powerful full-text search engine that works both on client and server.
 
-## Nextjs based template
+## Nextjs based Template
 
 - [Minimalist](https://github.com/frontendweb3/minimalist) - Minimalist blog template built with nextjs and tailwind CSS.
 - [Open Blog](https://github.com/frontendweb3/open-blog) - Open blog is a blogging template built with nextjs, tailwind CSS and markdown.
@@ -187,7 +184,7 @@ You can share your favorite library, tool, or template related to next.js. It he
 - [React Error Boundary](https://www.npmjs.com/package/react-error-boundary?activeTab=readme) - The react error boundary package is a reusable React error boundary component. You can wrap your application with an Error Boundary component around other React components to catch errors and render a fallback UI.
 - [Use error boundary](https://www.npmjs.com/package/use-error-boundary) - The use-error-boundary is a react hook, it is built to handle error boundaries in your react functional components.
 
-## VS Code extensions
+## VS Code Extensions
 
 - [Next.Nav](https://marketplace.visualstudio.com/items?itemName=NextNav.NextNav) - Using the VS Code extension, navigate and create routes easily in your Next.js application.
 - [Nextjs snippets](https://marketplace.visualstudio.com/items?itemName=PulkitGangwar.nextjs-snippets) - Ready-made snippets for Next.js.
