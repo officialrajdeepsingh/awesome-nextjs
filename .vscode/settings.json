@@ -1,3 +1,7 @@
 {
-  "gitdoc.enabled": false
+  "markdownlint.config": {
+    "MD033": {
+      "allowed_elements": ["div","a","img"]
+    }
+  }
 }
