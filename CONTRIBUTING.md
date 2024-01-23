@@ -1,20 +1,20 @@
 # Welcome to GitHub docs contributing guide
-Thank you for investing your time in contributing to our project! Your contribution is reflected in the readme.
+Thank you for investing your time in contributing to our project! Just to let you know, your contribution is reflected in the readme.
 
 Read our [Code of Conduct](/CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
 
 ## Contributor Guidelines
-Our contribution guideline is simple and easy for everyone. So everyone easily creates contribute without any problem.
+We follow the same guidelines used by (Awesome)[https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md]. To add, update, or remove the item in our project.
 
 ### Do Not
  * We do not accept any promotion links.
 
 ### Do It
- * We accept only those packages which actively contributed by the maintainer or community.
+ * We accept only those packages actively contributed by the maintainer or community.
 
 ## How to contribute
 
-You start to contribute with the following syntax. Make sure you do not add any promotions or spam links.
+You start to contribute with the following syntax. Could you make sure you do not add any promotions or spam links?
 
 ### Adding subcategory
 
@@ -23,12 +23,12 @@ Your subcategory is not listed there, and you can create a subcategory yourself.
 **Syntax**
 
 ```markdown
-## name of the subcategory
+## Name of the subcategory
 ```
 
 ### Adding item
 
-You can add any npm package or library in the existing subcategory using the following syntax.
+Using the following syntax, you can add any npm package or library in the existing subcategory.
 
 **Syntax**
 
@@ -38,15 +38,14 @@ You can add any npm package or library in the existing subcategory using the fol
 
 ## Make changes locally
 1. Fork the repository locally.
-2. Adding new package, library, tool, and template name.
-3. You can explain the package, library, tool, and template you added.
-4. Your package category does not exist; you can also create it.
+2. Add a new package, library, tool, and template name.
+3. You can explain the package, library, tool, and template you added; if Your package category does not exist, you can also create it.
+4. Lastly, run `pnpm format` and `pnpm lint` to format and fix the lint issue.
 
 ## Commit your update
-Commit the changes once you are happy with them. Make sure it does not have grammar mistakes and that your package name and link work fine.
+Commit the changes once you are happy with them. Ensure it does not have grammar mistakes and that your package name and link work fine.
 
 ## Pull Request
-When you're finished with the changes, create a pull request known as a PR.
-Your PR is merged!
+When you're finished with the changes, create a pull request called a PR. Your PR is merged!
 
 
