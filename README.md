@@ -28,6 +28,7 @@ To stay updated, follow us on GitHub and give our repository a star. This will h
 
 ## Contents <!-- omit in toc -->
 
+- [Officially for Nextjs](#officially-for-nextjs)
 - [Specify for Nextjs](#specify-for-nextjs)
 - [Documentation](#documentation)
 - [Blogging](#blogging)
@@ -46,6 +47,14 @@ To stay updated, follow us on GitHub and give our repository a star. This will h
 - [VS Code Extensions](#vs-code-extensions)
 - [Chrome Extension](#chrome-extension)
 - [Utility (Others)](#utility-others)
+
+## Officially for Nextjs
+
+- [Turborepo](https://turbo.build/repo) - Turborepo is a high-performance build system for JavaScript and TypeScript codebases.
+- [Turbopack](https://turbo.build/pack) - Turbopack is an incremental bundler optimized for JavaScript and TypeScript, written in Rust.
+- [Swr](https://github.com/vercel/swr) - React Hooks for Data Fetching.
+- [Satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG.
+- [React tweet](https://github.com/vercel/react-tweet) - Embed tweets in your React application.
 
 ## Specify for Nextjs
 
