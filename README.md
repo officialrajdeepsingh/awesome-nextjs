@@ -1,6 +1,6 @@
 <!-- omit in toc -->
 
-# Awesome Nextjs[![Awesome](https://awesome.re/badge.svg "logo" )](https://awesome.re)  <!-- omit in toc -->
+# Awesome Nextjs[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
 
 I have compiled a list of NPM libraries that can be used to develop small and large-scale applications with Next.js. The list is based on my experience as a front-end developer, and I have used 80% of the packages mentioned.
 
@@ -101,7 +101,7 @@ To stay updated, follow us on GitHub and give our repository a star. This will h
 - [Clerk](https://clerk.com/) - Clerk is more than a "sign-in box" and integrates complete user management UIs and APIs, purpose-built for React, Next.js, and the Modern Web.
 - [Mojo Auth](https://mojoauth.com/) - Mojo Auth is a secure and delightful passwordless login solution.
 - [Auth kit](https://www.authkit.com/) - MojoAuth offers a passwordless authentication solution for any web and mobile application.
-- [Kinde](https://kinde.com) -  Simple, robust authentication built for developers.
+- [Kinde](https://kinde.com) - Simple, robust authentication built for developers.
 - [Stytch](https://stytch.com) - Stytch is enterprise-ready authentication and authorization.
 
 ## State Management
