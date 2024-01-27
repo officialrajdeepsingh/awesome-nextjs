@@ -101,7 +101,7 @@ To stay updated, follow us on GitHub and give our repository a star. This will h
 - [Clerk](https://clerk.com/) - Clerk is more than a "sign-in box" and integrates complete user management UIs and APIs, purpose-built for React, Next.js, and the Modern Web.
 - [Mojo Auth](https://mojoauth.com/) - Mojo Auth is a secure and delightful passwordless login solution.
 - [Auth kit](https://www.authkit.com/) - MojoAuth offers a passwordless authentication solution for any web and mobile application.
-- [Kinde](https://kinde.com) - Auth built for developers.
+- [Kinde](https://kinde.com) -  Simple, robust authentication built for developers.
 
 ## State Management
 
