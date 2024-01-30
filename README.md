@@ -32,6 +32,7 @@ To stay updated, follow us on GitHub and give our repository a star. This will h
 - [Blogging](#blogging)
 - [Nextjs boilerplate](#nextjs-boilerplate)
 - [Headless CMS](#headless-cms)
+- [Database](#database)
 - [Authentication and User Management](#authentication-and-user-management)
 - [State Management](#state-management)
 - [React UI Library](#react-ui-library)
@@ -95,6 +96,12 @@ To stay updated, follow us on GitHub and give our repository a star. This will h
 - [Forestry](https://forestry.io/) - Forestry is a headless CMS easy-to-customizable, configurable and integrated with all types of static site generators.
 - [Craft CMS](https://craftcms.com/) - Craft CMS is a flexible, user-friendly CMS for creating the web.
 - [Payload CMS](https://payloadcms.com) - Build a modern backend admin UI with payload CMS. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
+
+## Database
+
+- [Supabase](https://supabase.com) - Supabase is an open source Firebase alternative.
+- [PlanetScale](https://planetscale.com/) - PlanetScale is the worlds most advanced MySQL platform.
+- [MongoDB](https://www.mongodb.com/) - MongoDB helps to built small and large platform.
 
 ## Authentication and User Management
 
