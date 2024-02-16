@@ -67,6 +67,7 @@ To stay updated, follow us on GitHub and give our repository a star. This will h
 - [Next-themes](https://www.npmjs.com/package/next-themes) - You can enable the dark-to-light theme toggle with next-themes in your Next.js app.
 - [Create t3-app](https://create.t3.gg/) - Build the full-stack application with TypeScript, Prisma, tRPC, NextAuth, Tailwind CSS, and Next.js app.
 - [Tina CMS](https://tina.io/) - Tina CMS is a new nextjs-based CMS, an open-source, Git-backed headless CMS you can use with Markdown, MDX, and JSON.
+- [Next video](https://github.com/muxinc/next-video) - The next video is a react component for adding video to your next.js application.
 
 ## Documentation
 
