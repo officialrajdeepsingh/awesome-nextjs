@@ -165,6 +165,7 @@ To stay updated, follow us on GitHub and give our repository a star. This will h
 - [Mantine Hooks](https://mantine.dev/getting-started) - Mantine Hooks provide Inbuilt readymade reactjs hooks for handling state and UI management.
 - [usehooks](https://usehooks.com) - A collection of built-in modern, server-side React hooks.
 - [React Custom Hooks](https://github.com/sergeyleschev/react-custom-hooks) - Supercharge Your Projects with ready-made custom hooks.
+- [React use](https://github.com/streamich/react-use) - Collection of essential react hooks used for any project.
 
 ## Tailwind CSS
 
