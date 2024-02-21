@@ -103,6 +103,7 @@ To stay updated, follow us on GitHub and give our repository a star. This will h
 - [Supabase](https://supabase.com) - Supabase is an open source Firebase alternative.
 - [PlanetScale](https://planetscale.com/) - PlanetScale is the worlds most advanced MySQL platform.
 - [MongoDB](https://www.mongodb.com/) - MongoDB helps to built small and large platform.
+- [Nhost](https://nhost.io/) - Nhost is an open-source backend and development platform that enables developers to build and scale their web and mobile apps.
 
 ## Authentication and User Management
 
@@ -165,7 +166,7 @@ To stay updated, follow us on GitHub and give our repository a star. This will h
 - [Mantine Hooks](https://mantine.dev/getting-started) - Mantine Hooks provide Inbuilt readymade reactjs hooks for handling state and UI management.
 - [usehooks](https://usehooks.com) - A collection of built-in modern, server-side React hooks.
 - [React Custom Hooks](https://github.com/sergeyleschev/react-custom-hooks) - Supercharge Your Projects with ready-made custom hooks.
-- [React use](https://github.com/streamich/react-use) - Collection of essential react hooks used for any project.
+- [React use](https://github.com/streamich/react-use) - Collection of essential reactjs hooks used for any project.
 
 ## Tailwind CSS
 
