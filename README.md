@@ -112,6 +112,7 @@ To stay updated, follow us on GitHub and give our repository a star. This will h
 - [Auth kit](https://www.authkit.com/) - MojoAuth offers a passwordless authentication solution for any web and mobile application.
 - [Kinde](https://kinde.com) - Simple, robust authentication built for developers.
 - [Stytch](https://stytch.com) - Stytch is enterprise-ready authentication and authorization.
+- [Kirimase](https://kirimase.dev) - Kirimase is a command-line tool (CLI) for building full-stack Next.js.
 
 ## State Management
 
