@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
   <!-- HTML Meta Tags -->
-  <title>Awesome Next.js</title>
+  <title>Awesome Next.js - Maintain By Rajdeep Singh</title>
   
   <meta name="description" content="A curated list of awesome Nextjs-based libraries that help build small and large-scale applications with next.js." />
 
@@ -31,12 +31,16 @@
 
   <!-- Themes (light + dark) -->
   <link rel="stylesheet alternative" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css" title="dark">
+  
   <style>
     a[href="https://awesome.re"]{
       display: none;
     }
     img[src="https://awesome.re/badge.svg"]{
       display: none;
+    }
+    :root{
+      --base-background-color: #1e1a1a
     }
   </style>
 
@@ -51,24 +55,21 @@
       routerMode: "history",
       name: "Awesome Next.js",
       auto2top: true,
-      // loadSidebar: true,
-      // loadNavbar: true,
-      repo: "officialrajdeepsingh/awesome-nextjs",
-      sidebarDisplayLevel: 1,
+      hideSidebar: true,
+      loadNavbar: true,
       relativePath: true,
       plugins: [
         function pageFooter(hook, vm) {
           var footer = [
             '<footer style="margin-top: 60px;">',
-            '<span style="padding: 0px 5px;"> Maintain by <a target="_blank" href="https://twitter.com/Official_R_deep"> Rajdeep Singh </a> and built with docsify. </span>',
+            '<span style="padding: 0px 5px;"> Maintain By <a target="_blank" href="https://twitter.com/Official_R_deep"> Rajdeep Singh </a> and built with docsify. </span>',
             '</footer>',
           ].join('');
-
           hook.afterEach(function (html) {
             return html + footer;
           });
         }
-      ]
+      ],
     };
   </script>
 
@@ -78,12 +79,12 @@
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
 
   <!-- Recommended -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
+  <!-- <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script> -->
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
 
   <!-- plugins -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/main.min.js" type="text/javascript"></script>
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/main.min.js" type="text/javascript"></script> -->
   <!-- <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/index.min.js" type="text/javascript"> </script> -->
 
 </body>
