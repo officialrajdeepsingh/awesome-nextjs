@@ -8,19 +8,19 @@ As I discover more packages in the future, I will add them to the current list t
 
 To stay updated, follow us on GitHub and give our repository a star. This will help others discover our repository, encouraging more developers to contribute and build a solid list. Additionally, we encourage you to share our repository on your social media platforms, like X (previously known as Twitter).
 
-> You can share your favorite library, tool, or template related to next.js. It helps full for other developers. Before sharing your favorite library, tool, or template, please read our [Contribution guidelines](CONTRIBUTING.md).
+> [Read our guidelines](CONTRIBUTING.md) before sharing your favourite library, tool, or template on the awesome nextjs repository.
 
-<div align="center">
-  <a height="40" width="100" href="https://twitter.com/intent/tweet?text=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps.&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs">
-      <img height="40" width="100" alt="nextjs" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
-  </a>
-  <a height="40" width="100" href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs&title=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps">
-      <img height="40" width="100" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a height="40" width="100" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs">
-      <img height="40" width="100" alt="facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
-  </a>
-</div>
+<!-- <div align="center"> -->
+<!--   <a height="40" width="100" href="https://twitter.com/intent/tweet?text=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps.&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs"> -->
+<!--       <img height="40" width="100" alt="nextjs" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"> -->
+<!--   </a> -->
+<!--   <a height="40" width="100" href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs&title=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps"> -->
+<!--       <img height="40" width="100" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> -->
+<!--   </a> -->
+<!--   <a height="40" width="100" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs"> -->
+<!--       <img height="40" width="100" alt="facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"> -->
+<!--   </a> -->
+<!-- </div> -->
 
 <!-- omit in toc -->
 
@@ -79,6 +79,7 @@ To stay updated, follow us on GitHub and give our repository a star. This will h
 ## Blogging
 
 - [Section blog theme](https://github.com/frontendweb3/section-theme-blog) - The section blog theme is nextra-based MDX theme.
+- [Blog Starter Kit](https://vercel.com/templates/next.js/blog-starter-kit) - A statically generated blog example using Next.js and Markdown.
 
 ## Nextjs boilerplate
 
