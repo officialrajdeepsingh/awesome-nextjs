@@ -10,6 +10,15 @@ To stay updated, follow us on GitHub and give our repository a star. This will h
 
 > [Read our guidelines](CONTRIBUTING.md) before sharing your favourite library, tool, or template on the awesome nextjs repository.
 
+<div style='display: none;'>
+
+## Stare on Social
+
+- [Share on Twitter](https://twitter.com/intent/post?text=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps.&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs)
+- [Share On Linkedin](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs)
+
+</div>
+
 <!-- <div align="center"> -->
 <!--   <a height="40" width="100" href="https://twitter.com/intent/tweet?text=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps.&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs"> -->
 <!--       <img height="40" width="100" alt="nextjs" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"> -->
