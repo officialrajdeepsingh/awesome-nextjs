@@ -27,7 +27,7 @@ To stay updated, follow us on GitHub and give our repository a star. This will h
 ## Contents <!-- omit in toc -->
 
 - [Officially for Nextjs](#officially-for-nextjs)
-- [Specify for Nextjs](#specify-for-nextjs)
+- [Tools](#tools)
 - [Documentation](#documentation)
 - [Blogging](#blogging)
 - [Nextjs boilerplate](#nextjs-boilerplate)
@@ -55,7 +55,7 @@ To stay updated, follow us on GitHub and give our repository a star. This will h
 - [Satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG.
 - [React tweet](https://github.com/vercel/react-tweet) - Embed tweets in your React application.
 
-## Specify for Nextjs
+## Tools
 
 - [Next SEO](https://www.npmjs.com/package/next-seo) - Next SEO is a plugin that helps manage the SEO in Next.js.
 - [Next sitemap](https://www.npmjs.com/package/next-sitemap) - The next sitemap library helps you create a sitemap file in your nextjs application.
