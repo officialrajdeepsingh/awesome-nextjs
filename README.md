@@ -12,7 +12,7 @@ To stay updated, follow us on GitHub and give our repository a star. This will h
 
 <div style='display: none;'>
 
-## Stare on Social
+### Stare on Social
 
 - [Share on Twitter](https://twitter.com/intent/post?text=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps.&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs)
 - [Share On Linkedin](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs)
