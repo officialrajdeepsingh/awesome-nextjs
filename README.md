@@ -12,6 +12,8 @@
 To stay updated, follow the GitHub Repository and give our repository a star. This will help others discover it, encourage more developers to contribute, and build a solid list. Additionally, we encourage you to share our repository on your social media platforms, like X (previously known as Twitter).
 </div>
 
+<br>
+
 [Read our guidelines](CONTRIBUTING.md) before sharing your favourite library, tool, or template on the awesome nextjs repository.
 
 <div style='display: none;'>
