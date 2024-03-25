@@ -8,9 +8,11 @@
 
 <!-- I have compiled a list of NPM libraries that can be used to develop small and large-scale applications with Next.js. The list is based on my experience as a front-end developer, and I have used 80% of the packages mentioned. As I discover more packages in the future, I will add them to the current list to help other front-end developers build applications with Next.js more efficiently. -->
 
+<div style='display: none;'>
 To stay updated, follow the GitHub Repository and give our repository a star. This will help others discover it, encourage more developers to contribute, and build a solid list. Additionally, we encourage you to share our repository on your social media platforms, like X (previously known as Twitter).
+</div>
 
-> [Read our guidelines](CONTRIBUTING.md) before sharing your favourite library, tool, or template on the awesome nextjs repository.
+> [!IMPORTANT] [Read our guidelines](CONTRIBUTING.md) before sharing your favourite library, tool, or template on the awesome nextjs repository.
 
 <div style='display: none;'>
 
@@ -30,7 +32,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 <!--       <img height="40" width="100" alt="facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"> -->
 <!--   </a> -->
 <!-- </div> -->
-
+</div>
 <!-- omit in toc -->
 
 ## Contents <!-- omit in toc -->
