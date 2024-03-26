@@ -20,8 +20,20 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 
 ### Share on Social
 
+<p align="center">
+  <a href="https://twitter.com/intent/post?text=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps.&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs">
+    <img width='100px' height='30px' alt="Share on Twitter" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs">
+    <img width='100px' height='30px' alt="Share on Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+<!--
 - [Share on Twitter](https://twitter.com/intent/post?text=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps.&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs)
-- [Share On Linkedin](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs)
+- [Share On Linkedin](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs) 
+
+-->
 
 <!-- <div align="center"> -->
 <!--   <a height="40" width="100" href="https://twitter.com/intent/tweet?text=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps.&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs"> -->
@@ -51,7 +63,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [React UI Library](#react-ui-library)
 - [Icons Library](#icons-library)
 - [Static Search library](#static-search-library)
-- [Nextjs based Template](#nextjs-based-template)
+- [Nextjs-based Template](#nextjs-based-template)
 - [Ready-Made Reactjs Hooks](#ready-made-reactjs-hooks)
 - [Tailwind CSS](#tailwind-css)
 - [Development Tool](#development-tool)
@@ -98,7 +110,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 
 - [Next.js Enterprise Boilerplate](https://github.com/Blazity/next-enterprise) - Next.js Enterprise Boilerplate, an open-source template, builds a high-performance, maintainable, and enjoyable application.
 - [Create t3 App](https://github.com/t3-oss/create-t3-app) - Interactive CLI to start a full-stack, type-safe new Next.js application.
-- [Nextjs Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - Start new projects with App Router and Page Router support, Tailwind CSS and TypeScript, and many more.
+- [Nextjs Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - Start new projects with support for App Router and Page Router, Tailwind CSS and TypeScript, and more.
 - [Superplate](https://github.com/pankod/superplate) - Superplate is well-structured and production-ready and comes with Typescript, Popular UI Kits and +30 plugins.
 - [Next.js + Tailwind CSS + TypeScript Starter and Boilerplate](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - Combination of Next.js, Tailwind CSS, and TypeScript.
 - [Kirimase](https://kirimase.dev) - Kirimase is a command-line tool (CLI) for building full-stack Next.js.
@@ -115,16 +127,16 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 
 ## Database
 
-- [Supabase](https://supabase.com) - Supabase is an open source Firebase alternative.
-- [PlanetScale](https://planetscale.com/) - PlanetScale is the worlds most advanced MySQL platform.
-- [MongoDB](https://www.mongodb.com/) - MongoDB helps to built small and large platform.
+- [Supabase](https://supabase.com) - Supabase is an open-source Firebase alternative.
+- [PlanetScale](https://planetscale.com/) - PlanetScale is the world's most advanced MySQL platform.
+- [MongoDB](https://www.mongodb.com/) - MongoDB helps to build small and large platforms.
 - [Nhost](https://nhost.io/) - Nhost is an open-source backend and development platform that enables developers to build and scale their web and mobile apps.
 
 ## Authentication and User Management
 
 - [Clerk](https://clerk.com/) - Clerk is more than a "sign-in box" and integrates complete user management UIs and APIs, purpose-built for React, Next.js, and the Modern Web.
 - [Mojo Auth](https://mojoauth.com/) - Mojo Auth is a secure and delightful passwordless login solution.
-- [Auth kit](https://www.authkit.com/) - MojoAuth offers a passwordless authentication solution for any web and mobile application.
+- [Auth kit](https://www.authkit.com/) - MojoAuth offers a passwordless authentication solution for any web and mobile applications.
 - [Kinde](https://kinde.com) - Simple, robust authentication built for developers.
 - [Stytch](https://stytch.com) - Stytch is enterprise-ready authentication and authorization.
 
@@ -143,7 +155,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Shadcn UI](https://ui.shadcn.com/) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [MUI](https://mui.com/) - Material UI provides a simple, customizable, accessible library of React components.
 - [Primer React](https://primer.style/react/) - Primer React is built with Primer CSS and ReactJs by GitHub.
-- [React bootstrap](https://react-bootstrap.github.io/) - React bootstrap is made based on React and bootstrap.
+- [React bootstrap](https://react-bootstrap.github.io/) - React bootstrap is made based on React and Bootstrap.
 - [Ant Design](https://ant.design/) - Ant Design UI is a high-quality React components library that helps designers/developers build beautiful products.
 - [Chakra UI](https://chakra-ui.com/) - With the help of Chakra UI, you can quickly design a simple to complex site. It gives you the building blocks to build your React applications.
 - [Kuma UI](https://www.kuma-ui.com/) - Empower Your Web with Ultimate Performance and Flexibility.
@@ -155,7 +167,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [MUI Icons](https://mui.com/material-ui/material-icons/) - Material icons are ready to use with React, officially designed and maintained by the MUI team.
 - [Icon Buddy](https://iconbuddy.app/) - Icon Buddy comes for downloads, customizations, edits, and personalized. Icon Buddy has over 180k open-source icons.
 - [Flowbite Icon](https://flowbite.com/icons/) - Flowbite Icons is a 487+ free and open-source SVG icon library. it is compatible with Flowbite and Tailwind CSS based on solid and outline styles with React (JSX) and Figma support.
-- [Hero Icons](https://heroicons.com/) - Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
+- [Hero Icons](https://heroicons.com/) - Beautiful hand-crafted SVG icons by the makers of Tailwind CSS.
 - [Lucide](https://lucide.dev/) - Beautiful & consistent icons Made by the community.
 - [Eva Icons](https://akveo.github.io/eva-icons) - Eva Icons is a pack of over 480 beautifully crafted Open Source icons for common use.
 - [Icon Monstr](https://iconmonstr.com/) - Icon Monstr is a free, monstrously big, and continuously growing icon library.
@@ -201,7 +213,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Tailgrids](https://tailgrids.com/) - Tailgrids provides a variety of 500+ components, blocks, sections, and templates built on tailwind CSS.
 - [Kutty](https://kutty.netlify.app/) - Kutty is based on reusable tailwind CSS components and adds component interaction with alpine.js.
 - [Windmill UI](https://windmillui.com/) - Windmill UI is a free react base UI component library design with tailwind CSS.
-- [Myna UI](https://mynaui.com/) - Myna UI is open source tailwind CSS-based component library. It provides few components as compared to other libraries.
+- [Myna UI](https://mynaui.com/) - Myna UI is an open-source tailwind CSS-based component library. It provides few components as compared to other libraries.
 - [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation) - Tailwind Starter Kit is a Free and Open Source library. The Tailwind Starter Kit is based on Tailwind CSS.
 - [Tailblocks](https://tailblocks.cc/) - Tailblocks is a small library based on tailwind CSS. Tailblocks provide 60+ inbuilt components.
 - [Tailwind toolbox](https://www.tailwindtoolbox.com/) - A tailwind toolbox site is where you find other people's projects on tailwind CSS. All the project is free, and you copy and paste code into your project.
