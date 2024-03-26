@@ -4,49 +4,28 @@
 
 > A curated list of the best resources in the nextjs community.
 
-[Nextjs](https://nextjs.org/) is an open-source framework for building high-quality web applications using Reactjs.
+[Nextjs](https://nextjs.org/) is an open-source framework for building high-quality small and large-scale web applications using Reactjs with modern tools and technology.
 
 <!-- I have compiled a list of NPM libraries that can be used to develop small and large-scale applications with Next.js. The list is based on my experience as a front-end developer, and I have used 80% of the packages mentioned. As I discover more packages in the future, I will add them to the current list to help other front-end developers build applications with Next.js more efficiently. -->
 
-<div style='display: none;'>
 To stay updated, follow the GitHub Repository and give our repository a star. This will help others discover it, encourage more developers to contribute, and build a solid list. Additionally, we encourage you to share our repository on your social media platforms, like X (previously known as Twitter).
-</div>
-
-<br>
 
 [Read our guidelines](CONTRIBUTING.md) before sharing your favourite library, tool, or template on the awesome nextjs repository.
 
-<div style='display: none;'>
+## Share on Social <!-- omit in toc -->
 
-### Share on Social
-
-<p align="center">
-  <a href="https://twitter.com/intent/post?text=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps.&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs">
-    <img width='100px' height='30px' alt="Share on Twitter" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
+<div align="center">
+  <a href="https://twitter.com/intent/tweet?text=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps.&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs">
+      <img height="34" width="80" alt="nextjs" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs">
-    <img width='100px' height='30px' alt="Share on Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs&title=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps">
+      <img height="34" width="80" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-</p>
-
-<!--
-- [Share on Twitter](https://twitter.com/intent/post?text=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps.&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs)
-- [Share On Linkedin](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs) 
-
--->
-
-<!-- <div align="center"> -->
-<!--   <a height="40" width="100" href="https://twitter.com/intent/tweet?text=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps.&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs"> -->
-<!--       <img height="40" width="100" alt="nextjs" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"> -->
-<!--   </a> -->
-<!--   <a height="40" width="100" href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs&title=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps"> -->
-<!--       <img height="40" width="100" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> -->
-<!--   </a> -->
-<!--   <a height="40" width="100" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs"> -->
-<!--       <img height="40" width="100" alt="facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"> -->
-<!--   </a> -->
-<!-- </div> -->
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs">
+      <img height="34" width="80" alt="facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+  </a>
 </div>
+
 <!-- omit in toc -->
 
 ## Contents <!-- omit in toc -->
@@ -63,7 +42,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [React UI Library](#react-ui-library)
 - [Icons Library](#icons-library)
 - [Static Search library](#static-search-library)
-- [Nextjs-based Template](#nextjs-based-template)
+- [Nextjs based Template](#nextjs-based-template)
 - [Ready-Made Reactjs Hooks](#ready-made-reactjs-hooks)
 - [Tailwind CSS](#tailwind-css)
 - [Development Tool](#development-tool)
