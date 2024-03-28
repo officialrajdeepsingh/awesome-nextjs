@@ -153,7 +153,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Icon SVG](https://iconsvg.xyz/) - ICONSVG is a tool to simplify finding and generating common icons for your project.
 - [Iconoir](https://iconoir.com/) - Iconoir is an open-source library with 1300+ unique SVG icons, designed on a 24x24 pixels grid. No premium icons, no email sign-up, no newsletters.
 - [Icons download](https://icons.download/) - Open-source free universal icons.
-- [Simple Icons](https://simpleicons.org/) - SVG icons for popular brands.
+- [Simple Icons](https://simpleicons.org/) - Simple Icons is an open-source SVG icons library that provides popular brand icons.
 
 ## Static Search library
 
