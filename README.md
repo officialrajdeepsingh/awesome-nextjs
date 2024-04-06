@@ -139,6 +139,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Chakra UI](https://chakra-ui.com/) - With the help of Chakra UI, you can quickly design a simple to complex site. It gives you the building blocks to build your React applications.
 - [Kuma UI](https://www.kuma-ui.com/) - Empower Your Web with Ultimate Performance and Flexibility.
 - [Aceternity UI](https://ui.aceternity.com/) - Beautiful Tailwind CSS and Framer Motion Components, built with Next.js and TypeScript.
+- [Preline](https://preline.co) - Preline UI is an open-source prebuilt UI component library based on the tailwind CSS.
 
 ## Icons Library
 
