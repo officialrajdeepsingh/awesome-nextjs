@@ -84,6 +84,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 
 - [Section blog theme](https://github.com/frontendweb3/section-theme-blog) - The section blog theme is nextra-based MDX theme.
 - [Blog Starter Kit](https://vercel.com/templates/next.js/blog-starter-kit) - A statically generated blog example using Next.js and Markdown.
+- [Portfolio Starter Kit](https://vercel.com/templates/next.js/portfolio-starter-kit) - Easily create a portfolio blog with Next.js and Markdown.
 
 ## Nextjs boilerplate
 
