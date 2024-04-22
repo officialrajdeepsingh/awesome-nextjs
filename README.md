@@ -39,6 +39,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Database](#database)
 - [Authentication and User Management](#authentication-and-user-management)
 - [State Management](#state-management)
+- [Bundler](#bundler)
 - [React UI Library](#react-ui-library)
 - [Icons Library](#icons-library)
 - [Static Search library](#static-search-library)
@@ -119,6 +120,12 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Auth kit](https://www.authkit.com/) - MojoAuth offers a passwordless authentication solution for any web and mobile applications.
 - [Kinde](https://kinde.com) - Simple, robust authentication built for developers.
 - [Stytch](https://stytch.com) - Stytch is enterprise-ready authentication and authorization.
+
+## Bundler
+
+- [EsBuild](https://github.com/evanw/esbuild) - EsBuild is an open-source JavaScript bundler and minified that is extremely fast and lightweight.
+- [Rollupjs](https://rollupjs.org) - The rollup.js is an open-source JavaScript bundler.
+- [Tsup](https://github.com/egoist/tsup) - The tsup is the simplest and fastest way to bundle your TypeScript project with no configuration need.
 
 ## State Management
 
