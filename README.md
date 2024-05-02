@@ -116,6 +116,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 ## Authentication and User Management
 
 - [Clerk](https://clerk.com/) - Clerk is more than a "sign-in box" and integrates complete user management UIs and APIs, purpose-built for React, Next.js, and the Modern Web.
+- [Corbado](https://www.corbado.com/passkeys/next-js) - Corbado helps you add passkeys to your Next.js website or app in a few lines of code. 
 - [Mojo Auth](https://mojoauth.com/) - Mojo Auth is a secure and delightful passwordless login solution.
 - [Auth kit](https://www.authkit.com/) - MojoAuth offers a passwordless authentication solution for any web and mobile applications.
 - [Kinde](https://kinde.com) - Simple, robust authentication built for developers.
