@@ -12,7 +12,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 
 [Read our guidelines](CONTRIBUTING.md) before sharing your favourite library, tool, or template on the awesome nextjs repository.
 
-## Share on Social <!-- omit in toc -->
+> Share on Social Media
 
 <div align="center">
   <a href="https://twitter.com/intent/tweet?text=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps.&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs">
