@@ -33,19 +33,19 @@ Your subcategory is not listed there, and you can create a subcategory yourself.
 Using the following syntax, you can add any npm package or library in the existing subcategory.
 
 ```markdown
-- [title](link) : Basic introduction
+- [title](link) : Basic introduction.
 ```
 
 ## Make changes locally
 
-1. Fork the repository locally and install package with node package manager (npm,yarnor pnpm).
-2. Add a new package, library, tool, and template name.
+1. Fork the repository and install the package using the node package manager (npm, yarn, or pnpm).
+2. Adding a new package, library, tool, and template name.
 3. You can explain the package, library, tool, and template you added; if Your package category does not exist, you can also create it.
 4. Lastly, run `pnpm format` and `pnpm lint` to format and fix the lint issue before applying the pull request.
 
 ## Commit your update
 
-Commit the changes once you are happy with them. Ensure it does not have grammar mistakes and that your package name and link work fine.
+Commit the changes once you are happy with them. Ensure that the document does not contain grammar mistakes and that your package name and link work properly.
 
 ## Pull Request
 
