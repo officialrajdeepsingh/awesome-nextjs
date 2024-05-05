@@ -105,6 +105,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Forestry](https://forestry.io/) - Forestry is a headless CMS easy-to-customizable, configurable and integrated with all types of static site generators.
 - [Craft CMS](https://craftcms.com/) - Craft CMS is a flexible, user-friendly CMS for creating the web.
 - [Payload CMS](https://payloadcms.com) - Build a modern backend admin UI with payload CMS. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
+- [Pages CMS](https://pagescms.org) - A user-friendly and no-hassle CMS for static site generators.
 
 ## Database
 
