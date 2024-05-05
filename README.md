@@ -171,6 +171,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Fusejs](https://fusejs.io/) - Fusejs is a popular, powerful, lightweight search library for creating search functionality for sites.
 - [Flex Search](https://github.com/nextapps-de/flexsearch) - Next-Generation full-text search library for Browser and Node.js.
 - [Orama](https://docs.oramasearch.com/) - Orama is a powerful full-text search engine that works both on client and server.
+- [Algolia](https://www.algolia.com) - Enable search infrastructure with real-time results for websites and mobile applications.
 
 ## Nextjs based Template
 
