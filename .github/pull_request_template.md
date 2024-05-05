@@ -7,12 +7,12 @@
 
 ## URL
 
-<!-- **[Insert URL here]** -->
+ <!-- **[Insert URL here]** -->
 
 ## Describe what your changes are.
 
-<!-- Please include a clear summary of the changes related to your issues. -->
+ <!-- Please include a clear summary of the changes related to your issues. -->
 
 ## Issue number if exit
 
-**Please note: we will close your PR without comment if you do not check the boxes above and provide ALL requested information.**
+ <!-- Please note: we will close your PR without comment if you do not check the boxes above and provide ALL requested information. -->
