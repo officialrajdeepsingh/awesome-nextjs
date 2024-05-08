@@ -100,6 +100,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Superplate](https://github.com/pankod/superplate) - Superplate is well-structured and production-ready and comes with Typescript, Popular UI Kits and +30 plugins.
 - [Next.js + Tailwind CSS + TypeScript Starter and Boilerplate](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - Combination of Next.js, Tailwind CSS, and TypeScript.
 - [Kirimase](https://kirimase.dev) - Kirimase is a command-line tool (CLI) for building full-stack Next.js.
+- [Blitzjs](https://blitzjs.com) - Fullstack Toolkit for Next.js.
 
 ## Headless CMS
 
