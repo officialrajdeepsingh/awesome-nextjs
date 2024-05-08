@@ -32,6 +32,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 
 - [Officially for Nextjs](#officially-for-nextjs)
 - [Tools](#tools)
+- [Deploy](#deploy)
 - [Documentation](#documentation)
 - [Blogging](#blogging)
 - [Nextjs boilerplate](#nextjs-boilerplate)
@@ -74,6 +75,8 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Tina CMS](https://tina.io/) - Tina CMS is a new nextjs-based CMS, an open-source, Git-backed headless CMS you can use with Markdown, MDX, and JSON.
 - [Next video](https://github.com/muxinc/next-video) - The next video is a react component for adding video to your next.js application.
 - [Next MDX](https://www.npmjs.com/package/@next/mdx) - To use MDX with Next.js.
+
+## Deploy
 
 ## Documentation
 
