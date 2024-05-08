@@ -67,16 +67,14 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Next sitemap](https://www.npmjs.com/package/next-sitemap) - The next sitemap library helps you create a sitemap file in your nextjs application.
 - [Next auth](https://www.npmjs.com/package/next-auth) - Next auth library provides authorization functionality for your app.
 - [Next PWA](https://www.npmjs.com/package/next-pwa) - Next PWA library helps to enable your application's progressive Web Apps functionality.
-- [Content layer](https://www.npmjs.com/package/contentlayer) - The content layer works with nextjs and markdown and helps build the blog application.
 - [Nextjs progress bar](https://www.npmjs.com/package/nextjs-progressbar) - Nextjs progress bar shows the loading indicator in nextjs.
 - [Nextjs Google Analytics](https://www.npmjs.com/package/nextjs-google-analytics) - Add Google Analytics to your nextjs app.
 - [Next-themes](https://www.npmjs.com/package/next-themes) - You can enable the dark-to-light theme toggle with next-themes in your Next.js app.
-- [Create t3-app](https://create.t3.gg/) - Build the full-stack application with TypeScript, Prisma, tRPC, NextAuth, Tailwind CSS, and Next.js app.
-- [Tina CMS](https://tina.io/) - Tina CMS is a new nextjs-based CMS, an open-source, Git-backed headless CMS you can use with Markdown, MDX, and JSON.
 - [Next video](https://github.com/muxinc/next-video) - The next video is a react component for adding video to your next.js application.
 - [Next MDX](https://www.npmjs.com/package/@next/mdx) - To use MDX with Next.js.
 
 ## Deploy
+
 - [Vercel](https://vercel.com) - Vercel is an official cloud platform for nextjs.
 - [Netlify](https://netlify.com) - Netlify builds, deploys and hosts your front-end platform.
 - [Kinsta](https://kinsta.com) - Create and deploy web applications and databases in minutes.
@@ -86,6 +84,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Nextra](https://nextra.site/) - Nextra is a simple, powerful, and flexible site generation framework to build blogs and documents with Next.js and MDX.
 - [Markdoc](https://markdoc.dev/) - Markdoc is a powerful, flexible, Markdown-based authoring framework.
 - [Outstatic](https://outstatic.com) - Outstatic is a new static site content management system(CMS) built with Next.js. Special built for Next.js. It works with a page and app router.
+- [Content layer](https://www.npmjs.com/package/contentlayer) - The content layer works with nextjs and markdown and helps build the blog application.
 
 ## Blogging
 
@@ -96,7 +95,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 ## Nextjs boilerplate
 
 - [Next.js Enterprise Boilerplate](https://github.com/Blazity/next-enterprise) - Next.js Enterprise Boilerplate, an open-source template, builds a high-performance, maintainable, and enjoyable application.
-- [Create t3 App](https://github.com/t3-oss/create-t3-app) - Interactive CLI to start a full-stack, type-safe new Next.js application.
+- [Create t3-app](https://create.t3.gg/) - Build the full-stack application with TypeScript, Prisma, tRPC, NextAuth, Tailwind CSS, and Next.js app.
 - [Nextjs Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - Start new projects with support for App Router and Page Router, Tailwind CSS and TypeScript, and more.
 - [Superplate](https://github.com/pankod/superplate) - Superplate is well-structured and production-ready and comes with Typescript, Popular UI Kits and +30 plugins.
 - [Next.js + Tailwind CSS + TypeScript Starter and Boilerplate](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - Combination of Next.js, Tailwind CSS, and TypeScript.
@@ -104,6 +103,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 
 ## Headless CMS
 
+- [Tina CMS](https://tina.io/) - Tina CMS is a new nextjs-based CMS, an open-source, Git-backed headless CMS you can use with Markdown, MDX, and JSON.
 - [WordPress](https://wordpress.org/) - WordPress is an open-source CMS ready for production. Using the built-in REST API, WordPress can power any website.
 - [Strapi](https://strapi.io/) - Strapi is a powerful open-source node js-based Content Management System (CMS) perfect for small to large-scale websites.
 - [Ghost](https://ghost.org/) - Ghost is a popular open-source CMS perfect for creating blogs. It offers a simple, user-friendly API interface that makes creating and publishing articles easy.
