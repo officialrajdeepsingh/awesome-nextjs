@@ -77,6 +77,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Next MDX](https://www.npmjs.com/package/@next/mdx) - To use MDX with Next.js.
 
 ## Deploy
+- [Vercel](https://vercel.com) - Vercel is an official cloud platform for nextjs.
 
 ## Documentation
 
