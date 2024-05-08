@@ -78,6 +78,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 
 ## Deploy
 - [Vercel](https://vercel.com) - Vercel is an official cloud platform for nextjs.
+- [Netlify](https://netlify.com) - Netlify builds, deploys and hosts your front-end platform.
 
 ## Documentation
 
