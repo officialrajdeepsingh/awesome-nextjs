@@ -32,6 +32,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 
 - [Officially for Nextjs](#officially-for-nextjs)
 - [Tools](#tools)
+- [Newsletters](#newsletters)
 - [Deploy](#deploy)
 - [Documentation](#documentation)
 - [Blogging](#blogging)
@@ -72,6 +73,10 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Next-themes](https://www.npmjs.com/package/next-themes) - You can enable the dark-to-light theme toggle with next-themes in your Next.js app.
 - [Next video](https://github.com/muxinc/next-video) - The next video is a react component for adding video to your next.js application.
 - [Next MDX](https://www.npmjs.com/package/@next/mdx) - To use MDX with Next.js.
+
+## Newsletters
+
+- [Next.js Weekly](https://nextjsweekly.com) - The next.js weekly is the best newsletter, sharing articles, tools, and projects related to nextjs.
 
 ## Deploy
 
