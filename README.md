@@ -77,6 +77,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 ## Newsletters
 
 - [Next.js Weekly](https://nextjsweekly.com) - The next.js weekly is the best newsletter, sharing articles, tools, and projects related to nextjs.
+- [This Week In React](https://thisweekinreact.com/) - This Week In React newsletter, share the latest news related to the reactjs ecosystem.
 
 ## Deploy
 
