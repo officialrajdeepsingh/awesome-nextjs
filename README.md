@@ -163,6 +163,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Kuma UI](https://www.kuma-ui.com/) - Empower Your Web with Ultimate Performance and Flexibility.
 - [Aceternity UI](https://ui.aceternity.com/) - Beautiful Tailwind CSS and Framer Motion Components, built with Next.js and TypeScript.
 - [Preline](https://preline.co) - Preline UI is an open-source prebuilt UI component library based on the tailwind CSS.
+- [Franken UI](https://github.com/sveltecult/franken-ui) - Franken UI library, an HTML collection of copy-pastable components based on Tailwind CSS. its alternative of shadcn ui.
 
 ## Icons Library
 
