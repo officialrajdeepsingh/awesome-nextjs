@@ -31,11 +31,11 @@ packages:
   /@types/keyv@3.1.4:
     resolution: {integrity: sha512-BQ5aZNSCpj7D6K2ksrRCTmKRLEpnPvWDiLPfoGyhZ++8YtiK9d/3DBKPJgry359X/P1PfruyYwvnvwFjuEiEIg==}
     dependencies:
-      '@types/node': 20.11.30
+      '@types/node': 20.12.12
     dev: false
 
-  /@types/node@20.11.30:
-    resolution: {integrity: sha512-dHM6ZxwlmuZaRmUPfv1p+KrdD1Dci04FbdEm/9wEMouFqxYoFl5aMkt0VMAUtYRQDyYvD41WJLukhq/ha3YuTw==}
+  /@types/node@20.12.12:
+    resolution: {integrity: sha512-eWLDGF/FOSPtAvEqeRAQ4C8LSA7M1I7i0ky1I8U7kD1J5ITyW3AsRhQrKVoWf5pFKZ2kILsEGJhsI9r93PYnOw==}
     dependencies:
       undici-types: 5.26.5
     dev: false
@@ -43,7 +43,7 @@ packages:
   /@types/responselike@1.0.3:
     resolution: {integrity: sha512-H/+L+UkTV33uf49PH5pCAUBVPNj2nDBXTN+qS1dOwyyg24l3CcicicCA7ca+HMvJBZcFgl5r8e+RR6elsb4Lyw==}
     dependencies:
-      '@types/node': 20.11.30
+      '@types/node': 20.12.12
     dev: false
 
   /ansi-align@3.0.1:
@@ -358,6 +358,7 @@ packages:
 
   /docsify-server-renderer@4.13.1:
     resolution: {integrity: sha512-XNJeCK3zp+mVO7JZFn0bH4hNBAMMC1MbuCU7CBsjLHYn4NHrjIgCBGmylzEan3/4Qm6kbSzQx8XzUK5T7GQxHw==}
+    deprecated: docsify-server-renderer 4.x and below is no longer supported while we investigate the future of SSR and SSG for Docsify
     dependencies:
       debug: 4.3.4
       docsify: 4.13.1
