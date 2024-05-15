@@ -222,6 +222,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Myna UI](https://mynaui.com/) - Myna UI is an open-source tailwind CSS-based component library. It provides few components as compared to other libraries.
 - [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation) - Tailwind Starter Kit is a Free and Open Source library. The Tailwind Starter Kit is based on Tailwind CSS.
 - [Tailblocks](https://tailblocks.cc/) - Tailblocks is a small library based on tailwind CSS. Tailblocks provide 60+ inbuilt components.
+- [Tailsc](https://tailsc.com/) - Tailsc is Free Tailwind CSS Components for website block, focuses on stylish, accessible and free UI components that you can just copy & paste on any tailwind css project.
 - [Tailwind toolbox](https://www.tailwindtoolbox.com/) - A tailwind toolbox site is where you find other people's projects on tailwind CSS. All the project is free, and you copy and paste code into your project.
 - [Next UI](https://nextui.org) - Beautiful, fast, and modern React UI library.
 - [Lang UI](https://www.langui.dev/) - Beautifully crafted Tailwind components for your GPT projects.
