@@ -5,9 +5,13 @@
 - [ ] I followed the contributing guidelines: <https://github.com/officialrajdeepsingh/awesome-nextjs/blob/main/CONTRIBUTING.md>.
 - [ ] I followed the CODE OF CONDUCT guidelines: <https://github.com/officialrajdeepsingh/awesome-nextjs/blob/main/CODE_OF_CONDUCT.md>.
 
-## URL
+## Insert URL
 
- <!-- **[Insert URL here]** -->
+ <!-- **[GitHub | GitLab]** -->
+
+ <!-- **[NPM | jsr]** -->
+
+ <!-- **[Website]** -->
 
 ## Describe what your changes are.
 
