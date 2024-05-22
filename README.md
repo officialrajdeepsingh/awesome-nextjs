@@ -139,6 +139,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Auth kit](https://www.authkit.com/) - MojoAuth offers a passwordless authentication solution for any web and mobile applications.
 - [Kinde](https://kinde.com) - Simple, robust authentication built for developers.
 - [Stytch](https://stytch.com) - Stytch is enterprise-ready authentication and authorization.
+- [Auth0](https://auth0.com/) - Built the secure access for everyone with Auth0.
 
 ## Bundler
 
