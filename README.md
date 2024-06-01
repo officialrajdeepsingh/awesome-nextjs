@@ -42,6 +42,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Headless CMS](#headless-cms)
 - [Database](#database)
 - [Authentication and User Management](#authentication-and-user-management)
+- [React Form](#react-form)
 - [Bundler](#bundler)
 - [State Management](#state-management)
 - [React UI Library](#react-ui-library)
@@ -140,6 +141,10 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Kinde](https://kinde.com) - Simple, robust authentication built for developers.
 - [Stytch](https://stytch.com) - Stytch is enterprise-ready authentication and authorization.
 - [Auth0](https://auth0.com/) - Built the secure access for everyone with Auth0.
+
+## React Form
+
+- [React Hook Form](https://react-hook-form.com) - The React Hook Form is a performant, flexible, and extensible library used for building forms.
 
 ## Bundler
 
