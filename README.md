@@ -145,6 +145,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 ## React Form
 
 - [React Hook Form](https://react-hook-form.com) - The React Hook Form is a performant, flexible, and extensible library used for building forms.
+- [Conform](https://github.com/edmundhung/conform) - Conform is a type-safe form validation library to build forms with full support for server frameworks like Remix and Next.js.
 
 ## Bundler
 
