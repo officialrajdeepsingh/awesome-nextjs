@@ -146,7 +146,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 
 - [React Hook Form](https://react-hook-form.com) - The React Hook Form is a performant, flexible, and extensible library used for building forms.
 - [Conform](https://github.com/edmundhung/conform) - Conform is a type-safe form validation library to build forms with full support for server frameworks like Remix and Next.js.
-- [Formiz](https://formiz-react.com) - Build react multi step and complex validation form very easily with formiz. 
+- [Formiz](https://formiz-react.com) - Build react multi step and complex validation form very easily with formiz.
 - [TanStack Form](https://tanstack.com/form/latest) - Tan Stack Form is the ultimate solution for handling forms in web applications.
 
 ## Bundler
