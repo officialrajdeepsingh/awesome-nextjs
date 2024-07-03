@@ -178,7 +178,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Preline](https://preline.co) - Preline UI is an open-source prebuilt UI component library based on the tailwind CSS.
 - [Franken UI](https://github.com/sveltecult/franken-ui) - Franken UI library, an HTML collection of copy-pastable components based on Tailwind CSS. its alternative of shadcn ui.
 - [Tailus UI](https://ui.tailus.io/) - Tailus UI is a highly customizable components library for crafting modern, personalized websites and applications using reactjs.
-- [Tamagui](tamagui) - Build cross-platform applications with React and React Native: write less code and run faster.
+- [Tamagui](https://tamagui.dev) - Build cross-platform applications with React and React Native: write less code and run faster.
 
 ## Icons Library
 
