@@ -67,7 +67,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 
 ## Tools
 
-- [Next Colors](https://npmjs.com/package/next-colors) - Next-Colors is a comprehensive color manipulation library for Next.js and React applications.
+- [Color-Core](https://npmjs.com/package/color-core) - `color-core` is a powerful, type-safe color manipulation library for TypeScript and JavaScript applications. It provides a comprehensive toolkit for working with colors across multiple color spaces, making it an indispensable tool for developers working on projects that require advanced color handling.
 - [Next SEO](https://www.npmjs.com/package/next-seo) - Next SEO is a plugin that helps manage the SEO in Next.js.
 - [Next sitemap](https://www.npmjs.com/package/next-sitemap) - The next sitemap library helps you create a sitemap file in your nextjs application.
 - [Next auth](https://www.npmjs.com/package/next-auth) - Next auth library provides authorization functionality for your app.
