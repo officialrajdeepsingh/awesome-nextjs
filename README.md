@@ -67,7 +67,6 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 
 ## Tools
 
-- [Color-Core](https://npmjs.com/package/color-core) - `color-core` is a powerful, type-safe color manipulation library for TypeScript and JavaScript applications. It provides a comprehensive toolkit for working with colors across multiple color spaces, making it an indispensable tool for developers working on projects that require advanced color handling.
 - [Next SEO](https://www.npmjs.com/package/next-seo) - Next SEO is a plugin that helps manage the SEO in Next.js.
 - [Next sitemap](https://www.npmjs.com/package/next-sitemap) - The next sitemap library helps you create a sitemap file in your nextjs application.
 - [Next auth](https://www.npmjs.com/package/next-auth) - Next auth library provides authorization functionality for your app.
@@ -78,6 +77,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Next video](https://github.com/muxinc/next-video) - The next video is a react component for adding video to your next.js application.
 - [Next MDX](https://www.npmjs.com/package/@next/mdx) - To use MDX with Next.js.
 - [Tempeh](https://tempeh-docs.vercel.app) - Declarative routing library for Next.js with typesafe url params. Provides plugin replacement for existing Link tag in Next.js app dir.
+- [Color-Core](https://npmjs.com/package/color-core) -  The color core package is a powerful, type-safe color manipulation library for TypeScript and JavaScript applications. 
 
 ## Newsletters
 
