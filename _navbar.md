@@ -1,4 +1,5 @@
 - [Home](https://officialrajdeepsingh.github.io/awesome-nextjs/)
+- [Awesome Documentation](https://github.com/officialrajdeepsingh/awesome-documentation)
 - [Share on Twitter](https://twitter.com/intent/post?text=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps.&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs)
 - [Share On Linkedin](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs)
 - [Open Issue](https://github.com/officialrajdeepsingh/awesome-nextjs/issues/new)
