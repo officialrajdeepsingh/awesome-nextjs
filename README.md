@@ -77,7 +77,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Next video](https://github.com/muxinc/next-video) - The next video is a react component for adding video to your next.js application.
 - [Next MDX](https://www.npmjs.com/package/@next/mdx) - To use MDX with Next.js.
 - [Tempeh](https://tempeh-docs.vercel.app) - Declarative routing library for Next.js with typesafe url params. Provides plugin replacement for existing Link tag in Next.js app dir.
-- [Color-Core](https://npmjs.com/package/color-core) -  The color core package is a powerful, type-safe color manipulation library for TypeScript and JavaScript applications. 
+- [Color-Core](https://npmjs.com/package/color-core) - The color core package is a powerful, type-safe color manipulation library for TypeScript and JavaScript applications.
 
 ## Newsletters
 
