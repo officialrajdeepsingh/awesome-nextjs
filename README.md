@@ -2,7 +2,11 @@
 
 # Awesome Nextjs[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
 
+<div class="display-none">
+    
 > A curated list of the best resources in the nextjs community.
+
+</div>
 
 [Nextjs](https://nextjs.org/) is an open-source framework for building high-quality small and large-scale web applications using Reactjs with modern tools and technology.
 
@@ -11,6 +15,8 @@
 To stay updated, follow the GitHub Repository and give our repository a star. This will help others discover it, encourage more developers to contribute, and build a solid list. Additionally, we encourage you to share our repository on your social media platforms, like X (previously known as Twitter).
 
 > You can also check out [awesome documentation](https://github.com/officialrajdeepsingh/awesome-documentation) if you are looking for a list of documentation tools.
+
+<div class="display-none">
 
 [Read our guidelines](CONTRIBUTING.md) before sharing your favourite library, tool, or template on the awesome nextjs repository.
 
@@ -26,6 +32,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
   <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs">
       <img height="34" width="80" alt="facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
   </a>
+</div>
 </div>
 
 <!-- omit in toc -->
