@@ -33,8 +33,11 @@ Your subcategory is not listed there, and you can create a subcategory yourself.
 Using the following syntax, you can add any npm package or library in the existing subcategory.
 
 ```markdown
-- [title](link) : Basic introduction.
+- [title](link) - Basic introduction.
 ```
+
+* Make sure your description is short and clearly related to the project.
+* Lastly, Add an item at the end of the list and do not add it to the middle or top of the list.
 
 ## Make changes locally
 
