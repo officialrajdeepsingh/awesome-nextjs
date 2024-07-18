@@ -3,7 +3,7 @@
 # Awesome Nextjs[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
 
 <div class="display-none">
-    
+
 > A curated list of the best resources in the nextjs community.
 
 </div>
@@ -209,6 +209,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Flex Search](https://github.com/nextapps-de/flexsearch) - Next-Generation full-text search library for Browser and Node.js.
 - [Orama](https://docs.oramasearch.com/) - Orama is a powerful full-text search engine that works both on client and server.
 - [Algolia](https://www.algolia.com) - Enable search infrastructure with real-time results for websites and mobile applications.
+- [Meilisearch](https://www.meilisearch.com) - The Meilisearch is a lightning-fast search API that seamlessly integrates with any framework, website, and workflow.
 
 ## Nextjs based Template
 
