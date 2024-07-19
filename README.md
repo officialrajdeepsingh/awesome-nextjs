@@ -170,6 +170,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Recoil](https://recoiljs.org/) - Recoil is a state management library for React built by meta.
 - [Jotai](https://jotai.org/) - Jotai is a primitive and flexible state management library for Reactjs.
 - [React context](https://react.dev/learn/passing-data-deeply-with-context) - React.createContext() is a React API allowing you to pass or share between react components.
+- [NUQS](https://nuqs.47ng.com) - Type-safe search params state manager for Next.js.
 
 ## React UI Library
 
