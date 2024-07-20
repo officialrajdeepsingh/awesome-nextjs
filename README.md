@@ -80,11 +80,11 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Next PWA](https://www.npmjs.com/package/next-pwa) - Next PWA library helps to enable your application's progressive Web Apps functionality.
 - [Nextjs progress bar](https://www.npmjs.com/package/nextjs-progressbar) - Nextjs progress bar shows the loading indicator in nextjs.
 - [Nextjs Google Analytics](https://www.npmjs.com/package/nextjs-google-analytics) - Add Google Analytics to your nextjs app.
-- [Next-themes](https://www.npmjs.com/package/next-themes) - You can enable the dark-to-light theme toggle with next-themes in your Next.js app.
+- [Next themes](https://www.npmjs.com/package/next-themes) - You can enable the dark-to-light theme toggle with next-themes in your Next.js app.
 - [Next video](https://github.com/muxinc/next-video) - The next video is a react component for adding video to your next.js application.
 - [Next MDX](https://www.npmjs.com/package/@next/mdx) - To use MDX with Next.js.
 - [Tempeh](https://tempeh-docs.vercel.app) - Declarative routing library for Next.js with typesafe url params. Provides plugin replacement for existing Link tag in Next.js app dir.
-- [Color-Core](https://npmjs.com/package/color-core) - The color core package is a powerful, type-safe color manipulation library for TypeScript and JavaScript applications.
+- [Color core](https://npmjs.com/package/color-core) - The color core package is a powerful, type-safe color manipulation library for TypeScript and JavaScript applications.
 
 ## Newsletters
 
@@ -220,7 +220,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 
 ## Ready-Made Reactjs Hooks
 
-- [usehooks-ts](https://usehooks-ts.com) - React hook library, ready to use, written in Typescript.
+- [usehooks ts](https://usehooks-ts.com) - React hook library, ready to use, written in Typescript.
 - [Mantine Hooks](https://mantine.dev/getting-started) - Mantine Hooks provide Inbuilt readymade reactjs hooks for handling state and UI management.
 - [usehooks](https://usehooks.com) - A collection of built-in modern, server-side React hooks.
 - [React Custom Hooks](https://github.com/sergeyleschev/react-custom-hooks) - Supercharge Your Projects with ready-made custom hooks.
@@ -238,7 +238,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Hyper UI](https://www.hyperui.dev/) - Hyper UI is a free open-source tailwind CSS-based component for modern design. Hyper UI is a complete bundle of CSS and JavaScript.
 - [Flowrift](https://flowrift.com/c/banner) - Flowrift is a free open-source tailwind CSS-based component library. It provides different category components for the website.
 - [Tailwind UI kit](https://tailwinduikit.com/) - The tailwind UI kit offers an extensive list of inbuilt components. In the free plan tailwind, the UI kit provides only 250 components; in the paid plan, you access all components and templates for a lifetime.
-- [Tailwind-kit](https://www.tailwind-kit.com/) - The tailwind kit provides access to over 250 free tailwinds CSS-based components.
+- [Tailwind kit](https://www.tailwind-kit.com/) - The tailwind kit provides access to over 250 free tailwinds CSS-based components.
 - [Wickedblocks](https://wickedblocks.dev/) - Wickedblocks provides a free 120 fully responsive tailwind CSS-based component, and all components come ready to copy and paste into your Tailwind projects.
 - [Tailus](https://tailus.io/) - Tailus provides a list of UI components and templates built on tailwind CSS. Tailus components offer a rich and modern UI experience.
 - [Tailgrids](https://tailgrids.com/) - Tailgrids provides a variety of 500+ components, blocks, sections, and templates built on tailwind CSS.
