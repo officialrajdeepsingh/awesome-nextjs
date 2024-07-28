@@ -52,6 +52,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [React Form](#react-form)
 - [Bundler](#bundler)
 - [State Management](#state-management)
+- [Analytics](#analytics)
 - [React UI Library](#react-ui-library)
 - [Icons Library](#icons-library)
 - [Static Search library](#static-search-library)
@@ -79,7 +80,6 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Next auth](https://www.npmjs.com/package/next-auth) - Next auth library provides authorization functionality for your app.
 - [Next PWA](https://www.npmjs.com/package/next-pwa) - Next PWA library helps to enable your application's progressive Web Apps functionality.
 - [Nextjs progress bar](https://www.npmjs.com/package/nextjs-progressbar) - Nextjs progress bar shows the loading indicator in nextjs.
-- [Nextjs Google Analytics](https://www.npmjs.com/package/nextjs-google-analytics) - Add Google Analytics to your nextjs app.
 - [Next themes](https://www.npmjs.com/package/next-themes) - You can enable the dark-to-light theme toggle with next-themes in your Next.js app.
 - [Next video](https://github.com/muxinc/next-video) - The next video is a react component for adding video to your next.js application.
 - [Next MDX](https://www.npmjs.com/package/@next/mdx) - To use MDX with Next.js.
@@ -171,6 +171,10 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Jotai](https://jotai.org/) - Jotai is a primitive and flexible state management library for Reactjs.
 - [React context](https://react.dev/learn/passing-data-deeply-with-context) - React.createContext() is a React API allowing you to pass or share between react components.
 - [NUQS](https://nuqs.47ng.com) - Type-safe search params state manager for Next.js.
+
+## Analytics
+
+- [Nextjs Google Analytics](https://www.npmjs.com/package/nextjs-google-analytics) - Add Google Analytics to your nextjs app.
 
 ## React UI Library
 
