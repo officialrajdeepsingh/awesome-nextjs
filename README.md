@@ -192,6 +192,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Franken UI](https://github.com/sveltecult/franken-ui) - Franken UI library, an HTML collection of copy-pastable components based on Tailwind CSS. its alternative of shadcn ui.
 - [Tailus UI](https://ui.tailus.io/) - Tailus UI is a highly customizable components library for crafting modern, personalized websites and applications using reactjs.
 - [Tamagui](https://tamagui.dev) - Build cross-platform applications with React and React Native: write less code and run faster.
+- [Gluestack UI](https://github.com/gluestack/gluestack-ui) - Gluestack UI includes copy-paste React and React Native components and patterns designed with Tailwind CSS.
 
 ## Icons Library
 
