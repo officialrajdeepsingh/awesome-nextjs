@@ -106,6 +106,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Outstatic](https://outstatic.com) - Outstatic is a new static site content management system(CMS) built with Next.js. Special built for Next.js. It works with a page and app router.
 - [Content layer](https://www.npmjs.com/package/contentlayer) - The content layer works with nextjs and markdown and helps build the blog application.
 - [Fumadocs](https://fumadocs.vercel.app/) - The Fumadocs is a powerful framework for building documentation sites in Next.js using the power of Next.js App Router and React Component.
+- [MDXTS](https://www.mdxts.dev) - The MDXTS is a content & documentation SDK for React and Nextjs. It helps to build a documentation website quickly and efficiently.
 
 ## Blogging
 
