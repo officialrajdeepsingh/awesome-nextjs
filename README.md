@@ -41,6 +41,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 
 - [Officially for Nextjs](#officially-for-nextjs)
 - [Tools](#tools)
+- [AI](#ai)
 - [Newsletters](#newsletters)
 - [Deploy](#deploy)
 - [Documentation](#documentation)
@@ -86,6 +87,10 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Tempeh](https://tempeh-docs.vercel.app) - Declarative routing library for Next.js with typesafe url params. Provides plugin replacement for existing Link tag in Next.js app dir.
 - [Color core](https://npmjs.com/package/color-core) - The color core package is a powerful, type-safe color manipulation library for TypeScript and JavaScript applications.
 - [Geist Font](https://vercel.com/font) - Geist font is a typeface font created specifically for developers and designers.
+
+## AI
+
+- [V0](https://v0.dev) - V0 generates copy-and-paste friendly React code based on shadcn UI and Tailwind CSS that people can use in their projects.
 
 ## Newsletters
 
