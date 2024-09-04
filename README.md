@@ -204,7 +204,6 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Gluestack UI](https://github.com/gluestack/gluestack-ui) - Gluestack UI includes copy-paste React and React Native components and patterns designed with Tailwind CSS.
 - [Tailkits](https://tailkits.com) - The Best Premium & Free Tailwind CSS Templates, UI Kits, and Components to Build Modern Websites.
 
-
 ## Icons Library
 
 - [React icons](https://react-icons.github.io/react-icons/) - Use the popular SVG icons in your React projects easily with react-icons.
