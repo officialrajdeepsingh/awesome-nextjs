@@ -205,7 +205,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Tailkits](https://tailkits.com) - The Best Premium & Free Tailwind CSS Templates, UI Kits, and Components to Build Modern Websites.
 - [DotUI](https://dotui.org/) - Get everything you need to build your React app with accessible, mobile-friendly, and modern UI components.
 - [Magic UI](https://magicui.design) - Magic UI library for Engineers: 50+ free and open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion.
-- [Eldora UI](https://eldoraui.site/) - Eldora UI Library Design for Engineers is an open-source collection of animated components made with React, Typescript, Tailwind CSS, and Framer Motion. It's fully open-source and customizable. 
+- [Eldora UI](https://eldoraui.site/) - Eldora UI Library Design for Engineers is an open-source collection of animated components made with React, Typescript, Tailwind CSS, and Framer Motion. It's fully open-source and customizable.
 
 ## Icons Library
 
