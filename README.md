@@ -164,6 +164,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Conform](https://github.com/edmundhung/conform) - Conform is a type-safe form validation library to build forms with full support for server frameworks like Remix and Next.js.
 - [Formiz](https://formiz-react.com) - Build react multi step and complex validation form very easily with formiz.
 - [TanStack Form](https://tanstack.com/form/latest) - Tan Stack Form is the ultimate solution for handling forms in web applications.
+- [Minform](https://minform.io) - Collect form data effortlessly without writing code, and it's free.
 
 ## Bundler
 
