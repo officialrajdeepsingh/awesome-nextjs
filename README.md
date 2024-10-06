@@ -208,6 +208,8 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [DotUI](https://dotui.org/) - Get everything you need to build your React app with accessible, mobile-friendly, and modern UI components.
 - [Magic UI](https://magicui.design) - Magic UI library for Engineers: 50+ free and open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion.
 - [Eldora UI](https://eldoraui.site/) - Eldora UI Library Design for Engineers is an open-source collection of animated components made with React, Typescript, Tailwind CSS, and Framer Motion. It's fully open-source and customizable.
+- [Next UI](https://nextui.org) - Beautiful, fast, and modern React UI library.
+- [Lang UI](https://www.langui.dev/) - Beautifully crafted Tailwind components for your GPT projects.
 
 ## Icons Library
 
@@ -269,8 +271,6 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Tailblocks](https://tailblocks.cc/) - Tailblocks is a small library based on tailwind CSS. Tailblocks provide 60+ inbuilt components.
 - [Tailsc](https://tailsc.com/) - Tailsc is Free Tailwind CSS Components for website block, focuses on stylish, accessible and free UI components that you can just copy & paste on any tailwind css project.
 - [Tailwind toolbox](https://www.tailwindtoolbox.com/) - A tailwind toolbox site is where you find other people's projects on tailwind CSS. All the project is free, and you copy and paste code into your project.
-- [Next UI](https://nextui.org) - Beautiful, fast, and modern React UI library.
-- [Lang UI](https://www.langui.dev/) - Beautifully crafted Tailwind components for your GPT projects.
 
 ## Development Tool
 
