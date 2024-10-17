@@ -161,7 +161,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Logto](https://logto.io/) - Logto is an open-source Auth0 alternative designed for modern apps and SaaS products.
 - [ORY](https://www.ory.sh/) - The Ory is an API-first identity management solution for secure, global, and GDPR-compliant applications.
 - [Zitadel](https://zitadel.com) - ZITADEL simplifies identity management for developers. It's serverless and open source, ready when you are.
-- [SuperTokens](https://supertokens.com) - SuperTokens is an open-source user authentication solution. It allows you to build quickly while maintaining control, all at a reasonable price. 
+- [SuperTokens](https://supertokens.com) - SuperTokens is an open-source user authentication solution. It allows you to build quickly while maintaining control, all at a reasonable price.
 
 ## React Form
 
