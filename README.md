@@ -162,6 +162,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [ORY](https://www.ory.sh/) - The Ory is an API-first identity management solution for secure, global, and GDPR-compliant applications.
 - [Zitadel](https://zitadel.com) - ZITADEL simplifies identity management for developers. It's serverless and open source, ready when you are.
 - [SuperTokens](https://supertokens.com) - SuperTokens is an open-source user authentication solution. It allows you to build quickly while maintaining control, all at a reasonable price.
+- [Okta](https://www.okta.com/) - Okta's Identity Clouds provide secure access and authentication, placing identity at the core of business security and growth.
 
 ## React Form
 
