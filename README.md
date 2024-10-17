@@ -51,6 +51,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Database](#database)
 - [Authentication and User Management](#authentication-and-user-management)
 - [React Form](#react-form)
+- [Form Builder](#form-builder)
 - [Bundler](#bundler)
 - [State Management](#state-management)
 - [Analytics](#analytics)
@@ -171,6 +172,10 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Formiz](https://formiz-react.com) - Build react multi step and complex validation form very easily with formiz.
 - [TanStack Form](https://tanstack.com/form/latest) - Tan Stack Form is the ultimate solution for handling forms in web applications.
 - [Minform](https://minform.io) - Collect form data effortlessly without writing code, and it's free.
+
+## Form Builder
+
+- [Form Builder](https://github.com/hasanharman/form-builder) - Create your forms quickly using Shadcn UI, react-hook-form, and Zod in just minutes.
 
 ## Bundler
 
