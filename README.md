@@ -160,6 +160,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Auth0](https://auth0.com/) - Built the secure access for everyone with Auth0.
 - [Logto](https://logto.io/) - Logto is an open-source Auth0 alternative designed for modern apps and SaaS products.
 - [ORY](https://www.ory.sh/) - The Ory is an API-first identity management solution for secure, global, and GDPR-compliant applications.
+- [Zitadel](https://zitadel.com) - ZITADEL simplifies identity management for developers. It's serverless and open source, ready when you are.
 
 ## React Form
 
