@@ -177,6 +177,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 ## Form Builder
 
 - [Form Builder](https://github.com/hasanharman/form-builder) - Create your forms quickly using Shadcn UI, react-hook-form, and Zod in just minutes.
+- [Autoform](https://autoform.vantezzen.io/) - The Autoform library automatically generates forms based on your existing Zod schema.
 
 ## Bundler
 
