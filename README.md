@@ -89,6 +89,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Color core](https://npmjs.com/package/color-core) - The color core package is a powerful, type-safe color manipulation library for TypeScript and JavaScript applications.
 - [Geist Font](https://vercel.com/font) - Geist font is a typeface font created specifically for developers and designers.
 - [NextStepJS](https://nextstepjs.vercel.app) - A lightweight onboarding flow library for Next.js applications. Provides a simple way to create product tours.
+- [Stepperize](https://stepperize.vercel.app/) - The Stepperize library enables you to create step-by-step workflows in your applications.
 
 ## AI
 
