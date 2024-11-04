@@ -132,6 +132,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Next.js + Tailwind CSS + TypeScript Starter and Boilerplate](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - Combination of Next.js, Tailwind CSS, and TypeScript.
 - [Kirimase](https://kirimase.dev) - Kirimase is a command-line tool (CLI) for building full-stack Next.js.
 - [Blitzjs](https://blitzjs.com) - Fullstack Toolkit for Next.js.
+- [Next Forge](https://www.next-forge.com) - A ready-to-use, production-grade Turborepo template for Next.js applications.
 
 ## Headless CMS
 
