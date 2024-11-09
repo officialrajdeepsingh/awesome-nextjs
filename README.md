@@ -224,6 +224,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Eldora UI](https://eldoraui.site/) - Eldora UI Library Design for Engineers is an open-source collection of animated components made with React, Typescript, Tailwind CSS, and Framer Motion. It's fully open-source and customizable.
 - [Next UI](https://nextui.org) - Beautiful, fast, and modern React UI library.
 - [Lang UI](https://www.langui.dev/) - Beautifully crafted Tailwind components for your GPT projects.
+- [Draft UI](https://draft-ui.com/) - Draft UI is a collection of simply designed React components focused on making web accessibility as easy as copy & paste.
 
 ## Icons Library
 
