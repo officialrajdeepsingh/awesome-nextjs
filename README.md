@@ -239,6 +239,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Iconoir](https://iconoir.com/) - Iconoir is an open-source library with 1300+ unique SVG icons, designed on a 24x24 pixels grid. No premium icons, no email sign-up, no newsletters.
 - [Icons download](https://icons.download/) - The icons download library is free universal open-source icons with 16 styles.
 - [Simple Icons](https://simpleicons.org/) - Simple Icons is an open-source SVG icons library that provides popular brand icons.
+- [Monicon](https://monicon-docs.vercel.app/) - Monicon is a universal icon library where you can add over 200,000 icons to your project. Choose from popular sets like Material Design, Feather, and Font Awesome.
 
 ## Static Search library
 
