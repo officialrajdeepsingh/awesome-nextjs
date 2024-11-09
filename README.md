@@ -240,6 +240,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Icons download](https://icons.download/) - The icons download library is free universal open-source icons with 16 styles.
 - [Simple Icons](https://simpleicons.org/) - Simple Icons is an open-source SVG icons library that provides popular brand icons.
 - [Monicon](https://monicon-docs.vercel.app/) - Monicon is a universal icon library where you can add over 200,000 icons to your project. Choose from popular sets like Material Design, Feather, and Font Awesome.
+- [Feather](https://feathericons.com) - Feather is a collection of beautifully simple open-source icons.
 
 ## Static Search library
 
