@@ -225,6 +225,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Next UI](https://nextui.org) - Beautiful, fast, and modern React UI library.
 - [Lang UI](https://www.langui.dev/) - Beautifully crafted Tailwind components for your GPT projects.
 - [Draft UI](https://draft-ui.com/) - Draft UI is a collection of simply designed React components focused on making web accessibility as easy as copy & paste.
+- [Origin UI](https://originui.com/) - Origin UI is a comprehensive collection of copy-and-paste components designed for quickly building user interfaces for applications.
 
 ## Icons Library
 
