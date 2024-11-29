@@ -244,7 +244,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Monicon](https://monicon-docs.vercel.app/) - Monicon is a universal icon library where you can add over 200,000 icons to your project. Choose from popular sets like Material Design, Feather, and Font Awesome.
 - [Feather](https://feathericons.com) - Feather is a collection of beautifully simple open-source icons.
 - [Hugeicons](https://hugeicons.com/) - Beautiful icons for designers and developers.
-- [Svgl](https://svgl.app/) - The svgl library is a beautiful library with various SVG logos. 
+- [Svgl](https://svgl.app/) - The svgl library is a beautiful library with various SVG logos.
 
 ## Static Search library
 
