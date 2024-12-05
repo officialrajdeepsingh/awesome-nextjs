@@ -256,8 +256,9 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 
 ## Nextjs based Template
 
-- [Minimalist](https://github.com/frontendweb3/minimalist) - Minimalist blog template built with nextjs and tailwind CSS.
-- [Open Blog](https://github.com/frontendweb3/open-blog) - Open blog is a blogging template built with nextjs, tailwind CSS and markdown.
+- [Nextify](https://github.com/frontendweb3/nextify) - Nextify is a pre-built template for building documentation sites with blog using Next.js and Fumadocs.
+- [Minimalist](https://github.com/frontendweb3/minimalist) - Minimalist blog template built with nextjs and tailwind css.
+- [Open Blog](https://github.com/frontendweb3/open-blog) - Open blog is a bloging template built with nextjs, tailwind CSS and markdown.
 - [Blogify](https://github.com/frontendweb3/blogify) - Blogify is an open-source nextjs blog template design with tailwind CSS.
 
 ## Ready-Made Reactjs Hooks
