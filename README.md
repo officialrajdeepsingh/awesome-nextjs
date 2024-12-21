@@ -122,10 +122,10 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Section blog theme](https://github.com/frontendweb3/section-theme-blog) - The section blog theme is nextra-based MDX theme.
 - [Blog Starter Kit](https://vercel.com/templates/next.js/blog-starter-kit) - A statically generated blog example using Next.js and Markdown.
 - [Portfolio Starter Kit](https://vercel.com/templates/next.js/portfolio-starter-kit) - Easily create a portfolio blog with Next.js and Markdown.
-- [Nextify](https://github.com/frontendweb3/nextify): Nextify is a pre-built template for building documentation sites  with blog using Next.js and Fumadocs.
-- [Minimalist](https://github.com/frontendweb3/minimalist): Minimalist blog template built with nextjs and tailwind css.
-- [Open Blog](https://github.com/frontendweb3/open-blog): Open blog is a bloging template built with nextjs, tailwind CSS and markdown.
-- [Blogify](https://github.com/frontendweb3/blogify): Blogify is an open-source nextjs blog template design with tailwind CSS.
+- [Nextify](https://github.com/frontendweb3/nextify) - Nextify is a pre-built template for building documentation sites with blog using Next.js and Fumadocs.
+- [Minimalist](https://github.com/frontendweb3/minimalist) - Minimalist blog template built with nextjs and tailwind css.
+- [Open Blog](https://github.com/frontendweb3/open-blog) - Open blog is a bloging template built with nextjs, tailwind CSS and markdown.
+- [Blogify](https://github.com/frontendweb3/blogify) - Blogify is an open-source nextjs blog template design with tailwind CSS.
 
 ## Nextjs boilerplate
 
