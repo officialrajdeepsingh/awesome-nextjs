@@ -45,7 +45,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Newsletters](#newsletters)
 - [Deploy](#deploy)
 - [Documentation](#documentation)
-- [Blogging](#blogging)
+- [Next.js blog template](#nextjs-blog-template)
 - [Nextjs boilerplate](#nextjs-boilerplate)
 - [Headless CMS](#headless-cms)
 - [Database](#database)
@@ -116,7 +116,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [MDXTS](https://www.mdxts.dev) - The MDXTS is a content & documentation SDK for React and Nextjs. It helps to build a documentation website quickly and efficiently.
 - [Mintlify](https://mintlify.com) - Next.js-based platform for documentation sites. Beautiful out of the box, easy to maintain, and built to convert users.
 
-## Blogging
+## Next.js blog template
 
 - [Section blog theme](https://github.com/frontendweb3/section-theme-blog) - The section blog theme is nextra-based MDX theme.
 - [Blog Starter Kit](https://vercel.com/templates/next.js/blog-starter-kit) - A statically generated blog example using Next.js and Markdown.
