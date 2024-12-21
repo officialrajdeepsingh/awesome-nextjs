@@ -58,7 +58,6 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [React UI Library](#react-ui-library)
 - [Icons Library](#icons-library)
 - [Static Search library](#static-search-library)
-- [Nextjs based Template](#nextjs-based-template)
 - [Ready-Made Reactjs Hooks](#ready-made-reactjs-hooks)
 - [Tailwind CSS](#tailwind-css)
 - [Development Tool](#development-tool)
