@@ -292,6 +292,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Tailsc](https://tailsc.com/) - Tailsc is Free Tailwind CSS Components for website block, focuses on stylish, accessible and free UI components that you can just copy & paste on any tailwind css project.
 - [Tailwind toolbox](https://www.tailwindtoolbox.com/) - A tailwind toolbox site is where you find other people's projects on tailwind CSS. All the project is free, and you copy and paste code into your project.
 - [Pagedone](https://pagedone.io/) - The Pagedone library builds websites quickly with our open-source Tailwind library and Figma UI kit, featuring 1,000 Tailwind blocks and ready-to-use Tailwind CSS elements.
+- [FlyonUI](https://flyonui.com) - FlyonUI is an easy-to-use, free, open-source Tailwind CSS component library with semantic classes.
 
 ## Development Tool
 
