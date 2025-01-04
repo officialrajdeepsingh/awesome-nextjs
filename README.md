@@ -232,6 +232,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Kokonut UI](https://kokonut.dev) - Kokonut UI is a modern collection of interactive and customizable UI components that is quick and easy to use with Shadcn UI.
 - [FarmUI](https://www.farmui.com) - FarmUI is a 100% free, open-source library built faster, beautiful, responsive UI components and website templates with modern design.
 - [Justd](https://github.com/irsyadadl/justd) - Justd is an open-source React components UI library built on React Aria Components and Tailwind CSS. Easy to customize and copy & paste into your React projects.
+- [Reshaped](https://reshaped.so) - Reshaped UI offers more than 45 full-built components for every project, focusing on accessibility, component composition, and enhanced development experience.
 
 ## Icons Library
 
