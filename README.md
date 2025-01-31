@@ -164,6 +164,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Mojo Auth](https://mojoauth.com/) - Mojo Auth is a secure and delightful passwordless login solution.
 - [Auth kit](https://www.authkit.com/) - MojoAuth offers a passwordless authentication solution for any web and mobile applications.
 - [Kinde](https://kinde.com) - Simple, robust authentication built for developers.
+- [Permit.io](https://www.permit.io/blog/how-to-add-rbac-in-nextjs) - Authorization as a service solution for RBAC, ABAC, and ReBAC implementation.
 - [Stytch](https://stytch.com) - Stytch is enterprise-ready authentication and authorization.
 - [Auth0](https://auth0.com/) - Built the secure access for everyone with Auth0.
 - [Logto](https://logto.io/) - Logto is an open-source Auth0 alternative designed for modern apps and SaaS products.
