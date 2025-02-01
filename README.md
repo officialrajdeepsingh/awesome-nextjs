@@ -260,6 +260,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Feather](https://feathericons.com) - Feather is a collection of beautifully simple open-source icons.
 - [Hugeicons](https://hugeicons.com/) - Beautiful icons for designers and developers.
 - [Svgl](https://svgl.app/) - The svgl library is a beautiful library with various SVG logos.
+- [Phosphor Icons](https://github.com/phosphor-icons) - Phosphor Icons is a versatile icon family designed for everyone.
 
 ## Static Search library
 
