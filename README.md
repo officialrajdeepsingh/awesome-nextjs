@@ -172,6 +172,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [SuperTokens](https://supertokens.com) - SuperTokens is an open-source user authentication solution. It allows you to build quickly while maintaining control, all at a reasonable price.
 - [Okta](https://www.okta.com/) - Okta's Identity Clouds provide secure access and authentication, placing identity at the core of business security and growth.
 - [PropelAuth](https://www.propelauth.com) - PropelAuth provides end-to-end managed user authentication specializing in B2B use cases.
+- [Better Auth](https://www.better-auth.com) - Better Auth is a framework-agnostic authentication and authorization framework for TypeScript.
 
 ## React Form
 
