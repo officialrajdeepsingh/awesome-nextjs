@@ -228,7 +228,6 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [DotUI](https://dotui.org/) - Get everything you need to build your React app with accessible, mobile-friendly, and modern UI components.
 - [Magic UI](https://magicui.design) - Magic UI library for Engineers: 50+ free and open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion.
 - [Eldora UI](https://eldoraui.site/) - Eldora UI Library Design for Engineers is an open-source collection of animated components made with React, Typescript, Tailwind CSS, and Framer Motion. It's fully open-source and customizable.
-- [Next UI](https://nextui.org) - Beautiful, fast, and modern React UI library.
 - [Lang UI](https://www.langui.dev/) - Beautifully crafted Tailwind components for your GPT projects.
 - [Draft UI](https://draft-ui.com/) - Draft UI is a collection of simply designed React components focused on making web accessibility as easy as copy & paste.
 - [Origin UI](https://originui.com/) - Origin UI is a comprehensive collection of copy-and-paste components designed for quickly building user interfaces for applications.
@@ -237,6 +236,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Justd](https://github.com/irsyadadl/justd) - Justd is an open-source React components UI library built on React Aria Components and Tailwind CSS. Easy to customize and copy & paste into your React projects.
 - [Reshaped](https://reshaped.so) - Reshaped UI offers more than 45 full-built components for every project, focusing on accessibility, component composition, and enhanced development experience.
 - [9UI](https://www.9ui.dev) - 9UI Library: Beautiful, customizable components built with Base UI and Tailwind CSS.
+- [Hero UI](https://www.heroui.com) - Beautiful, fast and modern React UI library for building accessible and customizable web applications.
 
 ## Shadcn UI Theme Generator
 
