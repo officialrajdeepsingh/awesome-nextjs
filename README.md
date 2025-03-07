@@ -94,6 +94,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 ## AI
 
 - [V0](https://v0.dev) - V0 generates copy-and-paste friendly React code based on shadcn UI and Tailwind CSS that people can use in their projects.
+- [Creatr](https://getcreatr.com) - Creatr is an AI-driven design tool that transforms your ideas into captivating designs.
 
 ## Newsletters
 
