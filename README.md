@@ -241,6 +241,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [9UI](https://www.9ui.dev) - 9UI Library: Beautiful, customizable components built with Base UI and Tailwind CSS.
 - [Hero UI](https://www.heroui.com) - Beautiful, fast and modern React UI library for building accessible and customizable web applications.
 - [Page UI](https://pageui.shipixen.com) - Page UI is a set of landing page components & templates that you can copy & paste into your codebase—made for React & built on top of TailwindCSS. 
+- [Kibo UI](https://www.kibo-ui.com) - Kibo UI is a customised registry of composable, accessible, and open-source components crafted for use with shadcn ui. 
 
 ## Shadcn UI Theme Generator
 
