@@ -88,12 +88,15 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Tempeh](https://tempeh-docs.vercel.app) - Declarative routing library for Next.js with typesafe url params. Provides plugin replacement for existing Link tag in Next.js app dir.
 - [Color core](https://npmjs.com/package/color-core) - The color core package is a powerful, type-safe color manipulation library for TypeScript and JavaScript applications.
 - [Geist Font](https://vercel.com/font) - Geist font is a typeface font created specifically for developers and designers.
-- [NextStepJS](https://nextstepjs.vercel.app) - A lightweight onboarding flow library for Next.js applications. Provides a simple way to create product tours.
+- [NextStepjs](https://nextstepjs.vercel.app) - A lightweight onboarding flow library for Next.js applications. Provides a simple way to create product tours.
 - [Stepperize](https://stepperize.vercel.app/) - The Stepperize library enables you to create step-by-step workflows in your applications.
 
 ## AI
 
 - [V0](https://v0.dev) - V0 generates copy-and-paste friendly React code based on shadcn UI and Tailwind CSS that people can use in their projects.
+- [Creatr](https://getcreatr.com) - Creatr is an AI-driven design tool that transforms your ideas into captivating designs.
+- [Lovable](https://lovable.dev) - Lovable is an AI tool that assists you in building front-end applications.
+- [HeroUI Chat](https://heroui.chat) - Hero UI chat is an AI tool that easily transforms your ideas into beautiful apps.
 
 ## Newsletters
 
@@ -172,6 +175,8 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Zitadel](https://zitadel.com) - ZITADEL simplifies identity management for developers. It's serverless and open source, ready when you are.
 - [SuperTokens](https://supertokens.com) - SuperTokens is an open-source user authentication solution. It allows you to build quickly while maintaining control, all at a reasonable price.
 - [Okta](https://www.okta.com/) - Okta's Identity Clouds provide secure access and authentication, placing identity at the core of business security and growth.
+- [PropelAuth](https://www.propelauth.com) - PropelAuth provides end-to-end managed user authentication specializing in B2B use cases.
+- [Better Auth](https://www.better-auth.com) - Better Auth is a framework-agnostic authentication and authorization framework for TypeScript.
 
 ## React Form
 
@@ -227,14 +232,17 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [DotUI](https://dotui.org/) - Get everything you need to build your React app with accessible, mobile-friendly, and modern UI components.
 - [Magic UI](https://magicui.design) - Magic UI library for Engineers: 50+ free and open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion.
 - [Eldora UI](https://eldoraui.site/) - Eldora UI Library Design for Engineers is an open-source collection of animated components made with React, Typescript, Tailwind CSS, and Framer Motion. It's fully open-source and customizable.
-- [Next UI](https://nextui.org) - Beautiful, fast, and modern React UI library.
 - [Lang UI](https://www.langui.dev/) - Beautifully crafted Tailwind components for your GPT projects.
 - [Draft UI](https://draft-ui.com/) - Draft UI is a collection of simply designed React components focused on making web accessibility as easy as copy & paste.
 - [Origin UI](https://originui.com/) - Origin UI is a comprehensive collection of copy-and-paste components designed for quickly building user interfaces for applications.
-- [Kokonut UI](https://kokonut.dev) - Kokonut UI is a modern collection of interactive and customizable UI components that is quick and easy to use with Shadcn UI.
+- [Kokonut UI](https://kokonut.com) - Kokonut UI is a modern collection of interactive and customizable UI components that is quick and easy to use with Shadcn UI.
 - [FarmUI](https://www.farmui.com) - FarmUI is a 100% free, open-source library built faster, beautiful, responsive UI components and website templates with modern design.
 - [Justd](https://github.com/irsyadadl/justd) - Justd is an open-source React components UI library built on React Aria Components and Tailwind CSS. Easy to customize and copy & paste into your React projects.
 - [Reshaped](https://reshaped.so) - Reshaped UI offers more than 45 full-built components for every project, focusing on accessibility, component composition, and enhanced development experience.
+- [9UI](https://www.9ui.dev) - 9UI Library: Beautiful, customizable components built with Base UI and Tailwind CSS.
+- [Hero UI](https://www.heroui.com) - Beautiful, fast and modern React UI library for building accessible and customizable web applications.
+- [Page UI](https://pageui.shipixen.com) - Page UI is a set of landing page components & templates that you can copy & paste into your codebase—made for React & built on top of TailwindCSS.
+- [Kibo UI](https://www.kibo-ui.com) - Kibo UI is a customised registry of composable, accessible, and open-source components crafted for use with shadcn ui.
 
 ## Shadcn UI Theme Generator
 
@@ -261,6 +269,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Feather](https://feathericons.com) - Feather is a collection of beautifully simple open-source icons.
 - [Hugeicons](https://hugeicons.com/) - Beautiful icons for designers and developers.
 - [Svgl](https://svgl.app/) - The svgl library is a beautiful library with various SVG logos.
+- [Phosphor Icons](https://github.com/phosphor-icons) - Phosphor Icons is a versatile icon family designed for everyone.
 
 ## Static Search library
 
