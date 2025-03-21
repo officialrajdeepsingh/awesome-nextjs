@@ -176,7 +176,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Okta](https://www.okta.com/) - Okta's Identity Clouds provide secure access and authentication, placing identity at the core of business security and growth.
 - [PropelAuth](https://www.propelauth.com) - PropelAuth provides end-to-end managed user authentication specializing in B2B use cases.
 - [Better Auth](https://www.better-auth.com) - Better Auth is a framework-agnostic authentication and authorization framework for TypeScript.
-- [Permit.io](https://www.permit.io/blog/how-to-add-rbac-in-nextjs) - Authorization as a service solution for RBAC, ABAC, and ReBAC implementation.
+- [Permit.io](https://www.permit.io) - Authorization as a service solution for RBAC, ABAC, and ReBAC implementation.
 
 ## React Form
 
