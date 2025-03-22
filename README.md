@@ -97,6 +97,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Creatr](https://getcreatr.com) - Creatr is an AI-driven design tool that transforms your ideas into captivating designs.
 - [Lovable](https://lovable.dev) - Lovable is an AI tool that assists you in building front-end applications.
 - [HeroUI Chat](https://heroui.chat) - Hero UI chat is an AI tool that easily transforms your ideas into beautiful apps.
+- [Bolt.new](https://bolt.new) - Bolt.new AI tool prompts, runs, edits, and deploys full-stack web and mobile apps. 
 
 ## Newsletters
 
