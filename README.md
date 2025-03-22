@@ -288,6 +288,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [usehooks](https://usehooks.com) - A collection of built-in modern, server-side React hooks.
 - [React Custom Hooks](https://github.com/sergeyleschev/react-custom-hooks) - Supercharge Your Projects with ready-made custom hooks.
 - [React use](https://github.com/streamich/react-use) - Collection of essential reactjs hooks used for any project.
+- [Hookcn](https://hookcn.ouassim.tech) - A collection of reusable React hooks that you can easily copy and paste into your applications or add directly via the shadcn CLI.
 
 ## Tailwind CSS
 
