@@ -97,7 +97,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Creatr](https://getcreatr.com) - Creatr is an AI-driven design tool that transforms your ideas into captivating designs.
 - [Lovable](https://lovable.dev) - Lovable is an AI tool that assists you in building front-end applications.
 - [HeroUI Chat](https://heroui.chat) - Hero UI chat is an AI tool that easily transforms your ideas into beautiful apps.
-- [Bolt.new](https://bolt.new) - Bolt.new AI tool prompts, runs, edits, and deploys full-stack web and mobile apps. 
+- [Bolt.new](https://bolt.new) - Bolt.new AI tool prompts, runs, edits, and deploys full-stack web and mobile apps.
 
 ## Newsletters
 
@@ -251,7 +251,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Shadcn/UI theme generator](https://shadcn-ui-theme-generator.vercel.app/) - A Simple theme generator for shadcn/ui that provides greater control over color variables.
 - [Zippy Starter](https://zippystarter.com/tools/shadcn-ui-theme-generator) - Shadcn UI theme generator allows you to easily create custom themes from a single color, which you can then copy and paste into your applications.
 - [Shadcn/UI theme generator](https://tinte.railly.dev/shadcn) - Easily create and customize beautiful themes using shadcn/ui.
-- [UI Colorful](https://uicolorful.com)- Shadcn UI and tailwindcss color theme generator.
+- [UI Colorful](https://uicolorful.com) - Shadcn UI and tailwindcss color theme generator.
 
 ## Icons Library
 
