@@ -257,6 +257,8 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 
 ## Animation
 
+- [Popply Library](https://www.popplylibrary.com) - Explore an animation, use it as you like, and enhance your tooltip with over 50+ available animation effects.
+
 ## Icons Library
 
 - [React icons](https://react-icons.github.io/react-icons/) - Use the popular SVG icons in your React projects easily with react-icons.
