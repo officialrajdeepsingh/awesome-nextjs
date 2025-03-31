@@ -252,6 +252,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Zippy Starter](https://zippystarter.com/tools/shadcn-ui-theme-generator) - Shadcn UI theme generator allows you to easily create custom themes from a single color, which you can then copy and paste into your applications.
 - [Shadcn/UI theme generator](https://tinte.railly.dev/shadcn) - Easily create and customize beautiful themes using shadcn/ui.
 - [UI Colorful](https://uicolorful.com) - Shadcn UI and tailwindcss color theme generator.
+- [Components.work](https://components.work) - Next JS Components built with Tailwind, Typescript, brijr/craft, shadcn/ui, and more.
 
 ## Icons Library
 
