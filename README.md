@@ -245,7 +245,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Page UI](https://pageui.shipixen.com) - Page UI is a set of landing page components & templates that you can copy & paste into your codebase—made for React & built on top of TailwindCSS.
 - [Kibo UI](https://www.kibo-ui.com) - Kibo UI is a customised registry of composable, accessible, and open-source components crafted for use with shadcn ui.
 
-## Shadcn UI Theme Generator
+## Shadcn UI
 
 - [ui.jln.dev](https://ui.jln.dev) - It has over 1000 VS Code themes added as shadcn/ui Themes.
 - [Shadcn/UI theme generator](https://shadcn-ui-theme-generator.vercel.app/) - A Simple theme generator for shadcn/ui that provides greater control over color variables.
