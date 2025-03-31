@@ -57,6 +57,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Analytics](#analytics)
 - [React UI Library](#react-ui-library)
 - [Shadcn UI](#shadcn-ui)
+- [Animation](#animation)
 - [Icons Library](#icons-library)
 - [Static Search library](#static-search-library)
 - [Ready-Made Reactjs Hooks](#ready-made-reactjs-hooks)
@@ -253,6 +254,8 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Shadcn/UI theme generator](https://tinte.railly.dev/shadcn) - Easily create and customize beautiful themes using shadcn/ui.
 - [UI Colorful](https://uicolorful.com) - Shadcn UI and tailwindcss color theme generator.
 - [Components.work](https://components.work) - Next JS Components built with Tailwind, Typescript, brijr/craft, shadcn/ui, and more.
+
+## Animation
 
 ## Icons Library
 
