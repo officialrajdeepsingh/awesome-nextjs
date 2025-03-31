@@ -56,7 +56,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [State Management](#state-management)
 - [Analytics](#analytics)
 - [React UI Library](#react-ui-library)
-- [Shadcn UI Theme Generator](#shadcn-ui-theme-generator)
+- [Shadcn UI](#shadcn-ui)
 - [Icons Library](#icons-library)
 - [Static Search library](#static-search-library)
 - [Ready-Made Reactjs Hooks](#ready-made-reactjs-hooks)
