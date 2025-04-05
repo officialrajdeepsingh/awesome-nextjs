@@ -179,6 +179,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [PropelAuth](https://www.propelauth.com) - PropelAuth provides end-to-end managed user authentication specializing in B2B use cases.
 - [Better Auth](https://www.better-auth.com) - Better Auth is a framework-agnostic authentication and authorization framework for TypeScript.
 - [Permit.io](https://www.permit.io) - Authorization as a service solution for RBAC, ABAC, and ReBAC implementation.
+- [Stack Auth](https://stack-auth.com) - Stack Auth provides an open-source suite of tools for authentication and user management. You can implement authentication in a nextjs application in just minutes.
 
 ## React Form
 
