@@ -4,7 +4,7 @@
 
 <div class="display-none">
 
-> A curated list of the best resources in the nextjs community.
+> A carefully selected list of the best resources available in the Next.js community.
 
 </div>
 
