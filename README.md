@@ -259,6 +259,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 ## Animation
 
 - [Popply Library](https://www.popplylibrary.com) - Explore an animation, use it as you like, and enhance your tooltip with over 50+ available animation effects.
+- [MotifyX](https://jatin-yadav05.github.io/MotifyX) - Enhance your designs with our curated selection of contemporary background patterns. Preview, customize, and apply with just a few clicks.
 
 ## Icons Library
 
