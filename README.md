@@ -181,7 +181,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Better Auth](https://www.better-auth.com) - Better Auth is a framework-agnostic authentication and authorization framework for TypeScript.
 - [Permit.io](https://www.permit.io) - Authorization as a service solution for RBAC, ABAC, and ReBAC implementation.
 - [Stack Auth](https://stack-auth.com) - Stack Auth provides an open-source suite of tools for authentication and user management. You can implement authentication in a nextjs application in just minutes.
-- [Scalekit](https://scalekit.com) – Add enterprise SSO (SAML, OIDC) and SCIM to your Next.js app without replacing your existing auth setup. Works with Firebase, Auth0, Cognito without rewrites.
+- [Scalekit](https://scalekit.com) - Add enterprise SSO (SAML, OIDC) and SCIM to your Next.js app without replacing your existing auth setup. Works with Firebase, Auth0, Cognito without rewrites.
 
 ## React Form
 
