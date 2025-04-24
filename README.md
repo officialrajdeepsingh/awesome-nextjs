@@ -106,6 +106,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [This Week In React](https://thisweekinreact.com/) - This Week In React newsletter, share the latest news related to the reactjs ecosystem.
 - [React Digest](https://newsletter.reactdigest.net/) - A carefully curated weekly newsletter for React developers.
 - [JavaScript Weekly](http://javascriptweekly.com) - The JavaScript Weekly newsletter shares articles, news, and exciting projects related to JavaScript.
+- [React Status](http://react.statuscode.com) - A weekly roundup of the latest articles and tutorials on React and React Native.
 
 ## Deploy
 
