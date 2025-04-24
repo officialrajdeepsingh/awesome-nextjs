@@ -107,6 +107,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [React Digest](https://newsletter.reactdigest.net/) - A carefully curated weekly newsletter for React developers.
 - [JavaScript Weekly](http://javascriptweekly.com) - The JavaScript Weekly newsletter shares articles, news, and exciting projects related to JavaScript.
 - [React Status](http://react.statuscode.com) - A weekly roundup of the latest articles and tutorials on React and React Native.
+- [Next.js Newsletter](http://medium.com/nextjs/newsletter) - A newsletter sharing news, articles, tools, templates, projects, and resources about React.js and Next.js.
 
 ## Deploy
 
