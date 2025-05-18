@@ -304,6 +304,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [React Custom Hooks](https://github.com/sergeyleschev/react-custom-hooks) - Supercharge Your Projects with ready-made custom hooks.
 - [React use](https://github.com/streamich/react-use) - Collection of essential reactjs hooks used for any project.
 - [Hookcn](https://hookcn.ouassim.tech) - A collection of reusable React hooks that you can easily copy and paste into your applications or add directly via the shadcn CLI.
+- [ahooks](https://ahooks.js.org) - ahooks is a comprehensive, high-quality React Hooks library that provides a vast collection of reusable hooks aimed at simplifying and enhancing React development.
 
 ## Tailwind CSS
 
