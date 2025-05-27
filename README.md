@@ -53,6 +53,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [React Form](#react-form)
 - [Form Builder](#form-builder)
 - [Bundler](#bundler)
+- [Cache Handler](#cache-handler)
 - [State Management](#state-management)
 - [Analytics](#analytics)
 - [React UI Library](#react-ui-library)
@@ -205,6 +206,10 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [EsBuild](https://github.com/evanw/esbuild) - EsBuild is an open-source JavaScript bundler and minified that is extremely fast and lightweight.
 - [Rollupjs](https://rollupjs.org) - The rollup.js is an open-source JavaScript bundler.
 - [Tsup](https://github.com/egoist/tsup) - The tsup is the simplest and fastest way to bundle your TypeScript project with no configuration need.
+
+## Cache Handler
+
+[Nextjs Turbo Redis Cache](https://github.com/trieb-work/nextjs-turbo-redis-cache) - Redis cache handler solution for Next.js App Router. Built for production-ready, large-scale projects with batch tag invalidation, request deduplication, in-memory caching, and efficient tag management.
 
 ## State Management
 
