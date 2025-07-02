@@ -124,6 +124,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Fumadocs](https://fumadocs.vercel.app/) - The Fumadocs is a powerful framework for building documentation sites in Next.js using the power of Next.js App Router and React Component.
 - [MDXTS](https://www.mdxts.dev) - The MDXTS is a content & documentation SDK for React and Nextjs. It helps to build a documentation website quickly and efficiently.
 - [Mintlify](https://mintlify.com) - Next.js-based platform for documentation sites. Beautiful out of the box, easy to maintain, and built to convert users.
+- [Docusaurus](https://docusaurus.io/) - Docusaurus is a tool that enables teams and individuals, whether from startups or established companies, to easily publish documentation websites.
 
 ## Next.js blog template
 
