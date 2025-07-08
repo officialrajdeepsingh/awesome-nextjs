@@ -125,6 +125,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Fumadocs](https://fumadocs.vercel.app/) - The Fumadocs is a powerful framework for building documentation sites in Next.js using the power of Next.js App Router and React Component.
 - [MDXTS](https://www.mdxts.dev) - The MDXTS is a content & documentation SDK for React and Nextjs. It helps to build a documentation website quickly and efficiently.
 - [Mintlify](https://mintlify.com) - Next.js-based platform for documentation sites. Beautiful out of the box, easy to maintain, and built to convert users.
+- [Docusaurus](https://docusaurus.io/) - Docusaurus is a tool that enables teams and individuals, whether from startups or established companies, to easily publish documentation websites.
 
 ## Next.js blog template
 
@@ -220,6 +221,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [React context](https://react.dev/learn/passing-data-deeply-with-context) - React.createContext() is a React API allowing you to pass or share between react components.
 - [NUQS](https://nuqs.47ng.com) - Type-safe search params state manager for Next.js.
 - [State-in-url](https://github.com/asmyshlyaev177/state-in-url) - Share any complex state between unrelated components, sync it to the URL, TS friendly.
+- [useS](https://use-s-react.christbm.dev) - The useS is a modern React hook for efficient local and global state management, offering clean, immutable, and scalable logic with no boilerplate.
 
 ## Analytics
 
@@ -292,6 +294,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Hugeicons](https://hugeicons.com/) - Beautiful icons for designers and developers.
 - [Svgl](https://svgl.app/) - The svgl library is a beautiful library with various SVG logos.
 - [Phosphor Icons](https://github.com/phosphor-icons) - Phosphor Icons is a versatile icon family designed for everyone.
+- [Obra Icons](https://icons.obra.studio) - The Obra icons are a simple, consistent set of icons, perfect for user interfaces.
 
 ## Static Search library
 
