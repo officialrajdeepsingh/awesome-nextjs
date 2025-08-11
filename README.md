@@ -79,8 +79,6 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 
 ## Tools
 
-- [Next SEO](https://www.npmjs.com/package/next-seo) - Next SEO is a plugin that helps manage the SEO in Next.js.
-- [Next sitemap](https://www.npmjs.com/package/next-sitemap) - The next sitemap library helps you create a sitemap file in your nextjs application.
 - [Next auth](https://www.npmjs.com/package/next-auth) - Next auth library provides authorization functionality for your app.
 - [Next PWA](https://www.npmjs.com/package/next-pwa) - Next PWA library helps to enable your application's progressive Web Apps functionality.
 - [Nextjs progress bar](https://www.npmjs.com/package/nextjs-progressbar) - Nextjs progress bar shows the loading indicator in nextjs.
@@ -92,6 +90,11 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Geist Font](https://vercel.com/font) - Geist font is a typeface font created specifically for developers and designers.
 - [NextStepjs](https://nextstepjs.vercel.app) - A lightweight onboarding flow library for Next.js applications. Provides a simple way to create product tours.
 - [Stepperize](https://stepperize.vercel.app/) - The Stepperize library enables you to create step-by-step workflows in your applications.
+
+## SEO
+- [Next SEO](https://www.npmjs.com/package/next-seo) - Next SEO is a plugin that helps manage the SEO in Next.js.
+- [Next sitemap](https://www.npmjs.com/package/next-sitemap) - The next sitemap library helps you create a sitemap file in your nextjs application.
+- [Generate Metadata](https://github.com/ludicroushq/generate-metadata) - AI-powered metadata SDK/headless CMS for Next.js. Auto-generates SEO titles, descriptions, and OpenGraph/Twitter tags from your content
 
 ## AI
 
@@ -160,7 +163,6 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Craft CMS](https://craftcms.com/) - Craft CMS is a flexible, user-friendly CMS for creating the web.
 - [Payload CMS](https://payloadcms.com) - Build a modern backend admin UI with payload CMS. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [Pages CMS](https://pagescms.org) - A user-friendly and no-hassle CMS for static site generators.
-- [Generate Metadata](https://github.com/ludicroushq/generate-metadata) - AI-powered metadata SDK/headless CMS for Next.js. Auto-generates SEO titles, descriptions, and OpenGraph/Twitter tags from your content
 
 ## Database
 
