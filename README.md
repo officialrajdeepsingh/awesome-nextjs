@@ -161,6 +161,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Payload CMS](https://payloadcms.com) - Build a modern backend admin UI with payload CMS. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [Pages CMS](https://pagescms.org) - A user-friendly and no-hassle CMS for static site generators.
 - [Sitepins](https://sitepins.com/) - A content management system (CMS) for static site generators makes it easier to manage websites built with tools like Astro, Next.js, and Hugo.
+- [Alinea CMS](https://alineacms.com) - Alinea cms is a Git-based, open-source headless CMS for Next.js, and it allows you to keep your content fully typed in your repository.
 
 ## Database
 
