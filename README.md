@@ -160,6 +160,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Craft CMS](https://craftcms.com/) - Craft CMS is a flexible, user-friendly CMS for creating the web.
 - [Payload CMS](https://payloadcms.com) - Build a modern backend admin UI with payload CMS. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [Pages CMS](https://pagescms.org) - A user-friendly and no-hassle CMS for static site generators.
+- [Sitepins](https://sitepins.com/) - A content management system (CMS) for static site generators makes it easier to manage websites built with tools like Astro, Next.js, and Hugo.
 
 ## Database
 
