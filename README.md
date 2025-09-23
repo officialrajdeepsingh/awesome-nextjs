@@ -1,16 +1,15 @@
 <!-- omit in toc -->
 
-# Awesome Nextjs[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
+# Awesome Nextjs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
 
 <div class="display-none">
 
-> A carefully selected list of the best resources available in the Next.js community.
+> A carefully selected list of the best resources available for the Next.js community.
 
 </div>
 
 [Nextjs](https://nextjs.org/) is an open-source framework for building high-quality small and large-scale web applications using Reactjs with modern tools and technology.
 
-<!-- I have compiled a list of NPM libraries that can be used to develop small and large-scale applications with Next.js. The list is based on my experience as a front-end developer, and I have used 80% of the packages mentioned. As I discover more packages in the future, I will add them to the current list to help other front-end developers build applications with Next.js more efficiently. -->
 
 To stay updated, follow the GitHub Repository and give our repository a star. This will help others discover it, encourage more developers to contribute, and build a solid list. Also, we encourage you to share our repository on your social media platforms, like X (previously known as Twitter).
 
@@ -22,18 +21,30 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 
 > Share on Social Media
 
-<div align="center">
-  <a href="https://twitter.com/intent/tweet?text=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps.&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs">
+<div align="center"> 
+  <a height="50" href="https://twitter.com/intent/tweet?text=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps.&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs">
       <img height="34" width="80" alt="nextjs" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
   </a>
-  <a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs&title=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps">
+  <a  height="50" href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs&title=A%20list%20of%20Next.js-based%20libraries%20to%20build%20small%20and%20large-scale%20apps">
       <img height="34" width="80" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs">
+  <a  height="50" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-nextjs">
       <img height="34" width="80" alt="facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
   </a>
 </div>
 </div>
+
+
+### Sponsorship
+
+<a target="_blank" href="https://ui-block.pages.dev/">
+ <img width="1128" height="191" alt="Subscribe to Our Next.js and React.js Newsletter" src="https://github.com/user-attachments/assets/2e45ba08-4a96-43df-b737-823b18fa3b92" />
+</a>
+
+<div style="
+    width: 100%;
+    height: 50px;
+"></div>
 
 <!-- omit in toc -->
 
