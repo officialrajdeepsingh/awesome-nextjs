@@ -164,6 +164,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Blitzjs](https://blitzjs.com) - Fullstack Toolkit for Next.js.
 - [Next Forge](https://www.next-forge.com) - A ready-to-use, production-grade Turborepo template for Next.js applications.
 - [TurboStarter](https://turbostarter.dev) - Web (Next.js), mobile (Expo) and browser extension (WXT) starter kit.
+- [NextJs Web3 Template](https://github.com/abaker42/crypto-shelfy-template) - NextJS Typescript template with wallet integration + token gated pages.
 
 ## Headless CMS
 
