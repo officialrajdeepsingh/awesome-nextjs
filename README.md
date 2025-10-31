@@ -294,6 +294,7 @@
 - [Svgl](https://svgl.app/) - The svgl library is a beautiful library with various SVG logos.
 - [Phosphor Icons](https://github.com/phosphor-icons) - Phosphor Icons is a versatile icon family designed for everyone.
 - [Obra Icons](https://icons.obra.studio) - The Obra icons are a simple, consistent set of icons, perfect for user interfaces.
+- [Shadcn Icons](https://www.shadcn.io/icons) - React Icons for shadcn/ui.
 
 ## Static Search library
 
