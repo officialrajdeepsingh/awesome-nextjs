@@ -1,0 +1,5 @@
+{
+  "plugins": [
+    ["remark-lint-awesome-spell-check", { "ignore": ["EsBuild"] }]
+  ]
+}
