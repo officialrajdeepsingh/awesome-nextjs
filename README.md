@@ -359,6 +359,7 @@
 - [Gimli](https://gimli.app/) - Gimli Chrome extension is an innovative visual tool for front-end developers to build with Tailwind CSS.
 - [Next.js Utilities Extension](https://chrome.google.com/webstore/detail/Next.js-utilities-extensio/ffcogmoganomoabikgmcmckdgojnpldo) - Next.js Utilities Extension shows you the size of Next.js static data without installing of any additional stuff.
 - [GitHub Web IDE](https://chromewebstore.google.com/detail/github-web-ide/adjiklnjodbiaioggfpbpkhbfcnhgkfe) - Open Any GitHub repositories in online web (cloud) IDE like VS Code, GitHub Dev, Code Sandbox, Repl.it, Gitpod, etc.
+- [Next Network](https://chromewebstore.google.com/detail/next-network/jfdfcgpbpbbemkmdffgliagfoggdjmmc) - Devtools extension that allows to monitor server-side requests being sent by the local Next.js application.
 
 ## Utility (Others)
 
