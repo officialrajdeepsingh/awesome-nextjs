@@ -343,6 +343,7 @@
 - [TypeScript](https://www.typescriptlang.org/) - TypeScript helps to write type-safe JavaScript for production.
 - [@next/eslint-plugin-next](https://www.npmjs.com/package/@next/eslint-plugin-next) - Next/eslint-plugin help to resolve the error.
 - [@next/bundle-analyzer](https://www.npmjs.com/package/@next/bundle-analyzer) - Analyzer your Next.js bundle size using a Webpack bundle analyzer.
+- [Heroshot](https://github.com/omachala/heroshot) - Screenshot automation CLI for documentation. Define screenshots once in config, regenerate all with one command using Playwright. Includes a Next.js integration.
 
 ## Error Handling
 
