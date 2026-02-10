@@ -76,6 +76,7 @@
 - [Geist Font](https://vercel.com/font) - Geist font is a typeface font created specifically for developers and designers.
 - [NextStepjs](https://nextstepjs.vercel.app) - A lightweight onboarding flow library for Next.js applications. Provides a simple way to create product tours.
 - [Stepperize](https://stepperize.vercel.app/) - The Stepperize library enables you to create step-by-step workflows in your applications.
+- [Sidemail](https://sidemail.io/docs/send-emails-with-nodejs/) – Email API + Node.js SDK for transactional email sending and management.
 
 ## SEO
 
