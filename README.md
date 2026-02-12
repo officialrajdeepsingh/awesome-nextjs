@@ -154,6 +154,7 @@
 - [Pages CMS](https://pagescms.org) - A user-friendly and no-hassle CMS for static site generators.
 - [Sitepins](https://sitepins.com/) - A content management system (CMS) for static site generators makes it easier to manage websites built with tools like Astro, Next.js, and Hugo.
 - [Alinea CMS](https://alineacms.com) - Alinea cms is a Git-based, open-source headless CMS for Next.js, and it allows you to keep your content fully typed in your repository.
+- [OneEntry](https://oneentry.cloud/) - Headless CMS + e-commerce backend with a JavaScript SDK for building Next.js apps (products, pages, orders, users, attributes).
 
 ## Database
 
