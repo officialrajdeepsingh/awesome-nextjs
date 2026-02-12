@@ -53,7 +53,7 @@
 
 ### Sponsorship
 
-[![Subscribe to Our Next.js and React.js Newsletter](https://github.com/user-attachments/assets/2e45ba08-4a96-43df-b737-823b18fa3b92)](https://ui-block.pages.dev)
+[![Subscribe to Our Next.js and React.js Newsletter](https://github.com/user-attachments/assets/2e45ba08-4a96-43df-b737-823b18fa3b92)](https://medium.com/nextjs/newsletter)
 
 ## Officially for Next.js
 
