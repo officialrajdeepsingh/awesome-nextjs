@@ -1,7 +1,6 @@
 name: Awesome lint
 on:
   pull_request:
-    branches: [main]
 jobs:
   Awesome_Lint:
     runs-on: ubuntu-latest
@@ -9,4 +8,4 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - run: npx awesome-lint
+      - run: npx awesome-lint@latest README.md
