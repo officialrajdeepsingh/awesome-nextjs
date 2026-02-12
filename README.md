@@ -196,6 +196,7 @@
 
 - [Form Builder](https://github.com/hasanharman/form-builder) - Create your forms quickly using Shadcn UI, react-hook-form, and Zod in just minutes.
 - [Autoform](https://autoform.vantezzen.io/) - The Autoform library automatically generates forms based on your existing Zod schema.
+- [Formcn](https://formcn.dev) - Build a ready-to-use multi-step form with Shadcn, featuring validation and accessible, well-designed components.
 
 ## Bundler
 
@@ -312,7 +313,8 @@
 - [React Custom Hooks](https://github.com/sergeyleschev/react-custom-hooks) - Supercharge Your Projects with ready-made custom hooks.
 - [React use](https://github.com/streamich/react-use) - Collection of essential reactjs hooks used for any project.
 - [Hookcn](https://hookcn.ouassim.tech) - A collection of reusable React hooks that you can easily copy and paste into your applications or add directly via the shadcn CLI.
-- [ahooks](https://ahooks.js.org) - Ahooks is a comprehensive, high-quality React Hooks library that provides a vast collection of reusable hooks aimed at simplifying and enhancing React development.
+- [Ahooks](https://ahooks.js.org) - Ahooks is a comprehensive, high-quality React Hooks library that provides a vast collection of reusable hooks aimed at simplifying and enhancing React development.
+- [Shadcn Hooks](https://shadcn-hooks.vercel.app) - A comprehensive React Hooks Collection built with Shadcn.
 
 ## Tailwind CSS
 
