@@ -1,4 +1,4 @@
-# Awesome Next.js [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Next.js[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A carefully selected list of the best resources available for the Next.js community.
 
@@ -8,36 +8,38 @@
 
 ## Contents <!-- omit in toc -->
 
-- [Officially for Next.js](#officially-for-nextjs)
-- [Tools](#tools)
-- [SEO](#seo)
-- [AI](#ai)
-- [Newsletters](#newsletters)
-- [Deploy](#deploy)
-- [Documentation](#documentation)
-- [Next.js blog template](#nextjs-blog-template)
-- [Next.js boilerplate](#nextjs-boilerplate)
-- [Headless CMS](#headless-cms)
-- [Database](#database)
-- [Authentication and User Management](#authentication-and-user-management)
-- [React Form](#react-form)
-- [Form Builder](#form-builder)
-- [Bundler](#bundler)
-- [Cache Handler](#cache-handler)
-- [State Management](#state-management)
-- [Analytics](#analytics)
-- [React UI Library](#react-ui-library)
-- [Shadcn UI](#shadcn-ui)
-- [Animation](#animation)
-- [Icons Library](#icons-library)
-- [Static Search library](#static-search-library)
-- [Ready-Made Reactjs Hooks](#ready-made-reactjs-hooks)
-- [Tailwind CSS](#tailwind-css)
-- [Development Tool](#development-tool)
-- [Error Handling](#error-handling)
-- [VS Code Extensions](#vs-code-extensions)
-- [Chrome Extension](#chrome-extension)
-- [Utility (Others)](#utility-others)
+- [Awesome Next.js](#awesome-nextjs)
+  - [Sponsorship](#sponsorship)
+  - [Officially for Next.js](#officially-for-nextjs)
+  - [Tools](#tools)
+  - [SEO](#seo)
+  - [AI](#ai)
+  - [Newsletters](#newsletters)
+  - [Deploy](#deploy)
+  - [Documentation](#documentation)
+  - [Next.js blog template](#nextjs-blog-template)
+  - [Next.js boilerplate](#nextjs-boilerplate)
+  - [Headless CMS](#headless-cms)
+  - [Database](#database)
+  - [Authentication and User Management](#authentication-and-user-management)
+  - [React Form](#react-form)
+  - [Form Builder](#form-builder)
+  - [Bundler](#bundler)
+  - [Cache Handler](#cache-handler)
+  - [State Management](#state-management)
+  - [Analytics](#analytics)
+  - [React UI Library](#react-ui-library)
+  - [Shadcn UI](#shadcn-ui)
+  - [Animation](#animation)
+  - [Icons Library](#icons-library)
+  - [Static Search library](#static-search-library)
+  - [Ready-Made Reactjs Hooks](#ready-made-reactjs-hooks)
+  - [Tailwind CSS](#tailwind-css)
+  - [Development Tool](#development-tool)
+  - [Error Handling](#error-handling)
+  - [VS Code Extensions](#vs-code-extensions)
+  - [Chrome Extension](#chrome-extension)
+  - [Utility (Others)](#utility-others)
 
 > You can also check out [awesome documentation](https://github.com/officialrajdeepsingh/awesome-documentation) if you are looking for a list of documentation tools.
 
@@ -51,7 +53,9 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-Next.js)
 
-### Sponsorship
+<!--lint ignore awesome-list-item-->
+
+## Sponsorship
 
 [![Subscribe to Our Next.js and React.js Newsletter](https://github.com/user-attachments/assets/2e45ba08-4a96-43df-b737-823b18fa3b92)](https://medium.com/nextjs/newsletter)
 
