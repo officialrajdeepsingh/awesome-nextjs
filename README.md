@@ -146,7 +146,7 @@
 - [Tina CMS](https://tina.io/) - Open-source, Git-backed headless CMS for Next.js that works with Markdown, MDX, and JSON.
 - [WordPress](https://wordpress.org/) - Open-source CMS ready for production; the built-in REST API can power any website.
 - [Strapi](https://strapi.io/) - Powerful open-source Node.js-based CMS suitable for small to large-scale websites.
-- [Ghost](https://ghost.org/) - Popular open-source CMS for creating blogs, offering a simple, user-friendly API.
+- [Ghost CMS](https://ghost.org/) - Popular open-source CMS for creating blogs, offering a simple, user-friendly API.
 - [Netlify CMS](https://github.com/decaporg/decap-cms) - Decap CMS(Netlify CMS) work with all type of static site generators. It permits users to edit, update, and delete content on any site built with a static generator. You can use Decap CMS without any technical knowledge.
 - [Forestry](https://forestry.io/) - Headless CMS that is easy to customize, configure, and integrate with all types of static site generators.
 - [Craft CMS](https://craftcms.com/) - Flexible, user-friendly CMS for creating the web.
