@@ -52,6 +52,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fofficialrajdeepsingh%2Fawesome-Next.js)
 
 <!--lint ignore awesome-list-item-->
+
 > Sponsorship
 >
 > [![Subscribe to Our Next.js and React.js Newsletter](https://github.com/user-attachments/assets/2e45ba08-4a96-43df-b737-823b18fa3b92)](https://medium.com/nextjs/newsletter)
