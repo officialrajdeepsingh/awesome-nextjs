@@ -1,11 +1,9 @@
 name: Format the Readme file.
 
-# This action works with pull requests and pushes
+# Run formatter on every pull request
 on:
   pull_request:
   push:
-    branches:
-      - main
 
 permissions:
   contents: read
