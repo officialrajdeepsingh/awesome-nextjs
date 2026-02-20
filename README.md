@@ -371,3 +371,4 @@
 
 - [Demo posts for markdown](https://github.com/frontendweb3/Demo-markdown-posts) - Demo markdown posts are used to design your new blog base template. You do not write markdown demo posts. You can use demo markdown posts with any static site generator which supports markdown. for example, Next.js, GatsBy, Lume, Fresh, etc. Demo markdown posts are written with Lorem Ipsum. I can use bold, italic, code block, inline code, links, images, and quotes in markdown posts.
 - [Jam Stack](https://jamstack.org) - A list of resources related to CMS and site generators across the programming world.
+- [DevToolBox](https://viadreams.cc) - 129+ free online developer tools (JSON formatter, Base64 encoder, JWT decoder, regex tester, hash generator, and more). Built with Next.js and TypeScript, 100% client-side processing, supports 15 languages.
