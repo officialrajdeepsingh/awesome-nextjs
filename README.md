@@ -118,7 +118,7 @@
 - [Fumadocs](https://fumadocs.vercel.app/) - The Fumadocs is a powerful framework for building documentation sites in Next.js using the power of Next.js App Router and React Component.
 - [MDXTS](https://www.mdxts.dev) - The MDXTS is a content & documentation SDK for React and Next.js. It helps to build a documentation website quickly and efficiently.
 - [Mintlify](https://mintlify.com) - Next.js-based platform for documentation sites. Beautiful out of the box, easy to maintain, and built to convert users.
-- [Docusaurus](https://docusaurus.io/) - Tool that enables teams and individuals to easily publish documentation websites.
+- [Docusaurus](https://docusaurus.io/) - A tool that enables teams and individuals to easily publish documentation websites.
 
 ## Next.js blog template
 
@@ -190,7 +190,7 @@
 
 - [React Hook Form](https://react-hook-form.com) - The React Hook Form is a performant, flexible, and extensible library used for building forms.
 - [Conform](https://github.com/edmundhung/conform) - Type-safe form validation library with full support for server frameworks like Remix and Next.js.
-- [Formiz](https://formiz-react.com) - Build React multi step and complex validation form very easily with formiz.
+- [Formiz](https://formiz-react.com) - Build a React multi-step and complex validation form very easily with Formiz.
 - [TanStack Form](https://tanstack.com/form/latest) - Tan Stack Form is the ultimate solution for handling forms in web applications.
 - [Minform](https://minform.io) - Collect form data effortlessly without writing code, and it's free.
 
@@ -295,6 +295,7 @@
 - [Phosphor Icons](https://github.com/phosphor-icons) - Versatile icon family designed for everyone.
 - [Obra Icons](https://icons.obra.studio) - The Obra icons are a simple, consistent set of icons, perfect for user interfaces.
 - [Shadcn Icons](https://www.shadcn.io/icons) - React Icons for shadcn/ui.
+- [Remix Icon](https://remixicon.com) - Remix Icon is an open-source library of high-quality, neutral-style system symbols designed specifically for designers and developers.
 
 ## Static Search library
 
