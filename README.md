@@ -142,6 +142,7 @@
 - [Next Forge](https://www.next-forge.com) - A ready-to-use, production-grade Turborepo template for Next.js applications.
 - [TurboStarter](https://turbostarter.dev) - Web (Next.js), mobile (Expo) and browser extension (WXT) starter kit.
 - [Next.js Web3 Template](https://github.com/abaker42/crypto-shelfy-template) - Next.js TypeScript template with wallet integration + token gated pages.
+- [ShipAI.today](https://shipai.today/) - Next.js AI SaaS boilerplate with auth and billing.
 
 ## Headless CMS
 
