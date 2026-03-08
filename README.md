@@ -372,3 +372,4 @@
 
 - [Demo posts for markdown](https://github.com/frontendweb3/Demo-markdown-posts) - Demo markdown posts are used to design your new blog base template. You do not write markdown demo posts. You can use demo markdown posts with any static site generator which supports markdown. for example, Next.js, GatsBy, Lume, Fresh, etc. Demo markdown posts are written with Lorem Ipsum. I can use bold, italic, code block, inline code, links, images, and quotes in markdown posts.
 - [Jam Stack](https://jamstack.org) - A list of resources related to CMS and site generators across the programming world.
+- [Pharos AI](https://github.com/Juliusolsson05/pharos-ai) - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive maps and OSINT feeds.
