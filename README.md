@@ -79,6 +79,7 @@
 - [NextStepjs](https://nextstepjs.vercel.app) - A lightweight onboarding flow library for Next.js applications. Provides a simple way to create product tours.
 - [Stepperize](https://stepperize.vercel.app/) - The Stepperize library enables you to create step-by-step workflows in your applications.
 - [Sidemail](https://sidemail.io/docs/send-emails-with-nodejs/) - Email API + Node.js SDK for transactional email sending and management.
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data platform built with Next.js — real-time monitoring, 20 extraction tools, REST API, MCP server.
 
 ## SEO
 
