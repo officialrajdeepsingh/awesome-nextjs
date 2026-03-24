@@ -79,6 +79,7 @@
 - [NextStepjs](https://nextstepjs.vercel.app) - A lightweight onboarding flow library for Next.js applications. Provides a simple way to create product tours.
 - [Stepperize](https://stepperize.vercel.app/) - The Stepperize library enables you to create step-by-step workflows in your applications.
 - [Sidemail](https://sidemail.io/docs/send-emails-with-nodejs/) - Email API + Node.js SDK for transactional email sending and management.
+- [API Status Check](https://apistatuscheck.com) - Real-time API and website status monitoring dashboard built with Next.js. Tracks 500+ services with outage detection, historical data, and free status alerts.
 
 ## SEO
 
