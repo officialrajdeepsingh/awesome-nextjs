@@ -286,9 +286,9 @@
 - [Icon Monstr](https://iconmonstr.com/) - Free, monstrously big, and continuously growing icon library.
 - [Icon SVG](https://iconsvg.xyz/) - ICONSVG is a tool to simplify finding and generating common icons for your project.
 - [Iconoir](https://iconoir.com/) - Open-source library with 1300+ unique SVG icons, designed on a 24x24 pixels grid. No premium icons, no email sign-up, no newsletters.
-- [Icons download](https://icons.download/) - The icons download library is free universal open-source icons with 16 styles.
+- [Icons download](https://icons.download/) - The icons download library is a free universal open-source icons library with 16 styles.
 - [Simple Icons](https://simpleicons.org/) - Open-source SVG icons library that provides popular brand icons.
-- [Monicon](https://monicon-docs.vercel.app/) - Universal icon library with over 200,000 icons including popular sets like Material Design, Feather, and Font Awesome.
+- [Monicon](https://monicon-docs.vercel.app/) - Universal icon library with over 200,000 icons, including popular sets like Material Design, Feather, and Font Awesome.
 - [Feather](https://feathericons.com) - Collection of beautifully simple open-source icons.
 - [Hugeicons](https://hugeicons.com/) - Beautiful icons for designers and developers.
 - [Svgl](https://svgl.app/) - The svgl library is a beautiful library with various SVG logos.
