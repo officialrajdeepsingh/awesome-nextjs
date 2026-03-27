@@ -79,6 +79,7 @@
 - [NextStepjs](https://nextstepjs.vercel.app) - A lightweight onboarding flow library for Next.js applications. Provides a simple way to create product tours.
 - [Stepperize](https://stepperize.vercel.app/) - The Stepperize library enables you to create step-by-step workflows in your applications.
 - [Sidemail](https://sidemail.io/docs/send-emails-with-nodejs/) - Email API + Node.js SDK for transactional email sending and management.
+- [Pushduck](https://github.com/abhay-ramesh/pushduck) - Type-safe S3 file upload library for Next.js with presigned URLs, React hooks, and support for AWS S3, Cloudflare R2, DigitalOcean Spaces, and MinIO.
 
 ## SEO
 
