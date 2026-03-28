@@ -142,6 +142,7 @@
 - [Next Forge](https://www.next-forge.com) - A ready-to-use, production-grade Turborepo template for Next.js applications.
 - [TurboStarter](https://turbostarter.dev) - Web (Next.js), mobile (Expo) and browser extension (WXT) starter kit.
 - [Next.js Web3 Template](https://github.com/abaker42/crypto-shelfy-template) - Next.js TypeScript template with wallet integration + token gated pages.
+- [ai-vertical-saas-gen](https://github.com/kurtnebiev-elvis4/ai-vertical-saas-gen) - Generate a complete vertical SaaS application for any industry from a single command using Next.js, Supabase, and Tailwind CSS.
 
 ## Headless CMS
 
@@ -358,7 +359,7 @@
 
 ## VS Code Extensions
 
-- [Next.Nav](https://marketplace.visualstudio.com/items?itemName=NextNav.NextNav) - Using the VS Code extension, navigate and create routes easily in your Next.js application.
+- [Next.Nav](https://marketplace.visualstudio.com/items?itemName=NextNav.NextNav) - Using the VS Code extension, navigate and create routes easily in your Next.js application.
 - [Next.js snippets](https://marketplace.visualstudio.com/items?itemName=PulkitGangwar.Next.js-snippets) - Ready-made snippets for Next.js.
 - [Front Matter CMS](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-front-matter) - VS Code extension that provides power, flexibility, and control to work with Markdown.
 - [React and Next.js Snippets](https://marketplace.visualstudio.com/items?itemName=AvneeshAgarwal.react-Next.js-snippets) - A VSCode extension packed with the latest React and Next.js snippets.
