@@ -296,9 +296,8 @@
 - [Phosphor Icons](https://github.com/phosphor-icons) - Versatile icon family designed for everyone.
 - [Obra Icons](https://icons.obra.studio) - The Obra icons are a simple, consistent set of icons, perfect for user interfaces.
 - [Shadcn Icons](https://www.shadcn.io/icons) - React Icons for shadcn/ui.
-- [Remix Icon](https://remixicon.com) - Remix Icon is an open-source library of high-quality, neutral-style system symbols designed specifically for designers and developers.
+- [Remix Icon](https://remixicon.com) - Open-source library of high-quality, neutral-style system symbols designed specifically for designers and developers.
 - [theSVG](https://www.thesvg.org) - Free brand SVG icons for developers, designers, and teams. Use them in any project, no attribution required.
-
 
 ## Static Search library
 
