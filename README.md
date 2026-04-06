@@ -89,7 +89,7 @@
 
 ## AI
 
-- [V0](https://v0.dev) - Generates copy-and-paste friendly React code based on shadcn UI and Tailwind CSS that people can use in their projects.
+- [V0](https://v0.dev) - Generates copy-and-paste-friendly React code based on shadcn UI and Tailwind CSS that people can use in their projects.
 - [Creatr](https://getcreatr.com) - AI-driven design tool that transforms your ideas into captivating designs.
 - [Lovable](https://lovable.dev) - AI tool that assists you in building front-end applications.
 - [HeroUI Chat](https://heroui.chat) - Hero UI chat is an AI tool that easily transforms your ideas into beautiful apps.
@@ -116,7 +116,7 @@
 - [Markdoc](https://markdoc.dev/) - Powerful, flexible, Markdown-based authoring framework.
 - [Outstatic](https://outstatic.com) - Static site CMS built with Next.js that works with both page and app routers.
 - [Content layer](https://www.npmjs.com/package/contentlayer) - The content layer works with Next.js and markdown and helps build the blog application.
-- [Fumadocs](https://fumadocs.vercel.app/) - The Fumadocs is a powerful framework for building documentation sites in Next.js using the power of Next.js App Router and React Component.
+- [Fumadocs](https://fumadocs.vercel.app/) - Fumadocs is a powerful framework for building documentation sites in Next.js using the power of Next.js App Router and React Component.
 - [MDXTS](https://www.mdxts.dev) - The MDXTS is a content & documentation SDK for React and Next.js. It helps to build a documentation website quickly and efficiently.
 - [Mintlify](https://mintlify.com) - Next.js-based platform for documentation sites. Beautiful out of the box, easy to maintain, and built to convert users.
 - [Docusaurus](https://docusaurus.io/) - A tool that enables teams and individuals to easily publish documentation websites.
@@ -248,7 +248,7 @@
 - [Magic UI](https://magicui.design) - Library for engineers offering 50+ free and open-source animated components built with React, TypeScript, Tailwind CSS, and Framer Motion.
 - [Eldora UI](https://eldoraui.site/) - Open-source collection of animated components made with React, TypeScript, Tailwind CSS, and Framer Motion; fully customizable.
 - [Lang UI](https://www.langui.dev/) - Beautifully crafted Tailwind components for your GPT projects.
-- [Draft UI](https://draft-ui.com/) - Collection of simply designed React components focused on making web accessibility as easy as copy and paste.
+- [Draft UI](https://draft-ui.com/) - Collection of designed React components focused on making web accessibility as easy as copy and paste.
 - [Origin UI](https://originui.com/) - Comprehensive collection of copy-and-paste components designed for quickly building user interfaces for applications.
 - [Kokonut UI](https://kokonutui.com/) - Modern collection of interactive and customizable UI components that pairs well with Shadcn UI.
 - [FarmUI](https://www.farmui.com) - Free, open-source library of responsive UI components and website templates with modern design.
