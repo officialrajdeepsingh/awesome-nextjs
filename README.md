@@ -141,7 +141,7 @@
 - [Kirimase](https://kirimase.dev) - Command-line tool (CLI) for building full-stack Next.js projects.
 - [Blitzjs](https://blitzjs.com) - Fullstack Toolkit for Next.js.
 - [Next Forge](https://www.next-forge.com) - A ready-to-use, production-grade Turborepo template for Next.js applications.
-- [TurboStarter](https://turbostarter.dev) - Web (Next.js), mobile (Expo) and browser extension (WXT) starter kit.
+- [TurboStarter](https://turbostarter.dev) - Web (Next.js), mobile (Expo), and browser extension (WXT) starter kit.
 - [Next.js Web3 Template](https://github.com/abaker42/crypto-shelfy-template) - Next.js TypeScript template with wallet integration + token gated pages.
 
 ## Headless CMS
@@ -153,7 +153,7 @@
 - [Netlify CMS](https://github.com/decaporg/decap-cms) - Decap CMS(Netlify CMS) work with all type of static site generators. It permits users to edit, update, and delete content on any site built with a static generator. You can use Decap CMS without any technical knowledge.
 - [Forestry](https://forestry.io/) - Headless CMS that is easy to customize, configure, and integrate with all types of static site generators.
 - [Craft CMS](https://craftcms.com/) - Flexible, user-friendly CMS for creating the web.
-- [Payload CMS](https://payloadcms.com) - Build a modern backend admin UI with payload CMS. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
+- [Payload CMS](https://payloadcms.com) - Build a modern backend admin UI with Payload CMS. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [Pages CMS](https://pagescms.org) - A user-friendly and no-hassle CMS for static site generators.
 - [Sitepins](https://sitepins.com/) - A content management system (CMS) for static site generators makes it easier to manage websites built with tools like Astro, Next.js, and Hugo.
 - [Alinea CMS](https://alineacms.com) - Git-based, open-source headless CMS for Next.js that keeps content fully typed in your repository.
@@ -204,8 +204,8 @@
 ## Bundler
 
 - [esbuild](https://github.com/evanw/esbuild) - Open-source JavaScript bundler and minifier that is extremely fast and lightweight.
-- [Rollupjs](https://rollupjs.org) - The rollup.js is an open-source JavaScript bundler.
-- [Tsup](https://github.com/egoist/tsup) - The tsup is the simplest and fastest way to bundle your TypeScript project with no configuration need.
+- [Rollupjs](https://rollupjs.org) - Rollup.js is an open-source JavaScript bundler.
+- [Tsup](https://github.com/egoist/tsup) - tsup is the simplest and fastest way to bundle your TypeScript project with no configuration needed.
 
 ## Cache Handler
 
@@ -217,7 +217,7 @@
 - [Redux](https://redux.js.org/) - Open-source JavaScript library for state management, commonly used with React or Angular to build user interfaces.
 - [Recoil](https://recoiljs.org/) - State management library for React built by Meta.
 - [Jotai](https://jotai.org/) - Primitive and flexible state management library for React.
-- [React context](https://react.dev/learn/passing-data-deeply-with-context) - React.createContext() is a React API allowing you to pass or share between React components.
+- [React context](https://react.dev/learn/passing-data-deeply-with-context) - React.createContext() is a React API allowing you to pass or share data between React components.
 - [NUQS](https://nuqs.47ng.com) - Type-safe search params state manager for Next.js.
 - [State-in-url](https://github.com/asmyshlyaev177/state-in-url) - Share any complex state between unrelated components, sync it to the URL, TS friendly.
 - [useS](https://use-s-react.christbm.dev) - The useS is a modern React hook for efficient local and global state management, offering clean, immutable, and scalable logic with no boilerplate.
@@ -255,7 +255,7 @@
 - [Justd](https://github.com/irsyadadl/justd) - Open-source React component UI library built on React Aria Components and Tailwind CSS; easy to customize and drop into projects.
 - [Reshaped](https://reshaped.so) - UI library with more than 45 components focusing on accessibility, component composition, and developer experience.
 - [9UI](https://www.9ui.dev) - Collection of beautiful, customizable components built with Base UI and Tailwind CSS.
-- [Hero UI](https://www.heroui.com) - Beautiful, fast and modern React UI library for building accessible and customizable web applications.
+- [Hero UI](https://www.heroui.com) - Beautiful, fast, and modern React UI library for building accessible and customizable web applications.
 - [Page UI](https://pageui.shipixen.com) - Set of landing page components and templates ready to copy and paste into your codebase—made for React and built on top of Tailwind CSS.
 - [Kibo UI](https://www.kibo-ui.com) - Customised registry of composable, accessible, and open-source components crafted for use with shadcn ui.
 - [Fancy Components](https://www.fancycomponents.dev) - The Fancy Components is a collection of fun and quirky, ready-to-use components and microinteractions, and it's free and open source.
@@ -280,7 +280,7 @@
 - [React icons](https://react-icons.github.io/react-icons/) - Use the popular SVG icons in your React projects easily with react-icons.
 - [MUI Icons](https://mui.com/material-ui/material-icons/) - Material icons are ready to use with React, officially designed and maintained by the MUI team.
 - [Icon Buddy](https://iconbuddy.app/) - Download, customize, edit, and personalize from over 180k open-source icons.
-- [Flowbite Icon](https://flowbite.com/icons/) - Flowbite Icons is a 487+ free and open-source SVG icon library. it is compatible with Flowbite and Tailwind CSS based on solid and outline styles with React (JSX) and Figma support.
+- [Flowbite Icon](https://flowbite.com/icons/) - Flowbite Icons is a 487+ free and open-source SVG icon library. It is compatible with Flowbite and Tailwind CSS, based on solid and outline styles with React (JSX) and Figma support.
 - [Hero Icons](https://heroicons.com/) - Beautiful hand-crafted SVG icons by the makers of Tailwind CSS.
 - [Lucide](https://lucide.dev/) - Beautiful & consistent icons Made by the community.
 - [Eva Icons](https://akveo.github.io/eva-icons) - Pack of over 480 beautifully crafted open-source icons for common use.
@@ -305,7 +305,7 @@
 - [Flex Search](https://github.com/nextapps-de/flexsearch) - Next-Generation full-text search library for Browser and Node.js.
 - [Orama](https://docs.oramasearch.com/) - Powerful full-text search engine that works both on client and server.
 - [Algolia](https://www.algolia.com) - Enable search infrastructure with real-time results for websites and mobile applications.
-- [Meilisearch](https://www.meilisearch.com) - The Meilisearch is a lightning-fast search API that seamlessly integrates with any framework, website, and workflow.
+- [Meilisearch](https://www.meilisearch.com) - Meilisearch is a lightning-fast search API that seamlessly integrates with any framework, website, and workflow.
 
 ## Ready-Made Reactjs Hooks
 
@@ -332,7 +332,7 @@
 - [Tailwind UI kit](https://tailwinduikit.com/) - Extensive list of inbuilt components; free plan offers 250 components, paid plan unlocks all templates.
 - [Tailwind kit](https://www.tailwind-kit.com/) - Access to over 250 free Tailwind CSS-based components.
 - [Wickedblocks](https://wickedblocks.dev/) - Free set of 120 fully responsive Tailwind CSS components ready to copy and paste into projects.
-- [Tailus](https://tailus.io/) - UI components and templates built on Tailwind CSS offering a rich and modern experience.
+- [Tailus](https://tailus.io/) - UI components and templates built on Tailwind CSS, offering a rich and modern experience.
 - [Tailgrids](https://tailgrids.com/) - Variety of 500+ components, blocks, sections, and templates built on Tailwind CSS.
 - [Kutty](https://kutty.netlify.app/) - Reusable Tailwind CSS components with Alpine.js-powered interactions.
 - [Windmill UI](https://windmillui.com/) - Free React UI component library designed with Tailwind CSS.
@@ -367,10 +367,10 @@
 
 - [Gimli](https://gimli.app/) - Chrome extension offering a visual tool for front-end developers to build with Tailwind CSS.
 - [Next.js Utilities Extension](https://chrome.google.com/webstore/detail/Next.js-utilities-extensio/ffcogmoganomoabikgmcmckdgojnpldo) - Chrome extension that shows the size of Next.js static data without requiring additional setup.
-- [GitHub Web IDE](https://chromewebstore.google.com/detail/github-web-ide/adjiklnjodbiaioggfpbpkhbfcnhgkfe) - Open Any GitHub repositories in online web (cloud) IDE like VS Code, GitHub Dev, Code Sandbox, Repl.it, Gitpod, etc.
-- [Next Network](https://chromewebstore.google.com/detail/next-network/jfdfcgpbpbbemkmdffgliagfoggdjmmc) - Devtools extension that allows to monitor server-side requests being sent by the local Next.js application.
+- [GitHub Web IDE](https://chromewebstore.google.com/detail/github-web-ide/adjiklnjodbiaioggfpbpkhbfcnhgkfe) - Open any GitHub repositories in an online web (cloud) IDE like VS Code, GitHub Dev, Code Sandbox, Repl.it, Gitpod, etc.
+- [Next Network](https://chromewebstore.google.com/detail/next-network/jfdfcgpbpbbemkmdffgliagfoggdjmmc) - Devtools extension that allows monitoring server-side requests being sent by the local Next.js application.
 
 ## Utility (Others)
 
-- [Demo posts for markdown](https://github.com/frontendweb3/Demo-markdown-posts) - Demo markdown posts are used to design your new blog base template. You do not write markdown demo posts. You can use demo markdown posts with any static site generator which supports markdown. for example, Next.js, GatsBy, Lume, Fresh, etc. Demo markdown posts are written with Lorem Ipsum. I can use bold, italic, code block, inline code, links, images, and quotes in markdown posts.
+- [Demo posts for markdown](https://github.com/frontendweb3/Demo-markdown-posts) - Demo markdown posts are used to design your new blog base template. You do not write markdown demo posts. You can use demo markdown posts with any static site generator that supports markdown. for example, Next.js, Gatsby, Lume, Fresh, etc. Demo markdown posts are written with Lorem Ipsum. I can use bold, italic, code block, inline code, links, images, and quotes in markdown posts.
 - [Jam Stack](https://jamstack.org) - A list of resources related to CMS and site generators across the programming world.
