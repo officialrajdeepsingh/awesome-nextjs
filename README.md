@@ -176,7 +176,7 @@
 - [Stytch](https://stytch.com) - Enterprise-ready authentication and authorization platform.
 - [Auth0](https://auth0.com/) - Built the secure access for everyone with Auth0.
 - [Logto](https://logto.io/) - Open-source Auth0 alternative designed for modern apps and SaaS products.
-- [ORY](https://www.ory.sh/) - The Ory is an API-first identity management solution for secure, global, and GDPR-compliant applications.
+- [ORY](https://www.ory.sh/) - Ory is an API-first identity management solution for secure, global, and GDPR-compliant applications.
 - [Zitadel](https://zitadel.com) - Identity management simplified for developers; serverless and open source, ready when you are.
 - [SuperTokens](https://supertokens.com) - Open-source user authentication solution that lets you move quickly while maintaining control at a reasonable price.
 - [Okta](https://www.okta.com/) - Okta's Identity Clouds provide secure access and authentication, placing identity at the core of business security and growth.
