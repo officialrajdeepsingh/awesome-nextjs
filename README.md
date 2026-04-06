@@ -2,7 +2,7 @@
 
 > A carefully selected list of the best resources available for the Next.js community.
 
-[Next.js](https://Next.js.org/) is an open-source framework for building high-quality small and large-scale web applications using Reactjs with modern tools and technology. To stay updated, follow the GitHub Repository and give our repository a star. This will help others discover it, encourage more developers to contribute, and build a solid list. Also, we encourage you to share our repository on your social media platforms, like X (previously known as Twitter).
+[Next.js](https://Next.js.org/) is an open-source framework for building high-quality small and large-scale web applications using Reactjs with modern tools and technology. To stay updated, follow the GitHub Repository and give our repository a star. This will help others discover it, encourage more developers to contribute, and build a solid list. Also, we encourage you to share our repository on your social media platforms, such as X (formerly Twitter).
 
 <!-- omit in toc -->
 
