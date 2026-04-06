@@ -137,7 +137,7 @@
 - [Create t3-app](https://create.t3.gg/) - Build the full-stack application with TypeScript, Prisma, tRPC, NextAuth, Tailwind CSS, and Next.js app.
 - [Next.js Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - Start new projects with support for App Router and Page Router, Tailwind CSS and TypeScript, and more.
 - [Superplate](https://github.com/pankod/superplate) - Well-structured, production-ready starter with TypeScript, popular UI kits, and 30+ plugins.
-- [Next.js + Tailwind CSS + TypeScript Starter and Boilerplate](https://github.com/theodorusclarence/ts-Next.js-tailwind-starter) - Combination of Next.js, Tailwind CSS, and TypeScript.
+- [Next.js + Tailwind CSS + TypeScript Starter and Boilerplate](https://github.com/theodorusclarence/ts-Next.js-tailwind-starter) - A combination of Next.js, Tailwind CSS, and TypeScript.
 - [Kirimase](https://kirimase.dev) - Command-line tool (CLI) for building full-stack Next.js projects.
 - [Blitzjs](https://blitzjs.com) - Fullstack Toolkit for Next.js.
 - [Next Forge](https://www.next-forge.com) - A ready-to-use, production-grade Turborepo template for Next.js applications.
