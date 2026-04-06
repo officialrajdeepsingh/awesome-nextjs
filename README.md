@@ -298,6 +298,7 @@
 - [Shadcn Icons](https://www.shadcn.io/icons) - React Icons for shadcn/ui.
 - [Remix Icon](https://remixicon.com) - Open-source library of high-quality, neutral-style system symbols designed specifically for designers and developers.
 - [theSVG](https://www.thesvg.org) - Free brand SVG icons for developers, designers, and teams. Use them in any project, no attribution required.
+- [Developer icons](https://github.com/xandemon/developer-icons) - A collection of well-optimized SVG tech logos for developers and designers—customizable, scalable, and free.
 
 ## Static Search library
 
