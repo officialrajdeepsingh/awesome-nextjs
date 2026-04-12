@@ -94,6 +94,7 @@
 - [Lovable](https://lovable.dev) - AI tool that assists you in building front-end applications.
 - [HeroUI Chat](https://heroui.chat) - Hero UI chat is an AI tool that easily transforms your ideas into beautiful apps.
 - [Bolt.new](https://bolt.new) - AI tool that prompts, runs, edits, and deploys full-stack web and mobile apps.
+- [SammaPix](https://www.sammapix.com) - Privacy-first image toolkit with 27 AI-powered browser-based tools (compress, resize, convert, AI background removal, AI rename). Built with Next.js 14 App Router, Canvas API, WebAssembly, and Web Workers. All processing runs client-side.
 
 ## Newsletters
 
