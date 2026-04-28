@@ -66,6 +66,7 @@
 - [React tweet](https://github.com/vercel/react-tweet) - Embed tweets in your React application.
 
 ## Tools
+- [30tools](https://github.com/SH20RAJ/30tools) - 660+ free browser-based online tools (PDF, image, text, developer, SEO, converters) built with Next.js App Router. All processing runs client-side. ([Live](https://30tools.com))
 
 - [Next auth](https://www.npmjs.com/package/next-auth) - Authorization library tailored for Next.js apps.
 - [Next PWA](https://www.npmjs.com/package/next-pwa) - Adds Progressive Web App capabilities to Next.js projects.
