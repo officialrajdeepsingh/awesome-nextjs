@@ -116,7 +116,7 @@
 - [Markdoc](https://markdoc.dev/) - Powerful, flexible, Markdown-based authoring framework.
 - [Outstatic](https://outstatic.com) - Static site CMS built with Next.js that works with both page and app routers.
 - [Content layer](https://www.npmjs.com/package/contentlayer) - The content layer works with Next.js and markdown and helps build the blog application.
-- [Fumadocs](https://fumadocs.vercel.app/) - Fumadocs is a powerful framework for building documentation sites in Next.js using the power of Next.js App Router and React Component.
+- [Fumadocs](https://fumadocs.vercel.app/) - A powerful framework for building documentation sites in Next.js using the power of Next.js App Router and React Component.
 - [MDXTS](https://www.mdxts.dev) - The MDXTS is a content & documentation SDK for React and Next.js. It helps to build a documentation website quickly and efficiently.
 - [Mintlify](https://mintlify.com) - Next.js-based platform for documentation sites. Beautiful out of the box, easy to maintain, and built to convert users.
 - [Docusaurus](https://docusaurus.io/) - A tool that enables teams and individuals to easily publish documentation websites.
@@ -176,7 +176,7 @@
 - [Stytch](https://stytch.com) - Enterprise-ready authentication and authorization platform.
 - [Auth0](https://auth0.com/) - Built the secure access for everyone with Auth0.
 - [Logto](https://logto.io/) - Open-source Auth0 alternative designed for modern apps and SaaS products.
-- [ORY](https://www.ory.sh/) - Ory is an API-first identity management solution for secure, global, and GDPR-compliant applications.
+- [ORY](https://www.ory.sh/) - An API-first identity management solution for secure, global, and GDPR-compliant applications.
 - [Zitadel](https://zitadel.com) - Identity management simplified for developers; serverless and open source, ready when you are.
 - [SuperTokens](https://supertokens.com) - Open-source user authentication solution that lets you move quickly while maintaining control at a reasonable price.
 - [Okta](https://www.okta.com/) - Okta's Identity Clouds provide secure access and authentication, placing identity at the core of business security and growth.
@@ -205,7 +205,7 @@
 
 - [esbuild](https://github.com/evanw/esbuild) - Open-source JavaScript bundler and minifier that is extremely fast and lightweight.
 - [Rollupjs](https://rollupjs.org) - Rollup.js is an open-source JavaScript bundler.
-- [Tsup](https://github.com/egoist/tsup) - tsup is the simplest and fastest way to bundle your TypeScript project with no configuration needed.
+- [Tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript project with no configuration needed.
 
 ## Cache Handler
 
@@ -307,7 +307,7 @@
 - [Flex Search](https://github.com/nextapps-de/flexsearch) - Next-Generation full-text search library for Browser and Node.js.
 - [Orama](https://docs.oramasearch.com/) - Powerful full-text search engine that works both on client and server.
 - [Algolia](https://www.algolia.com) - Enable search infrastructure with real-time results for websites and mobile applications.
-- [Meilisearch](https://www.meilisearch.com) - Meilisearch is a lightning-fast search API that seamlessly integrates with any framework, website, and workflow.
+- [Meilisearch](https://www.meilisearch.com) - A lightning-fast search API that seamlessly integrates with any framework, website, and workflow.
 
 ## Ready-Made Reactjs Hooks
 
