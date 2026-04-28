@@ -269,6 +269,7 @@
 - [Shadcn/UI theme generator](https://tinte.railly.dev/shadcn) - Easily create and customize beautiful themes using shadcn/ui.
 - [UI Colorful](https://uicolorful.com) - Shadcn UI and Tailwind CSS color theme generator.
 - [Components.work](https://components.work) - Next JS Components built with Tailwind, TypeScript, brijr/craft, shadcn/ui, and more.
+- [Shadcn Space](https://shadcnspace.com/) - A collection of beautifully designed, accessible, and composable free Shadcn UI blocks, components, and templates for your React/Next.js apps.
 
 ## Animation
 
