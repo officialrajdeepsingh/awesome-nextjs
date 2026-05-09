@@ -80,6 +80,7 @@
 - [Stepperize](https://stepperize.vercel.app/) - The Stepperize library enables you to create step-by-step workflows in your applications.
 - [Sidemail](https://sidemail.io/docs/send-emails-with-nodejs/) - Email API + Node.js SDK for transactional email sending and management.
 - [Pushduck](https://github.com/abhay-ramesh/pushduck) - Type-safe S3 file upload library for Next.js with presigned URLs, React hooks, and support for AWS S3, Cloudflare R2, DigitalOcean Spaces, and MinIO.
+- [fluidity-ts](https://github.com/Fluidiety/fluidity-ts) - SSR-safe responsive toolkit with typed breakpoints, fluid typography, and container queries for Next.js.
 
 ## SEO
 
