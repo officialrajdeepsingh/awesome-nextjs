@@ -261,6 +261,7 @@
 - [Kibo UI](https://www.kibo-ui.com) - Customised registry of composable, accessible, and open-source components crafted for use with shadcn ui.
 - [Fancy Components](https://www.fancycomponents.dev) - The Fancy Components is a collection of fun and quirky, ready-to-use components and microinteractions, and it's free and open source.
 - [Liftkit](https://www.chainlift.io/liftkit) - The LiftKit UI is a framework designed for perfectionists.
+- [Billing SDK](https://billingsdk.com) - Type-safe billing and subscription components (pricing tables, usage meters, plan upgrade flows) for React, built with TypeScript, Tailwind CSS, and shadcn/ui.
 
 ## Shadcn UI
 
