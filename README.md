@@ -144,6 +144,7 @@
 - [Next Forge](https://www.next-forge.com) - A ready-to-use, production-grade Turborepo template for Next.js applications.
 - [TurboStarter](https://turbostarter.dev) - Web (Next.js), mobile (Expo), and browser extension (WXT) starter kit.
 - [Next.js Web3 Template](https://github.com/abaker42/crypto-shelfy-template) - Next.js TypeScript template with wallet integration + token gated pages.
+- [Neon Auth Next.js Template](https://github.com/neondatabase/neon-auth-nextjs-template) - Starter template for Next.js with Neon Auth, managed authentication that syncs users directly into your Neon Postgres database.
 
 ## Headless CMS
 
@@ -166,6 +167,7 @@
 - [PlanetScale](https://planetscale.com/) - MySQL platform built for scale.
 - [MongoDB](https://www.mongodb.com/) - Document database that helps build small and large platforms.
 - [Nhost](https://nhost.io/) - Open-source backend and development platform for building and scaling web and mobile apps.
+- [Neon](https://neon.com/) - Serverless Postgres with autoscaling, database branching, and scale-to-zero.
 
 ## Authentication and User Management
 
@@ -185,6 +187,7 @@
 - [Better Auth](https://www.better-auth.com) - Framework-agnostic authentication and authorization framework for TypeScript.
 - [Permit.io](https://www.permit.io) - Authorization as a service solution for RBAC, ABAC, and ReBAC implementation.
 - [Stack Auth](https://stack-auth.com) - Open-source suite of tools for authentication and user management that you can implement in minutes.
+- [Neon Auth](https://neon.com/docs/neon-auth/overview) - Managed authentication that syncs users directly into your Neon Postgres database; built on Better Auth.
 - [Scalekit](https://scalekit.com) - Add enterprise SSO (SAML, OIDC) and SCIM to your Next.js app without replacing your existing auth setup. Works with Firebase, Auth0, and Cognito without rewrites.
 - [FusionAuth](https://fusionauth.io) - Modern, self-hosted Customer Identity and Access Management (CIAM) solution with a hybrid, single-tenant deployment, allowing you to develop and test anywhere.
 
