@@ -167,7 +167,7 @@
 - [PlanetScale](https://planetscale.com/) - MySQL platform built for scale.
 - [MongoDB](https://www.mongodb.com/) - Document database that helps build small and large platforms.
 - [Nhost](https://nhost.io/) - Open-source backend and development platform for building and scaling web and mobile apps.
-- [Neon](https://neon.com/) - Serverless Postgres with autoscaling, database branching, and scale-to-zero.
+- [Neon Postgres](https://neon.com/) - Serverless Postgres with autoscaling, database branching, and scale-to-zero.
 
 ## Authentication and User Management
 
