@@ -306,6 +306,7 @@
 - [Remix Icon](https://remixicon.com) - Open-source library of high-quality, neutral-style system symbols designed specifically for designers and developers.
 - [theSVG](https://www.thesvg.org) - Free brand SVG icons for developers, designers, and teams. Use them in any project, no attribution required.
 - [Developer icons](https://github.com/xandemon/developer-icons) - A collection of well-optimized SVG tech logos for developers and designers—customizable, scalable, and free.
+- [Logos](https://logos.lndev.me) - Discover 14,790 free SVG logos for apps, dev tools, and tech brands. Easily search, filter by category, and download or copy with a single click.
 
 ## Static Search library
 
