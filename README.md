@@ -227,6 +227,7 @@
 - [NUQS](https://nuqs.47ng.com) - Type-safe search params state manager for Next.js.
 - [State-in-url](https://github.com/asmyshlyaev177/state-in-url) - Share any complex state between unrelated components, sync it to the URL, TS friendly.
 - [useS](https://use-s-react.christbm.dev) - The useS is a modern React hook for efficient local and global state management, offering clean, immutable, and scalable logic with no boilerplate.
+- [@plitzi/nexus](https://plitzi.github.io/plitzi-workspace/nexus) - A tiny, type-safe React store built on `useSyncExternalStore`.
 
 ## Analytics
 
