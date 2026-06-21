@@ -150,6 +150,7 @@
 
 ## Headless CMS
 
+- [UnfoldCMS](https://unfoldcms.com/) - Self-hosted PHP/Laravel headless CMS with REST API v1 (42 endpoints), HMAC webhooks, and Sanctum auth. Works with Next.js out of the box. [GitHub](https://github.com/hpakdaman/unfoldcms) · [Demo](https://demo.unfoldcms.com)
 - [Tina CMS](https://tina.io/) - Open-source, Git-backed headless CMS for Next.js that works with Markdown, MDX, and JSON.
 - [WordPress](https://wordpress.org/) - Open-source CMS ready for production; the built-in REST API can power any website.
 - [Strapi](https://strapi.io/) - Powerful open-source Node.js-based CMS suitable for small to large-scale websites.
