@@ -280,6 +280,7 @@
 - [Components.work](https://components.work) - Next JS Components built with Tailwind, TypeScript, brijr/craft, shadcn/ui, and more.
 - [Shadcn Space](https://shadcnspace.com/) - A collection of beautifully designed, accessible, and composable free Shadcn UI blocks, components, and templates for your React/Next.js apps.
 - [Unlumen UI](https://ui.unlumen.com) - Animated, production-ready React components designed for Shadcn UI help you ship faster, learn from real code, and stand out.
+- [Payload Components](https://www.payload-components.xyz/) - MIT shadcn-compatible registry and CLI for installing wired Payload CMS blocks into Payload v3 and Next.js projects.
 
 ## Animation
 
