@@ -281,7 +281,7 @@
 - [Shadcn Space](https://shadcnspace.com/) - A collection of beautifully designed, accessible, and composable free Shadcn UI blocks, components, and templates for your React/Next.js apps.
 - [Unlumen UI](https://ui.unlumen.com) - Animated, production-ready React components designed for Shadcn UI help you ship faster, learn from real code, and stand out.
 - [Payload Components](https://www.payload-components.xyz/) - MIT shadcn-compatible registry and CLI for installing wired Payload CMS blocks into Payload v3 and Next.js projects.
-- [8StarLabs UI](https://ui.8starlabs.com) - A set of beautifully designed components for developers who want niche, high-utility UI elements that you won't find in standard libraries.
+- [8StarLabs UI](https://ui.8starlabs.com/?utm_source=awesome-nextjs&utm_medium=referral&utm_campaign=directory_listing) - A set of beautifully designed components for developers who want niche, high-utility UI elements that you won't find in standard libraries.
 
 ## Animation
 
