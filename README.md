@@ -131,6 +131,7 @@
 - [Minimalist](https://github.com/frontendweb3/minimalist) - Blog template built with Next.js and Tailwind CSS.
 - [Open Blog](https://github.com/frontendweb3/open-blog) - Blogging template built with Next.js, Tailwind CSS, and markdown.
 - [Blogify](https://github.com/frontendweb3/blogify) - Open-source Next.js blog template designed with Tailwind CSS.
+- [Free Next.js CV Template](https://github.com/cekuu35/free-nextjs-cv-template) - MIT-licensed personal portfolio and CV template built with Next.js 15, Tailwind CSS, and TypeScript; multi-page, single-file config, SSG-ready.
 
 ## Next.js boilerplate
 
