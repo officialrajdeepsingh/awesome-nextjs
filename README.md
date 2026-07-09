@@ -147,6 +147,7 @@
 - [Neon Auth Next.js Template](https://github.com/neondatabase/neon-auth-nextjs-template) - Starter template for Next.js with Neon Auth, managed authentication that syncs users directly into your Neon Postgres database.
 - [Turbo Start Sanity](https://github.com/robotostudio/turbo-start-sanity) - Sanity + Next.js page builder starter with visual editing, live preview, and a Turborepo monorepo structure.
 - [Next Agent Template](https://github.com/moisesvalero/next-agent-template) - Next.js starter template for AI-agent-assisted projects with TypeScript, Tailwind CSS, tests, SEO, and optional Supabase and Sanity setup.
+- [Kostra](https://kostra.io) - Next.js SaaS boilerplate with authentication, Stripe billing, credit-based usage billing, admin dashboard, and full TypeScript.
 
 ## Headless CMS
 
