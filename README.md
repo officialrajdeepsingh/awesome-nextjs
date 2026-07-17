@@ -174,7 +174,7 @@
 
 ## Authentication and User Management
 
-- [Clerk](https://clerk.com/Next.js-authentication) - Complete suite of embeddable UIs, flexible APIs, and admin dashboards to authenticate and manage users.
+- [Clerk](https://clerk.com/nextjs-authentication) - Full stack auth and user management for Next.js: prebuilt components, App Router support, and flexible APIs.
 - [Corbado](https://www.corbado.com) - Adds passkeys to your Next.js website or app in a few lines of code.
 - [Mojo Auth](https://mojoauth.com/) - Secure and delightful passwordless login solution.
 - [Auth kit](https://www.authkit.com/) - MojoAuth offers a passwordless authentication solution for any web and mobile applications.
