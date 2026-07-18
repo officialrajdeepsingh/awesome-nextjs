@@ -282,6 +282,7 @@
 - [Unlumen UI](https://ui.unlumen.com) - Animated, production-ready React components designed for Shadcn UI help you ship faster, learn from real code, and stand out.
 - [Payload Components](https://www.payload-components.xyz/) - MIT shadcn-compatible registry and CLI for installing wired Payload CMS blocks into Payload v3 and Next.js projects.
 - [8StarLabs UI](https://ui.8starlabs.com/?utm_source=awesome-nextjs&utm_medium=referral&utm_campaign=directory_listing) - A set of beautifully designed components for developers who want niche, high-utility UI elements that you won't find in standard libraries.
+- [LocalMode UI](https://localmode.ai) - Local-first shadcn registry of 107 AI UI primitives and 36 composed blocks (chat, RAG, transcription, CLIP search) installable via npx shadcn add. Runs models entirely in the browser, no servers or API keys.
 
 ## Animation
 
