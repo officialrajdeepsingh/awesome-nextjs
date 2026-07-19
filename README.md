@@ -1,4 +1,4 @@
-# Awesome Next.js[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Next.js[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
 
 > A carefully selected list of the best resources available for the Next.js community.
 
