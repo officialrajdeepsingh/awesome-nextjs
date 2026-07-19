@@ -2,21 +2,28 @@
 
 ## Please confirm that this pull request meets the following requirements:
 
-- [ ] I adhered to the contributing guidelines: <https://github.com/officialrajdeepsingh/awesome-nextjs/blob/main/CONTRIBUTING.md>.
-- [ ] I adhered to the CODE OF CONDUCT guidelines: <https://github.com/officialrajdeepsingh/awesome-nextjs/blob/main/CODE_OF_CONDUCT.md>.
+- [ ] I have read and followed the [contributing guidelines](https://github.com/officialrajdeepsingh/awesome-nextjs/blob/main/CONTRIBUTING.md).
+- [ ] I have read and followed the [Code of Conduct](https://github.com/officialrajdeepsingh/awesome-nextjs/blob/main/CODE_OF_CONDUCT.md).
+- [ ] My project is **not new or unreleased** — it is publicly available and actively maintained.
+- [ ] My project is related to **Next.js**, **shadcn/ui**, **Tailwind CSS**, or **React.js**.
+- [ ] My project has **at least 100 stars** on GitHub.
+- [ ] This is **not a promotional, spam, or paid/subscription-based project**.
+- [ ] I have added my item at the **end of the list**, not in the middle or top.
 
-## Provide URL (GitHub | GitLab | NPM | JSR | Website)
+## Project URL
 
-<!-- Insert link -->
+<!-- GitHub, GitLab, npm, JSR, or website URL -->
 
-## Provide GitHub | GitLab star
+## GitHub / GitLab Stars
 
-<!-- Adding github or GitLab stars to your current repository. -->
+<!-- Number of stars on your repository -->
 
-## Describe the pull request and what changes you made.
+## Description
 
-<!-- Please include a clear summary of what your changes are related to in your pull request. -->
+<!-- A clear summary of what your pull request adds or changes. -->
 
-## Issue number if exit
+## Issue Number (if applicable)
 
-<!-- Please note that we will close your PR without comment if you do not check the boxes above and provide all requested information. -->
+<!-- Link to the related issue, if any. -->
+
+<!-- Note: We will close your PR without comment if you do not check the boxes above and provide all requested information. -->

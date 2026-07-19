@@ -12,6 +12,7 @@ We follow the same guidelines used by [Awesome](https://github.com/sindresorhus/
 
 - New or unreleased projects
 - Promotional or spam links
+- Paid or subscription-based projects
 - Packages that are not actively maintained
 
 ### What we look for
