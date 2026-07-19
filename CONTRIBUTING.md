@@ -1,55 +1,67 @@
-# Welcome to GitHub docs contributing guide
+# Contributing to Awesome Next.js
 
-Thank you for investing your time in contributing to our project! Just to let you know, your contribution is reflected in the readme.
+Thank you for investing your time in contributing to our project! Your contributions help make this a great resource for the Next.js community.
 
-Read our [Code of Conduct](/CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
+Read our [Code of Conduct](./CODE_OF_CONDUCT.md) to keep our community approachable and respectful.
 
-## Contributor Guidelines
+## Guidelines
 
-We follow the same guidelines used by [Awesome](https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md). To add, update, or remove the item in our project.
+We follow the same guidelines used by [Awesome](https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md) for adding, updating, or removing items.
 
-### Do Not
+### What we do not accept
 
-- We do not accept any promotion links.
+- New or unreleased projects
+- Promotional or spam links
+- Packages that are not actively maintained
 
-### Do It
+### What we look for
 
-- We accept only those packages actively contributed by the maintainer or community.
+- Projects related to **Next.js**, **shadcn/ui**, **Tailwind CSS**, or **React.js**
+- At least **100 stars** on GitHub
+- Actively maintained packages and libraries
+- Tools and resources that provide genuine value to Next.js developers
+- Clear, concise descriptions
+- If your project is unique, you may still submit a PR for review
 
-## How to contribute
+## How to Contribute
 
-You start to contribute with the following syntax. Could you make sure you do not add any promotions or spam links?
+Use the following syntax when contributing. Ensure your submissions are relevant and not promotional.
 
-### Adding subcategory
+### Adding a Subcategory
 
-Your subcategory is not listed there, and you can create a subcategory yourself.
+If your subcategory is not listed, you can create one:
 
 ```markdown
-## Name of the subcategory
+## Subcategory Name
 ```
 
-### Adding item
+### Adding an Item
 
-Using the following syntax, you can add any npm package or library in the existing subcategory.
+Add any npm package, library, or tool to an existing subcategory:
 
 ```markdown
-- [title](link) - Basic introduction.
+- [title](link) - Short description.
 ```
 
-* Make sure your description is short and clearly related to the project.
-* Lastly, Add an item at the end of the list and do not add it to the middle or top of the list.
+Guidelines for items:
 
-## Make changes locally
+- Keep descriptions short and clearly related to the project.
+- Add items at the end of the list, not in the middle or top.
 
-1. Fork the repository and install the package using the node package manager (npm, yarn, or pnpm).
-2. Adding a new package, library, tool, and template name.
-3. You can explain the package, library, tool, and template you added; if Your package category does not exist, you can also create it.
-4. Lastly, run `pnpm format` and `pnpm lint` to format and fix the lint issue before applying the pull request.
+## Making Changes Locally
 
-## Commit your update
+1. Fork the repository.
+2. Install dependencies using your preferred package manager (npm, yarn, or pnpm).
+3. Add your new package, library, tool, or template under the appropriate category. Create a new category if needed.
+4. Run `pnpm format` and `pnpm lint` to format the code and fix any lint issues before submitting a pull request.
 
-Commit the changes once you are happy with them. Ensure that the document does not contain grammar mistakes and that your package name and link work properly.
+## Committing Your Changes
+
+Commit your changes once you are satisfied. Ensure:
+
+- The document is free of grammar mistakes.
+- The package name and link work correctly.
 
 ## Pull Request
 
-When you're finished with the changes, create a pull request called a PR. Your PR is merged!
+When you are finished, create a pull request (PR). Once reviewed, your PR will be merged.
