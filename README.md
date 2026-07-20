@@ -149,6 +149,7 @@
 - [Turbo Start Sanity](https://github.com/robotostudio/turbo-start-sanity) - Sanity + Next.js page builder starter with visual editing, live preview, and a Turborepo monorepo structure.
 - [Next Agent Template](https://github.com/moisesvalero/next-agent-template) - Next.js starter template for AI-agent-assisted projects with TypeScript, Tailwind CSS, tests, SEO, and optional Supabase and Sanity setup.
 - [Kostra](https://kostra.io) - Next.js SaaS boilerplate with authentication, Stripe billing, credit-based usage billing, admin dashboard, and full TypeScript.
+- [weckr-nextjs-starter](https://github.com/Ghiles3232/weckr-nextjs-starter) - Next.js AI SaaS starter with per user AI cost and margin tracking built in from the first request.
 
 ## Headless CMS
 
