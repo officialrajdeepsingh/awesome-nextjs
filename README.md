@@ -389,6 +389,7 @@
 - [Next.js Utilities Extension](https://chrome.google.com/webstore/detail/Next.js-utilities-extensio/ffcogmoganomoabikgmcmckdgojnpldo) - Chrome extension that shows the size of Next.js static data without requiring additional setup.
 - [GitHub Web IDE](https://chromewebstore.google.com/detail/github-web-ide/adjiklnjodbiaioggfpbpkhbfcnhgkfe) - Open any GitHub repositories in an online web (cloud) IDE like VS Code, GitHub Dev, Code Sandbox, Repl.it, Gitpod, etc.
 - [Next Network](https://chromewebstore.google.com/detail/next-network/jfdfcgpbpbbemkmdffgliagfoggdjmmc) - Devtools extension that allows monitoring server-side requests being sent by the local Next.js application.
+- [Poszo Next.js Security Headers Starter](https://github.com/poszothebuilder/poszo-nextjs-security-headers) - Dependency-free security headers starter and production verifier for Next.js deployments.
 
 ## Utility (Others)
 
