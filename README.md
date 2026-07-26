@@ -118,7 +118,7 @@
 - [Markdoc](https://markdoc.dev/) - Powerful, flexible, Markdown-based authoring framework.
 - [Outstatic](https://outstatic.com) - Static site CMS built with Next.js that works with both page and app routers.
 - [Content layer](https://www.npmjs.com/package/contentlayer) - The content layer works with Next.js and markdown and helps build the blog application.
-- [Fumadocs](https://fumadocs.vercel.app/) - A powerful framework for building documentation sites in Next.js using the power of Next.js App Router and React Component.
+- [Fumadocs](https://fumadocs.vercel.app/) - A powerful framework for building documentation sites in Next.js using the power of Next.js App Router and React components.
 - [MDXTS](https://www.mdxts.dev) - The MDXTS is a content & documentation SDK for React and Next.js. It helps to build a documentation website quickly and efficiently.
 - [Mintlify](https://mintlify.com) - Next.js-based platform for documentation sites. Beautiful out of the box, easy to maintain, and built to convert users.
 - [Docusaurus](https://docusaurus.io/) - A tool that enables teams and individuals to easily publish documentation websites.
@@ -201,7 +201,7 @@
 - [React Hook Form](https://react-hook-form.com) - The React Hook Form is a performant, flexible, and extensible library used for building forms.
 - [Conform](https://github.com/edmundhung/conform) - Type-safe form validation library with full support for server frameworks like Remix and Next.js.
 - [Formiz](https://formiz-react.com) - Build a React multi-step and complex validation form very easily with Formiz.
-- [TanStack Form](https://tanstack.com/form/latest) - Tan Stack Form is the ultimate solution for handling forms in web applications.
+- [TanStack Form](https://tanstack.com/form/latest) - TanStack Form is the ultimate solution for handling forms in web applications.
 - [Minform](https://minform.io) - Collect form data effortlessly without writing code, and it's free.
 
 ## Form Builder
@@ -268,7 +268,7 @@
 - [Hero UI](https://www.heroui.com) - Beautiful, fast, and modern React UI library for building accessible and customizable web applications.
 - [Page UI](https://pageui.shipixen.com) - Set of landing page components and templates ready to copy and paste into your codebase—made for React and built on top of Tailwind CSS.
 - [Kibo UI](https://www.kibo-ui.com) - Customised registry of composable, accessible, and open-source components crafted for use with shadcn ui.
-- [Fancy Components](https://www.fancycomponents.dev) - The Fancy Components is a collection of fun and quirky, ready-to-use components and microinteractions, and it's free and open source.
+- [Fancy Components](https://www.fancycomponents.dev) - Fancy Components is a collection of fun and quirky, ready-to-use components and microinteractions, and it's free and open source.
 - [Liftkit](https://www.chainlift.io/liftkit) - The LiftKit UI is a framework designed for perfectionists.
 - [Billing SDK](https://billingsdk.com) - Type-safe billing and subscription components (pricing tables, usage meters, plan upgrade flows) for React, built with TypeScript, Tailwind CSS, and shadcn/ui.
 
@@ -279,7 +279,7 @@
 - [Zippy Starter](https://zippystarter.com/tools/shadcn-ui-theme-generator) - Shadcn UI theme generator allows you to easily create custom themes from a single color, which you can then copy and paste into your applications.
 - [Shadcn/UI theme generator](https://tinte.railly.dev/shadcn) - Easily create and customize beautiful themes using shadcn/ui.
 - [UI Colorful](https://uicolorful.com) - Shadcn UI and Tailwind CSS color theme generator.
-- [Components.work](https://components.work) - Next JS Components built with Tailwind, TypeScript, brijr/craft, shadcn/ui, and more.
+- [Components.work](https://components.work) - Next.js Components built with Tailwind, TypeScript, brijr/craft, shadcn/ui, and more.
 - [Shadcn Space](https://shadcnspace.com/) - A collection of beautifully designed, accessible, and composable free Shadcn UI blocks, components, and templates for your React/Next.js apps.
 - [Unlumen UI](https://ui.unlumen.com) - Animated, production-ready React components designed for Shadcn UI help you ship faster, learn from real code, and stand out.
 - [Payload Components](https://www.payload-components.xyz/) - MIT shadcn-compatible registry and CLI for installing wired Payload CMS blocks into Payload v3 and Next.js projects.
@@ -289,7 +289,7 @@
 
 ## Animation
 
-- [Popply Library](https://www.popplylibrary.com) - Explore an animation, use it as you like, and enhance your tooltip with over 50+ available animation effects.
+- [Popply Library](https://www.popplylibrary.com) - Explore animations, use it as you like, and enhance your tooltip with over 50+ available animation effects.
 - [MotifyX](https://jatin-yadav05.github.io/MotifyX) - Enhance your designs with our curated selection of contemporary background patterns. Preview, customize, and apply with just a few clicks.
 
 ## Icons Library
