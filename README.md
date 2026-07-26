@@ -85,7 +85,7 @@
 
 ## SEO
 
-- [Next SEO](https://www.npmjs.com/package/next-seo) - Plugin that helps manage SEO in Next.js.
+- [Next SEO](https://www.npmjs.com/package/next-seo) - A plugin that helps manage SEO in Next.js.
 - [Next sitemap](https://www.npmjs.com/package/next-sitemap) - The next sitemap library helps you create a sitemap file in your Next.js application.
 - [Generate Metadata](https://github.com/ludicroushq/generate-metadata) - AI-powered metadata SDK/headless CMS for Next.js. Auto-generates SEO titles, descriptions, and OpenGraph/Twitter tags from your content.
 
@@ -94,12 +94,12 @@
 - [V0](https://v0.dev) - Generates copy-and-paste-friendly React code based on shadcn UI and Tailwind CSS that people can use in their projects.
 - [Creatr](https://getcreatr.com) - AI-driven design tool that transforms your ideas into captivating designs.
 - [Lovable](https://lovable.dev) - AI tool that assists you in building front-end applications.
-- [HeroUI Chat](https://heroui.chat) - Hero UI chat is an AI tool that easily transforms your ideas into beautiful apps.
-- [Bolt.new](https://bolt.new) - AI tool that prompts, runs, edits, and deploys full-stack web and mobile apps.
+- [HeroUI Chat](https://heroui.chat) - Hero UI Chat is an AI tool that easily transforms your ideas into beautiful apps.
+- [Bolt.new](https://bolt.new) - An AI tool that prompts, runs, edits, and deploys full-stack web and mobile apps.
 
 ## Newsletters
 
-- [Next.js Weekly](https://Next.jsweekly.com) - The Next.js weekly is the best newsletter, sharing articles, tools, and projects related to Next.js.
+- [Next.js Weekly](https://Next.jsweekly.com) - Next.js Weekly is the best newsletter, sharing articles, tools, and projects related to Next.js.
 - [This Week In React](https://thisweekinreact.com/) - Newsletter sharing the latest news related to the React ecosystem.
 - [React Digest](https://newsletter.reactdigest.net/) - A carefully curated weekly newsletter for React developers.
 - [JavaScript Weekly](http://javascriptweekly.com) - The JavaScript Weekly newsletter shares articles, news, and exciting projects related to JavaScript.
@@ -117,7 +117,7 @@
 - [Nextra](https://nextra.site/) - Simple, powerful, and flexible site generation framework to build blogs and documents with Next.js and MDX.
 - [Markdoc](https://markdoc.dev/) - Powerful, flexible, Markdown-based authoring framework.
 - [Outstatic](https://outstatic.com) - Static site CMS built with Next.js that works with both page and app routers.
-- [Content layer](https://www.npmjs.com/package/contentlayer) - The content layer works with Next.js and markdown and helps build the blog application.
+- [Content layer](https://www.npmjs.com/package/contentlayer) - The content layer works with Next.js and Markdown and helps build the blog application.
 - [Fumadocs](https://fumadocs.vercel.app/) - A powerful framework for building documentation sites in Next.js using the power of Next.js App Router and React components.
 - [MDXTS](https://www.mdxts.dev) - The MDXTS is a content & documentation SDK for React and Next.js. It helps to build a documentation website quickly and efficiently.
 - [Mintlify](https://mintlify.com) - Next.js-based platform for documentation sites. Beautiful out of the box, easy to maintain, and built to convert users.
@@ -130,7 +130,7 @@
 - [Portfolio Starter Kit](https://vercel.com/templates/next.js/portfolio-starter-kit) - Easily create a portfolio blog with Next.js and Markdown.
 - [Nextify](https://github.com/frontendweb3/nextify) - Pre-built template for building documentation sites with blogs using Next.js and Fumadocs.
 - [Minimalist](https://github.com/frontendweb3/minimalist) - Blog template built with Next.js and Tailwind CSS.
-- [Open Blog](https://github.com/frontendweb3/open-blog) - Blogging template built with Next.js, Tailwind CSS, and markdown.
+- [Open Blog](https://github.com/frontendweb3/open-blog) - Blogging template built with Next.js, Tailwind CSS, and Markdown.
 - [Blogify](https://github.com/frontendweb3/blogify) - Open-source Next.js blog template designed with Tailwind CSS.
 
 ## Next.js boilerplate
@@ -162,7 +162,7 @@
 - [Craft CMS](https://craftcms.com/) - Flexible, user-friendly CMS for creating the web.
 - [Payload CMS](https://payloadcms.com) - Build a modern backend admin UI with Payload CMS. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [Pages CMS](https://pagescms.org) - A user-friendly and no-hassle CMS for static site generators.
-- [Sitepins](https://sitepins.com/) - A content management system (CMS) for static site generators makes it easier to manage websites built with tools like Astro, Next.js, and Hugo.
+- [Sitepins](https://sitepins.com/) - A content management system (CMS) for static site generators that makes it easier to manage websites built with tools like Astro, Next.js, and Hugo.
 - [Alinea CMS](https://alineacms.com) - Git-based, open-source headless CMS for Next.js that keeps content fully typed in your repository.
 - [OneEntry](https://oneentry.cloud/) - Headless CMS + e-commerce backend with a JavaScript SDK for building Next.js apps (products, pages, orders, users, attributes).
 
@@ -176,7 +176,7 @@
 
 ## Authentication and User Management
 
-- [Clerk](https://clerk.com/nextjs-authentication) - Full stack auth and user management for Next.js: prebuilt components, App Router support, and flexible APIs.
+- [Clerk](https://clerk.com/nextjs-authentication) - Full-stack auth and user management for Next.js: prebuilt components, App Router support, and flexible APIs.
 - [Corbado](https://www.corbado.com) - Adds passkeys to your Next.js website or app in a few lines of code.
 - [Mojo Auth](https://mojoauth.com/) - Secure and delightful passwordless login solution.
 - [Auth kit](https://www.authkit.com/) - MojoAuth offers a passwordless authentication solution for any web and mobile applications.
@@ -228,7 +228,7 @@
 - [Jotai](https://jotai.org/) - Primitive and flexible state management library for React.
 - [React context](https://react.dev/learn/passing-data-deeply-with-context) - React.createContext() is a React API allowing you to pass or share data between React components.
 - [NUQS](https://nuqs.47ng.com) - Type-safe search params state manager for Next.js.
-- [State-in-url](https://github.com/asmyshlyaev177/state-in-url) - Share any complex state between unrelated components, sync it to the URL, TS friendly.
+- [State-in-url](https://github.com/asmyshlyaev177/state-in-url) - Share any complex state between unrelated components, sync it to the URL, TS-friendly.
 - [useS](https://use-s-react.christbm.dev) - The useS is a modern React hook for efficient local and global state management, offering clean, immutable, and scalable logic with no boilerplate.
 - [@plitzi/nexus](https://plitzi.github.io/plitzi-workspace/nexus) - A tiny, type-safe React store built on `useSyncExternalStore`.
 
@@ -329,7 +329,7 @@
 ## Ready-Made Reactjs Hooks
 
 - [usehooks ts](https://usehooks-ts.com) - React hook library, ready to use, written in TypeScript.
-- [Mantine Hooks](https://mantine.dev/getting-started) - Inbuilt, ready-made React hooks for handling state and UI management.
+- [Mantine Hooks](https://mantine.dev/getting-started) - Built-in, ready-made React hooks for handling state and UI management.
 - [usehooks](https://usehooks.com) - A collection of built-in modern, server-side React hooks.
 - [React Custom Hooks](https://github.com/sergeyleschev/react-custom-hooks) - Supercharge Your Projects with ready-made custom hooks.
 - [React use](https://github.com/streamich/react-use) - Collection of essential reactjs hooks used for any project.
