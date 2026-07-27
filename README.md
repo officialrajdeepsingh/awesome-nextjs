@@ -287,6 +287,7 @@
 - [LocalMode UI](https://localmode.ai) - Local-first shadcn registry of 107 AI UI primitives and 36 composed blocks (chat, RAG, transcription, CLIP search) installable via npx shadcn add. Runs models entirely in the browser, no servers or API keys.
 - [Bklit](https://bklit.com) - A component library built on top of shadcn/ui for creating charts and data visualizations.
 - [Canvas UI](https://canvasui.dev) - Canvas UI is an open source library of creative components drawn on canvas. Real HTML, rendered inside a canvas element, with WebGL effects running over it. Copy, paste, and ship.
+- [Shadcn Dashboard](https://shadcndashboard.dev/) - A production-ready shadcn dashboard kit with reusable UI blocks, components, and built-in AI prompts for React, Next.js, TypeScript, Tailwind CSS, and Supabase. Built on Base UI primitives for modern, scalable applications.
 
 ## Animation
 
