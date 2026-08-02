@@ -122,6 +122,7 @@
 - [MDXTS](https://www.mdxts.dev) - The MDXTS is a content & documentation SDK for React and Next.js. It helps to build a documentation website quickly and efficiently.
 - [Mintlify](https://mintlify.com) - Next.js-based platform for documentation sites. Beautiful out of the box, easy to maintain, and built to convert users.
 - [Docusaurus](https://docusaurus.io/) - A tool that enables teams and individuals to easily publish documentation websites.
+- [eziwiki](https://eziwiki.vercel.app/) - Documentation and wiki site generator with wiki links, backlinks and a graph view. Markdown is rendered at build time and exported as a static site.
 
 ## Next.js blog template
 
