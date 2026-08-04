@@ -288,6 +288,8 @@
 - [Bklit](https://bklit.com) - A component library built on top of shadcn/ui for creating charts and data visualizations.
 - [Canvas UI](https://canvasui.dev) - Canvas UI is an open source library of creative components drawn on canvas. Real HTML, rendered inside a canvas element, with WebGL effects running over it. Copy, paste, and ship.
 - [Shadcn Dashboard](https://shadcndashboard.dev/) - A production-ready shadcn dashboard kit with reusable UI blocks, components, and built-in AI prompts for React, Next.js, TypeScript, Tailwind CSS, and Supabase. Built on Base UI primitives for modern, scalable applications.
+- [Bklit](https://bklit.com) - Bklit UI is a component library built on top of shadcn/ui to help you build charts and data visualizations more easily.
+- [Lifeline](https://github.com/evilrabbit/lifeline) -  A timeline component for Next.js that shows milestones over time.
 
 ## Animation
 
