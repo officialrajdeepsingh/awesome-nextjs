@@ -67,6 +67,7 @@
 
 ## Tools
 
+- [Markdown Tools Online](https://markdowntoolsonline.com) - Free online Markdown toolkit built with Next.js 14. Live preview editor, PDF/Word/HTML export, and more.
 - [Next auth](https://www.npmjs.com/package/next-auth) - Authorization library tailored for Next.js apps.
 - [Next PWA](https://www.npmjs.com/package/next-pwa) - Adds Progressive Web App capabilities to Next.js projects.
 - [Next.js progress bar](https://www.npmjs.com/package/Next.js-progressbar) - Displays a loading indicator for Next.js route changes.
