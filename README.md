@@ -300,6 +300,7 @@
 - [React icons](https://react-icons.github.io/react-icons/) - Use the popular SVG icons in your React projects easily with react-icons.
 - [MUI Icons](https://mui.com/material-ui/material-icons/) - Material icons are ready to use with React, officially designed and maintained by the MUI team.
 - [Icon Buddy](https://iconbuddy.app/) - Download, customize, edit, and personalize from over 180k open-source icons.
+- [IconSearch](https://iconsearch.info/) - Search, compare, customize, and export 355,000+ open-source SVG icons and plugins and apps in many software.
 - [Flowbite Icon](https://flowbite.com/icons/) - Flowbite Icons is a 487+ free and open-source SVG icon library. It is compatible with Flowbite and Tailwind CSS, based on solid and outline styles with React (JSX) and Figma support.
 - [Hero Icons](https://heroicons.com/) - Beautiful hand-crafted SVG icons by the makers of Tailwind CSS.
 - [Lucide](https://lucide.dev/) - Beautiful & consistent icons Made by the community.
