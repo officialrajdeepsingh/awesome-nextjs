@@ -275,6 +275,7 @@ If you find this list useful, please consider [sponsoring](https://github.com/sp
 - [Fancy Components](https://www.fancycomponents.dev) - A collection of fun and quirky, ready-to-use components and microinteractions, and it's free and open source.
 - [Liftkit](https://www.chainlift.io/liftkit) - The LiftKit UI is a framework designed for perfectionists.
 - [Billing SDK](https://billingsdk.com) - Type-safe billing and subscription components (pricing tables, usage meters, plan upgrade flows) for React, built with TypeScript, Tailwind CSS, and shadcn/ui.
+- [Radian UI](https://radianui.com) - Accessible React component library built on Radix UI and Tailwind CSS, with CLI.
 
 ## Shadcn UI
 
