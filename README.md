@@ -90,6 +90,7 @@ If you find this list useful, please consider [sponsoring](https://github.com/sp
 - [Next SEO](https://www.npmjs.com/package/next-seo) - A plugin that helps manage SEO in Next.js.
 - [Next sitemap](https://www.npmjs.com/package/next-sitemap) - The next sitemap library helps you create a sitemap file in your Next.js application.
 - [Generate Metadata](https://github.com/ludicroushq/generate-metadata) - AI-powered metadata SDK/headless CMS for Next.js. Auto-generates SEO titles, descriptions, and OpenGraph/Twitter tags from your content.
+- [OmniSEO](https://omniseotools.com) - Fast, client-side social card previewer and Google SERP pixel ruler.
 
 ## AI
 
