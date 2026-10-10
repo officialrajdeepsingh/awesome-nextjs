@@ -380,6 +380,7 @@ If you find this list useful, please consider [sponsoring](https://github.com/sp
 - [@next/bundle-analyzer](https://www.npmjs.com/package/@next/bundle-analyzer) - Analyzer your Next.js bundle size using a Webpack bundle analyzer.
 - [Heroshot](https://github.com/omachala/heroshot) - Screenshot automation CLI for documentation. Define screenshots once in config, regenerate all with one command using Playwright. Includes a Next.js integration.
 - [cms-lab](https://github.com/i-afaqrashid/cms-lab) - CLI that checks headless CMS content against your Next.js routes and fails CI on broken routes, SEO gaps, and content drift.
+- [NextPerf](https://github.com/apps/nextperf) - Automated Next.js bundle regression detection and PR size reporting via Vercel webhooks.
 
 ## Error Handling
 
