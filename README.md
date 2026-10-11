@@ -113,6 +113,7 @@ If you find this list useful, please consider [sponsoring](https://github.com/sp
 - [Vercel](https://vercel.com) - Official cloud platform for Next.js.
 - [Netlify](https://netlify.com) - Platform to build, deploy, and host your front-end applications.
 - [Kinsta](https://kinsta.com) - Create and deploy web applications and databases in minutes.
+- [Prisma Compute](https://www.prisma.io/compute) - Hosts Next.js, Node.js and Bun apps next to Prisma Postgres, with 1M free requests per month.
 
 ## Documentation
 
@@ -178,6 +179,7 @@ If you find this list useful, please consider [sponsoring](https://github.com/sp
 - [MongoDB](https://www.mongodb.com/) - Document database that helps build small and large platforms.
 - [Nhost](https://nhost.io/) - Open-source backend and development platform for building and scaling web and mobile apps.
 - [Neon PostgreSQL](https://neon.com/) - Serverless PostgreSQL with autoscaling, database branching, and scale-to-zero.
+- [Prisma Postgres](https://www.prisma.io/postgres) - Managed PostgreSQL with a free plan (1.01 GB, 200k operations/month, up to 50 databases, no credit card).
 
 ## Authentication and User Management
 
