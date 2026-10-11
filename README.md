@@ -198,7 +198,7 @@ If you find this list useful, please consider [sponsoring](https://github.com/sp
 - [Permit.io](https://www.permit.io) - Authorization as a service solution for RBAC, ABAC, and ReBAC implementation.
 - [Stack Auth](https://stack-auth.com) - Open-source suite of tools for authentication and user management that you can implement in minutes.
 - [Neon Auth](https://neon.com/docs/neon-auth/overview) - Managed authentication that syncs users directly into your Neon PostgreSQL database; built on Better Auth.
-- [Scalekit](https://scalekit.com) - Add enterprise SSO (SAML, OIDC) and SCIM to your Next.js app without replacing your existing auth setup. Works with Firebase, Auth0, and Cognito without rewrites.
+- [Scalekit](https://scalekit.com) - Scalekit provides auth and actions on behalf of users, with 500+ connectors and 20,000+ tools.
 - [FusionAuth](https://fusionauth.io) - Modern, self-hosted Customer Identity and Access Management (CIAM) solution with a hybrid, single-tenant deployment, allowing you to develop and test anywhere.
 
 ## React Form
