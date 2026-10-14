@@ -299,6 +299,7 @@ If you find this list useful, please consider [sponsoring](https://github.com/sp
 - [Lifeline](https://github.com/evilrabbit/lifeline) - A timeline component for Next.js that shows milestones over time.
 - [React Bits](https://reactbits.dev) - React components for creative developers offer customizable animated elements and backgrounds that integrate seamlessly, enhancing your project's appeal.
 - [Flagcn](https://flagcn.dev/) - Accessible React flag component registry for shadcn ui.
+- [Tailwindadmin](https://tailwind-admin.com/) - Open-Source React Tailwind Admin Dashboard Template with Shadcn.
 
 ## Animation
 
