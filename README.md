@@ -279,6 +279,7 @@ If you find this list useful, please consider [sponsoring](https://github.com/sp
 - [Fancy Components](https://www.fancycomponents.dev) - A collection of fun and quirky, ready-to-use components and microinteractions, and it's free and open source.
 - [Liftkit](https://www.chainlift.io/liftkit) - The LiftKit UI is a framework designed for perfectionists.
 - [Billing SDK](https://billingsdk.com) - Type-safe billing and subscription components (pricing tables, usage meters, plan upgrade flows) for React, built with TypeScript, Tailwind CSS, and shadcn/ui.
+- [OTF UI SDK](https://otf-kit.dev/components?utm_source=directory&utm_medium=organic&utm_campaign=first-sale-14d-20261016&utm_content=2026-10-18-awesome-nextjs-ui-sdk) ([source](https://github.com/otf-kit/sdk)) - Free MIT UI packages for web and native with shared component names and design tokens; the web package includes a Next.js setup.
 
 ## Shadcn UI
 
