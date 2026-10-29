@@ -330,6 +330,7 @@ If you find this list useful, please consider [sponsoring](https://github.com/sp
 - [theSVG](https://www.thesvg.org) - Free brand SVG icons for developers, designers, and teams. Use them in any project, no attribution required.
 - [Developer icons](https://github.com/xandemon/developer-icons) - A collection of well-optimized SVG tech logos for developers and designers—customizable, scalable, and free.
 - [Logos](https://logos.lndev.me) - Discover 14,790 free SVG logos for apps, dev tools, and tech brands. Easily search, filter by category, and download or copy with a single click.
+- [Aria Icons](https://github.com/LeulAria/Aria-Icons) - Search 1.4M open-source SVG icons and add them as SVG or React components via CLI or MCP.
 
 ## Static Search library
 
