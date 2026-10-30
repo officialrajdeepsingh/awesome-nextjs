@@ -171,6 +171,7 @@ If you find this list useful, please consider [sponsoring](https://github.com/sp
 - [Sitepins](https://sitepins.com/) - A content management system (CMS) for static site generators that makes it easier to manage websites built with tools like Astro, Next.js, and Hugo.
 - [Alinea CMS](https://alineacms.com) - Git-based, open-source headless CMS for Next.js that keeps content fully typed in your repository.
 - [OneEntry](https://oneentry.cloud/) - Headless CMS + e-commerce backend with a JavaScript SDK for building Next.js apps (products, pages, orders, users, attributes).
+- [ContioReach](https://contioreach.com/) - Headless CMS built for blogs, with a REST content API, publish webhooks for on-demand revalidation, and a free plan. [Next.js guide](https://contioreach.com/docs/frameworks/nextjs) · [Starter](https://github.com/contioreach/nextjs-starter-contioreach)
 
 ## Database
 
@@ -278,6 +279,8 @@ If you find this list useful, please consider [sponsoring](https://github.com/sp
 - [Fancy Components](https://www.fancycomponents.dev) - A collection of fun and quirky, ready-to-use components and microinteractions, and it's free and open source.
 - [Liftkit](https://www.chainlift.io/liftkit) - The LiftKit UI is a framework designed for perfectionists.
 - [Billing SDK](https://billingsdk.com) - Type-safe billing and subscription components (pricing tables, usage meters, plan upgrade flows) for React, built with TypeScript, Tailwind CSS, and shadcn/ui.
+- [OTF UI SDK](https://otf-kit.dev/components) ([source](https://github.com/otf-kit/sdk)) - Free MIT UI packages for web and native with shared component names and design tokens; the web package includes a Next.js setup.
+- [Glassy UI](https://glassyui.com) - Open-source glass components and a theme for shadcn/ui apps, installed as source with the shadcn CLI.
 
 ## Shadcn UI
 
@@ -330,6 +333,7 @@ If you find this list useful, please consider [sponsoring](https://github.com/sp
 - [theSVG](https://www.thesvg.org) - Free brand SVG icons for developers, designers, and teams. Use them in any project, no attribution required.
 - [Developer icons](https://github.com/xandemon/developer-icons) - A collection of well-optimized SVG tech logos for developers and designers—customizable, scalable, and free.
 - [Logos](https://logos.lndev.me) - Discover 14,790 free SVG logos for apps, dev tools, and tech brands. Easily search, filter by category, and download or copy with a single click.
+- [Aria Icons](https://github.com/LeulAria/Aria-Icons) - Search 1.4M open-source SVG icons and add them as SVG or React components via CLI or MCP.
 
 ## Static Search library
 
