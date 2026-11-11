@@ -281,6 +281,7 @@ If you find this list useful, please consider [sponsoring](https://github.com/sp
 - [Billing SDK](https://billingsdk.com) - Type-safe billing and subscription components (pricing tables, usage meters, plan upgrade flows) for React, built with TypeScript, Tailwind CSS, and shadcn/ui.
 - [OTF UI SDK](https://otf-kit.dev/components) ([source](https://github.com/otf-kit/sdk)) - Free MIT UI packages for web and native with shared component names and design tokens; the web package includes a Next.js setup.
 - [Glassy UI](https://glassyui.com) - Open-source glass components and a theme for shadcn/ui apps, installed as source with the shadcn CLI.
+- [Markstream React](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown renderer for React and Next.js AI chat interfaces, with Mermaid and KaTeX support.
 
 ## Shadcn UI
 
