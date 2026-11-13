@@ -155,6 +155,7 @@ If you find this list useful, please consider [sponsoring](https://github.com/sp
 - [Kostra](https://kostra.io) - Next.js SaaS boilerplate with authentication, Stripe billing, credit-based usage billing, admin dashboard, and full TypeScript.
 - [MailKite SaaS Starter](https://github.com/mailkite/saas-startup) - Production-ready Next.js 15 SaaS starter with self-contained authentication (Google/GitHub OAuth + email/password, no auth vendor), Stripe subscriptions, teams, PostgreSQL/Drizzle, and a dark-first UI.
 - [Full-Stack AI Agent Template](https://github.com/vstorm-co/full-stack-ai-agent-template) - Project generator for a Next.js frontend and FastAPI backend with an AI agent chat over WebSocket streaming, RAG, authentication, and Docker setup.
+- [supastack](https://supastack.dev) - Multi-platform SaaS starter kit for web (Next.js), mobile (Expo), desktop (Tauri) and browser extension (WXT) with auth, billing, teams and AI.
 
 ## Headless CMS
 
