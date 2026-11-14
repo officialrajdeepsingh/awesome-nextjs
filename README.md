@@ -227,6 +227,7 @@ If you find this list useful, please consider [sponsoring](https://github.com/sp
 ## Cache Handler
 
 [Next.js Turbo Redis Cache](https://github.com/trieb-work/Next.js-turbo-redis-cache) - Redis cache handler solution for Next.js App Router. Built for production-ready, large-scale projects with batch tag invalidation, request deduplication, in-memory caching, and efficient tag management.
+- [KVDock](https://github.com/zisam-glitch/kvdock) - Zero-dependency Next.js App Router incremental cache handler with multi-tier L1/L2 storage and single-flight stampede protection.
 
 ## State Management
 
