@@ -211,6 +211,7 @@ If you find this list useful, please consider [sponsoring](https://github.com/sp
 - [Formiz](https://formiz-react.com) - Build a React multi-step and complex validation form very easily with Formiz.
 - [TanStack Form](https://tanstack.com/form/latest) - The ultimate solution for handling forms in web applications.
 - [Minform](https://minform.io) - Collect form data effortlessly without writing code, and it's free.
+- [FCaptcha](https://github.com/WebDecoy/FCaptcha/tree/main/examples/nextjs) - Self-hosted CAPTCHA with a runnable App Router contact form and server-side token verification.
 
 ## Form Builder
 
