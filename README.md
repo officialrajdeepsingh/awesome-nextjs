@@ -239,6 +239,7 @@ If you find this list useful, please consider [sponsoring](https://github.com/sp
 - [State-in-url](https://github.com/asmyshlyaev177/state-in-url) - Share any complex state between unrelated components, sync it to the URL, TS-friendly.
 - [useS](https://use-s-react.christbm.dev) - The useS is a modern React hook for efficient local and global state management, offering clean, immutable, and scalable logic with no boilerplate.
 - [@plitzi/nexus](https://plitzi.github.io/plitzi-workspace/nexus) - A tiny, type-safe React store built on `useSyncExternalStore`.
+- [HyperFetch](https://github.com/BetterTyped/hyper-fetch) - Type-safe data fetching and server-state cache with React hooks, retries and SSR hydration for Next.js.
 
 ## Analytics
 
