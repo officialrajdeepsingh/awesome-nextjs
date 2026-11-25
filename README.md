@@ -126,6 +126,7 @@ If you find this list useful, please consider [sponsoring](https://github.com/sp
 - [Mintlify](https://mintlify.com) - Next.js-based platform for documentation sites. Beautiful out of the box, easy to maintain, and built to convert users.
 - [Docusaurus](https://docusaurus.io/) - A tool that enables teams and individuals to easily publish documentation websites.
 - [eziwiki](https://eziwiki.vercel.app/) - Documentation and wiki site generator with wiki links, backlinks and a graph view. Markdown is rendered at build time and exported as a static site.
+- [Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides.
 
 ## Next.js blog template
 
@@ -164,7 +165,7 @@ If you find this list useful, please consider [sponsoring](https://github.com/sp
 - [Strapi](https://strapi.io/) - Powerful open-source Node.js-based CMS suitable for small to large-scale websites.
 - [Ghost CMS](https://ghost.org/) - Popular open-source CMS for creating blogs, offering a simple, user-friendly API.
 - [Netlify CMS](https://github.com/decaporg/decap-cms) - Decap CMS(Netlify CMS) work with all type of static site generators. It permits users to edit, update, and delete content on any site built with a static generator. You can use Decap CMS without any technical knowledge.
-- [Forestry](https://forestry.io/) - Headless CMS that is easy to customize, configure, and integrate with all types of static site generators.
+
 - [Craft CMS](https://craftcms.com/) - Flexible, user-friendly CMS for creating the web.
 - [Payload CMS](https://payloadcms.com) - Build a modern backend admin UI with Payload CMS. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [Pages CMS](https://pagescms.org) - A user-friendly and no-hassle CMS for static site generators.
